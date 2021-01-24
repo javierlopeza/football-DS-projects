@@ -405,6 +405,7 @@ def probs_relegation(team, df_posicion, N_sim):
     print("Probs Abs", p_ult_abs, p_pen_abs, p_ant_abs)
     print("Probs Pon", p_ult_pon, p_pen_pon, p_ant_pon)
     
+    # Plot ponderada
     p_pos_pon = df_posicion[(df_posicion.Tabla == "Ponderada") &
             (df_posicion.Equipo == team)]["Posición"].value_counts().sort_index(ascending = False)*100/N_sim
 
@@ -413,34 +414,69 @@ def probs_relegation(team, df_posicion, N_sim):
     for value in p_pos_pon.index:
         if value == 18:
             bar_color.append("salmon")
-            legends.append(["Descenso Directo"])
         elif value in [16,17]:
             bar_color.append("orange")
-            legends.append(["Posible Liguilla"])
         else:
             bar_color.append("green")
-            legends.append(["Salvado"])
 
     plt.bar(p_pos_pon.index, p_pos_pon.values, color = bar_color)
 
     for index in p_pos_pon.index:
         value = p_pos_pon[index]
-        if (value > 1) & (index != 18) & (index >= 10):
-            plt.text(index - 0.4, value + 0.5, fontsize = 20, s = str(int(round(value)))+"%")
+        if (value > 1) & (index != 18) & (index >= 1):
+            plt.text(index - 0.4, value + 0.5, fontsize = 16, s = str(int(round(value)))+"%")
         if index == 18:
-            plt.text(index - 0.4, value + 0.5, fontsize = 20, s = str((round(value,1)))+"%")
+            plt.text(index - 0.4, value + 0.5, fontsize = 16, s = str((round(value,1)))+"%")
 
-    custom_lines = [Line2D([0], [0], color="r", lw=4),
+    custom_lines = [Line2D([0], [0], color="salmon", lw=4),
                     Line2D([0], [0], color="orange", lw=4),
                     Line2D([0], [0], color="green", lw=4)]
 
-    plt.legend(custom_lines, ['Descenso Directo', 'Posible Liguilla', 'No Desciende'], fontsize = 25)
+    plt.legend(custom_lines, ['Descenso Directo', 'Posible Liguilla', 'No Desciende'], fontsize = 16)
 
-    plt.xlabel("Posición", fontsize = 25)
-    plt.ylabel("% en Posición", fontsize = 25)
-    plt.xticks(fontsize = 20)
-    plt.yticks(fontsize = 20)
-    plt.title("Posición Final "+team+"- Tabla Ponderada", fontsize = 30)
-    plt.xlim(10,19)
+    plt.xlabel("Posición", fontsize = 16)
+    plt.ylabel("% en Posición", fontsize = 16)
+    plt.xticks(np.arange(-1, 19), fontsize = 16)
+    plt.yticks(fontsize = 16)
+    plt.title("Posición Final "+team+" - Tabla Ponderada", fontsize = 30)
+    plt.xlim(0.01,19)
     plt.ylim(0,max(p_pos_pon)*1.1)
+    plt.show()
+
+    # Plot absoluta
+    p_pos_abs = df_posicion[(df_posicion.Tabla == "Absoluta") &
+        (df_posicion.Equipo == team)]["Posición"].value_counts().sort_index(ascending = False)*100/N_sim
+
+    bar_color = []
+    legends = []
+    for value in p_pos_abs.index:
+        if value == 18:
+            bar_color.append("salmon")
+        elif value == 17:
+            bar_color.append("orange")
+        else:
+            bar_color.append("green")
+
+    plt.bar(p_pos_abs.index, p_pos_abs.values, color = bar_color)
+
+    for index in p_pos_abs.index:
+        value = p_pos_abs[index]
+        if (value > 1) & (index != 18) & (index >= 1):
+            plt.text(index - 0.4, value + 0.5, fontsize = 16, s = str(int(round(value)))+"%")
+        if index == 18:
+            plt.text(index - 0.4, value + 0.5, fontsize = 16, s = str((round(value,1)))+"%")
+
+    custom_lines = [Line2D([0], [0], color="salmon", lw=4),
+                    Line2D([0], [0], color="orange", lw=4),
+                    Line2D([0], [0], color="green", lw=4)]
+
+    plt.legend(custom_lines, ['Descenso Directo', 'Liguilla o Posible Descenso Directo', 'No Desciende'], fontsize = 16)
+
+    plt.xlabel("Posición", fontsize = 16)
+    plt.ylabel("% en Posición", fontsize = 16)
+    plt.xticks(np.arange(0,19), fontsize = 16)
+    plt.yticks(fontsize = 16)
+    plt.title("Posición Final "+team+" - Tabla 2020", fontsize = 30)
+    plt.xlim(0.01,19)
+    plt.ylim(0,max(p_pos_abs)*1.1)
     plt.show()
