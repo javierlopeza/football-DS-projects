@@ -1,4 +1,4 @@
-﻿Fecha,Local,Visita,GL,GV,Jugado
+Fecha,Local,Visita,GL,GV,Jugado
 1,Everton,Universidad de Concepción,2,1,1
 1,O'Higgins,Unión La Calera,1,2,1
 1,Antofagasta,Coquimbo Unido,2,1,1
@@ -213,8 +213,8 @@
 24,Audax Italiano,Antofagasta,3,0,1
 24,La Serena,Universidad de Chile,0,0,1
 24,Huachipato,Curicó Unido,1,0,1
-24,Cobresal,Unión La Calera,,,0
-24,Colo-Colo,Coquimbo Unido,,,0
+24,Cobresal,Unión La Calera,1,1,1
+24,Colo-Colo,Coquimbo Unido,2,1,1
 25,Universidad Católica,Colo-Colo,0,0,1
 25,Palestino,Audax Italiano,1,0,1
 25,Antofagasta,Santiago Wanderers,1,1,1
@@ -233,51 +233,51 @@
 26,Iquique,Palestino,0,2,1
 26,Cobresal,Universidad de Chile,2,0,1
 26,Universidad de Concepción,Everton,0,0,1
-27,Palestino,Curicó Unido,,,0
+27,Palestino,Curicó Unido,4,2,1
 27,O'Higgins,La Serena,1,1,1
 27,Everton,Iquique,1,0,1
-27,Universidad Católica,Huachipato,,,0
+27,Universidad Católica,Huachipato,3,0,1
 27,Unión La Calera,Santiago Wanderers,3,0,1
 27,Antofagasta,Colo-Colo,0,1,1
 27,Universidad de Chile,Universidad de Concepción,2,2,1
-27,Audax Italiano,Unión Española,,,0
+27,Audax Italiano,Unión Española,2,2,1
 27,Coquimbo Unido,Cobresal,,,0
 28,Unión Española,Coquimbo Unido,,,0
-28,Cobresal,Audax Italiano,,,0
-28,Curicó Unido,Antofagasta,,,0
-28,La Serena,Everton,,,0
-28,Universidad de Chile,O'Higgins,,,0
-28,Santiago Wanderers,Colo-Colo,,,0
-28,Huachipato,Unión La Calera,,,0
-28,Universidad de Concepción,Palestino,,,0
-28,Iquique,Universidad Católica,,,0
-29,O'Higgins,Iquique,,,0
-29,Unión La Calera,Universidad de Concepción,,,0
-29,Palestino,Unión Española,,,0
+28,Cobresal,Audax Italiano,1,2,1
+28,Curicó Unido,Antofagasta,2,0,1
+28,La Serena,Everton,1,1,1
+28,Universidad de Chile,O'Higgins,0,1,1
+28,Santiago Wanderers,Colo-Colo,3,0,1
+28,Huachipato,Unión La Calera,4,3,1
+28,Universidad de Concepción,Palestino,1,1,1
+28,Iquique,Universidad Católica,0,1,1
+29,O'Higgins,Iquique,2,2,1
+29,Unión La Calera,Universidad de Concepción,1,2,1
+29,Palestino,Unión Española,2,2,1
 29,Coquimbo Unido,Universidad de Chile,,,0
-29,Antofagasta,La Serena,,,0
-29,Universidad Católica,Curicó Unido,,,0
-29,Santiago Wanderers,Cobresal,,,0
-29,Audax Italiano,Huachipato,,,0
-29,Colo-Colo,Everton,,,0
-30,Curicó Unido,O'Higgins,,,0
+29,Antofagasta,La Serena,2,2,1
+29,Universidad Católica,Curicó Unido,1,1,1
+29,Santiago Wanderers,Cobresal,1,0,1
+29,Audax Italiano,Huachipato,2,0,1
+29,Colo-Colo,Everton,1,0,1
+30,Curicó Unido,O'Higgins,1,3,1
 30,Iquique,Coquimbo Unido,,,0
-30,Universidad de Concepción,Colo-Colo,,,0
-30,Everton,Audax Italiano,,,0
-30,La Serena,Unión La Calera,,,0
-30,Unión Española,Universidad Católica,,,0
-30,Universidad de Chile,Palestino,,,0
-30,Huachipato,Santiago Wanderers,,,0
-30,Cobresal,Antofagasta,,,0
-31,Colo-Colo,Universidad de Chile,,,0
-31,Huachipato,Unión Española,,,0
-31,Santiago Wanderers,La Serena,,,0
-31,Coquimbo Unido,Curicó Unido,,,0
-31,Audax Italiano,Unión La Calera,,,0
-31,Antofagasta,Iquique,,,0
-31,O'Higgins,Universidad de Concepción,,,0
-31,Universidad Católica,Everton,,,0
-31,Palestino,Cobresal,,,0
+30,Universidad de Concepción,Colo-Colo,1,1,1
+30,Everton,Audax Italiano,2,1,1
+30,La Serena,Unión La Calera,0,3,1
+30,Unión Española,Universidad Católica,1,1,1
+30,Universidad de Chile,Palestino,1,1,1
+30,Huachipato,Santiago Wanderers,4,0,1
+30,Cobresal,Antofagasta,3,1,1
+31,Colo-Colo,Universidad de Chile,0,0,1
+31,Huachipato,Unión Española,4,1,1
+31,Santiago Wanderers,La Serena,0,0,1
+31,Coquimbo Unido,Curicó Unido,0,0,1
+31,Audax Italiano,Unión La Calera,1,3,1
+31,Antofagasta,Iquique,3,1,1
+31,O'Higgins,Universidad de Concepción,0,0,1
+31,Universidad Católica,Everton,1,1,1
+31,Palestino,Cobresal,3,2,1
 32,Universidad de Chile,Unión Española,,,0
 32,Unión La Calera,Antofagasta,,,0
 32,O'Higgins,Audax Italiano,,,0

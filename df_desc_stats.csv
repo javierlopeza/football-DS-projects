@@ -1,0 +1,3001 @@
+,n_sim,Equipo,Desc,Motivo
+0,1,Colo-Colo,1,Último Absoluta
+1,1,Universidad de Concepción,2,Último Ponderada
+2,1,Iquique,3,Partido Pen Abs vs Pen Pon
+3,2,La Serena,1,Último Absoluta
+4,2,Universidad de Concepción,2,Último Ponderada
+5,2,Iquique,3,Partido Pen Abs vs Pen Pon
+6,3,Coquimbo Unido,1,Último Absoluta
+7,3,Universidad de Concepción,2,Último Ponderada
+8,3,Iquique,3,Partido Pen Abs vs Pen Pon
+9,4,Coquimbo Unido,1,Último Absoluta
+10,4,Universidad de Concepción,2,Último Ponderada
+11,4,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+12,5,Iquique,1,Último Absoluta
+13,5,Universidad de Concepción,2,Penúltimo Ponderada
+14,5,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+15,6,Iquique,1,Último Absoluta
+16,6,Universidad de Concepción,2,Penúltimo Ponderada
+17,6,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+18,7,Coquimbo Unido,1,Último Absoluta
+19,7,Universidad de Concepción,2,Último Ponderada
+20,7,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+21,8,Colo-Colo,1,Último Absoluta
+22,8,Universidad de Concepción,2,Último Ponderada
+23,8,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+24,9,Colo-Colo,1,Último Absoluta
+25,9,Universidad de Concepción,2,Último Ponderada
+26,9,La Serena,3,Partido Pen Abs vs Pen Pon
+27,10,Colo-Colo,1,Último Absoluta
+28,10,Universidad de Concepción,2,Último Ponderada
+29,10,Iquique,3,Partido Pen Abs vs Pen Pon
+30,11,Audax Italiano,1,Último Absoluta
+31,11,Universidad de Concepción,2,Último Ponderada
+32,11,Iquique,3,Partido Pen Abs vs Pen Pon
+33,12,Coquimbo Unido,1,Último Absoluta
+34,12,Universidad de Concepción,2,Último Ponderada
+35,12,Iquique,3,Partido Pen Abs vs Pen Pon
+36,13,Coquimbo Unido,1,Último Absoluta
+37,13,Universidad de Concepción,2,Último Ponderada
+38,13,La Serena,3,Partido Pen Abs vs Pen Pon
+39,14,Coquimbo Unido,1,Último Absoluta
+40,14,Universidad de Concepción,2,Último Ponderada
+41,14,Iquique,3,Partido Pen Abs vs Pen Pon
+42,15,Coquimbo Unido,1,Último Absoluta
+43,15,Universidad de Concepción,2,Último Ponderada
+44,15,Iquique,3,Partido Pen Abs vs Pen Pon
+45,16,Colo-Colo,1,Último Absoluta
+46,16,Universidad de Concepción,2,Último Ponderada
+47,16,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+48,17,Coquimbo Unido,1,Último Absoluta
+49,17,Iquique,2,Último Ponderada
+50,17,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+51,18,Iquique,1,Último Absoluta
+52,18,Universidad de Concepción,2,Último Ponderada
+53,18,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+54,19,Iquique,1,Último Absoluta
+55,19,Universidad de Concepción,2,Penúltimo Ponderada
+56,19,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+57,20,Coquimbo Unido,1,Último Absoluta
+58,20,Universidad de Concepción,2,Último Ponderada
+59,20,La Serena,3,Partido Pen Abs vs Pen Pon
+60,21,Coquimbo Unido,1,Último Absoluta
+61,21,Iquique,2,Último Ponderada
+62,21,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+63,22,Coquimbo Unido,1,Último Absoluta
+64,22,Universidad de Concepción,2,Último Ponderada
+65,22,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+66,23,Colo-Colo,1,Último Absoluta
+67,23,Universidad de Concepción,2,Último Ponderada
+68,23,La Serena,3,Partido Pen Abs vs Pen Pon
+69,24,Iquique,1,Último Absoluta
+70,24,Universidad de Concepción,2,Penúltimo Ponderada
+71,24,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+72,25,La Serena,1,Último Absoluta
+73,25,Universidad de Concepción,2,Último Ponderada
+74,25,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+75,26,Coquimbo Unido,1,Último Absoluta
+76,26,Iquique,2,Último Ponderada
+77,26,La Serena,3,Partido Ant Abs vs Pen Pon
+78,27,Coquimbo Unido,1,Último Absoluta
+79,27,Universidad de Concepción,2,Último Ponderada
+80,27,La Serena,3,Partido Pen Abs vs Pen Pon
+81,28,Iquique,1,Último Absoluta
+82,28,Universidad de Concepción,2,Penúltimo Ponderada
+83,28,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+84,29,Coquimbo Unido,1,Último Absoluta
+85,29,Universidad de Concepción,2,Último Ponderada
+86,29,Iquique,3,Partido Pen Abs vs Pen Pon
+87,30,Iquique,1,Último Absoluta
+88,30,Universidad de Concepción,2,Penúltimo Ponderada
+89,30,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+90,31,Iquique,1,Último Absoluta
+91,31,Universidad de Concepción,2,Penúltimo Ponderada
+92,31,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+93,32,Colo-Colo,1,Último Absoluta
+94,32,Universidad de Concepción,2,Último Ponderada
+95,32,Iquique,3,Partido Pen Abs vs Pen Pon
+96,33,Coquimbo Unido,1,Último Absoluta
+97,33,Iquique,2,Último Ponderada
+98,33,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+99,34,Coquimbo Unido,1,Último Absoluta
+100,34,Iquique,2,Último Ponderada
+101,34,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+102,35,Coquimbo Unido,1,Último Absoluta
+103,35,Universidad de Concepción,2,Último Ponderada
+104,35,Iquique,3,Partido Pen Abs vs Pen Pon
+105,36,Coquimbo Unido,1,Último Absoluta
+106,36,Iquique,2,Último Ponderada
+107,36,La Serena,3,Partido Ant Abs vs Pen Pon
+108,37,Coquimbo Unido,1,Último Absoluta
+109,37,Universidad de Concepción,2,Último Ponderada
+110,37,Iquique,3,Partido Pen Abs vs Pen Pon
+111,38,Coquimbo Unido,1,Último Absoluta
+112,38,Iquique,2,Último Ponderada
+113,38,La Serena,3,Partido Ant Abs vs Pen Pon
+114,39,Coquimbo Unido,1,Último Absoluta
+115,39,Universidad de Concepción,2,Último Ponderada
+116,39,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+117,40,Coquimbo Unido,1,Último Absoluta
+118,40,Universidad de Concepción,2,Último Ponderada
+119,40,Iquique,3,Partido Pen Abs vs Pen Pon
+120,41,La Serena,1,Último Absoluta
+121,41,Universidad de Concepción,2,Último Ponderada
+122,41,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+123,42,Iquique,1,Último Absoluta
+124,42,Universidad de Concepción,2,Penúltimo Ponderada
+125,42,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+126,43,Coquimbo Unido,1,Último Absoluta
+127,43,Universidad de Concepción,2,Último Ponderada
+128,43,Iquique,3,Partido Pen Abs vs Pen Pon
+129,44,Coquimbo Unido,1,Último Absoluta
+130,44,Universidad de Concepción,2,Último Ponderada
+131,44,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+132,45,Iquique,1,Último Absoluta
+133,45,Universidad de Concepción,2,Penúltimo Ponderada
+134,45,Antofagasta,3,Partido Pen Abs vs Ant Pon
+135,46,Colo-Colo,1,Último Absoluta
+136,46,Universidad de Concepción,2,Último Ponderada
+137,46,Iquique,3,Partido Pen Abs vs Pen Pon
+138,47,Coquimbo Unido,1,Último Absoluta
+139,47,Universidad de Concepción,2,Último Ponderada
+140,47,Iquique,3,Partido Pen Abs vs Pen Pon
+141,48,Coquimbo Unido,1,Último Absoluta
+142,48,Iquique,2,Último Ponderada
+143,48,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+144,49,Coquimbo Unido,1,Último Absoluta
+145,49,Universidad de Concepción,2,Último Ponderada
+146,49,Iquique,3,Partido Pen Abs vs Pen Pon
+147,50,Coquimbo Unido,1,Último Absoluta
+148,50,Universidad de Concepción,2,Último Ponderada
+149,50,Iquique,3,Partido Pen Abs vs Pen Pon
+150,51,Iquique,1,Último Absoluta
+151,51,Universidad de Concepción,2,Penúltimo Ponderada
+152,51,Antofagasta,3,Partido Pen Abs vs Ant Pon
+153,52,Coquimbo Unido,1,Último Absoluta
+154,52,Iquique,2,Último Ponderada
+155,52,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+156,53,Coquimbo Unido,1,Último Absoluta
+157,53,Universidad de Concepción,2,Último Ponderada
+158,53,Iquique,3,Partido Pen Abs vs Pen Pon
+159,54,Coquimbo Unido,1,Último Absoluta
+160,54,Universidad de Concepción,2,Último Ponderada
+161,54,Iquique,3,Partido Pen Abs vs Pen Pon
+162,55,Iquique,1,Último Absoluta
+163,55,Universidad de Concepción,2,Penúltimo Ponderada
+164,55,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+165,56,Coquimbo Unido,1,Último Absoluta
+166,56,Iquique,2,Último Ponderada
+167,56,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+168,57,Iquique,1,Último Absoluta
+169,57,Universidad de Concepción,2,Penúltimo Ponderada
+170,57,Antofagasta,3,Partido Pen Abs vs Ant Pon
+171,58,Iquique,1,Último Absoluta
+172,58,Universidad de Concepción,2,Penúltimo Ponderada
+173,58,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+174,59,Iquique,1,Último Absoluta
+175,59,Universidad de Concepción,2,Penúltimo Ponderada
+176,59,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+177,60,Coquimbo Unido,1,Último Absoluta
+178,60,Universidad de Concepción,2,Último Ponderada
+179,60,Iquique,3,Partido Pen Abs vs Pen Pon
+180,61,Iquique,1,Último Absoluta
+181,61,Universidad de Concepción,2,Penúltimo Ponderada
+182,61,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+183,62,Coquimbo Unido,1,Último Absoluta
+184,62,Universidad de Concepción,2,Último Ponderada
+185,62,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+186,63,Coquimbo Unido,1,Último Absoluta
+187,63,Universidad de Concepción,2,Último Ponderada
+188,63,Iquique,3,Partido Pen Abs vs Pen Pon
+189,64,Iquique,1,Último Absoluta
+190,64,Universidad de Concepción,2,Penúltimo Ponderada
+191,64,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+192,65,Coquimbo Unido,1,Último Absoluta
+193,65,Universidad de Concepción,2,Último Ponderada
+194,65,Iquique,3,Partido Pen Abs vs Pen Pon
+195,66,Coquimbo Unido,1,Último Absoluta
+196,66,Iquique,2,Último Ponderada
+197,66,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+198,67,Iquique,1,Último Absoluta
+199,67,Universidad de Concepción,2,Penúltimo Ponderada
+200,67,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+201,68,Coquimbo Unido,1,Último Absoluta
+202,68,Iquique,2,Último Ponderada
+203,68,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+204,69,Coquimbo Unido,1,Último Absoluta
+205,69,Universidad de Concepción,2,Último Ponderada
+206,69,Iquique,3,Partido Pen Abs vs Pen Pon
+207,70,Coquimbo Unido,1,Último Absoluta
+208,70,Universidad de Concepción,2,Último Ponderada
+209,70,Iquique,3,Partido Pen Abs vs Pen Pon
+210,71,Iquique,1,Último Absoluta
+211,71,Universidad de Concepción,2,Penúltimo Ponderada
+212,71,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+213,72,Colo-Colo,1,Último Absoluta
+214,72,Universidad de Concepción,2,Último Ponderada
+215,72,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+216,73,Coquimbo Unido,1,Último Absoluta
+217,73,Universidad de Concepción,2,Último Ponderada
+218,73,Iquique,3,Partido Ant Abs vs Pen Pon
+219,74,Coquimbo Unido,1,Último Absoluta
+220,74,Universidad de Concepción,2,Último Ponderada
+221,74,Iquique,3,Partido Pen Abs vs Pen Pon
+222,75,Coquimbo Unido,1,Último Absoluta
+223,75,Universidad de Concepción,2,Último Ponderada
+224,75,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+225,76,Coquimbo Unido,1,Último Absoluta
+226,76,Universidad de Concepción,2,Último Ponderada
+227,76,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+228,77,Coquimbo Unido,1,Último Absoluta
+229,77,Universidad de Concepción,2,Último Ponderada
+230,77,Iquique,3,Partido Pen Abs vs Pen Pon
+231,78,Coquimbo Unido,1,Último Absoluta
+232,78,Iquique,2,Último Ponderada
+233,78,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+234,79,Colo-Colo,1,Último Absoluta
+235,79,Universidad de Concepción,2,Último Ponderada
+236,79,Iquique,3,Partido Pen Abs vs Pen Pon
+237,80,Iquique,1,Último Absoluta
+238,80,Universidad de Concepción,2,Penúltimo Ponderada
+239,80,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+240,81,Coquimbo Unido,1,Último Absoluta
+241,81,Universidad de Concepción,2,Último Ponderada
+242,81,Iquique,3,Partido Pen Abs vs Pen Pon
+243,82,Coquimbo Unido,1,Último Absoluta
+244,82,Universidad de Concepción,2,Último Ponderada
+245,82,Iquique,3,Partido Pen Abs vs Pen Pon
+246,83,Coquimbo Unido,1,Último Absoluta
+247,83,Universidad de Concepción,2,Último Ponderada
+248,83,Iquique,3,Partido Pen Abs vs Pen Pon
+249,84,Iquique,1,Último Absoluta
+250,84,Universidad de Concepción,2,Penúltimo Ponderada
+251,84,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+252,85,Colo-Colo,1,Último Absoluta
+253,85,Universidad de Concepción,2,Último Ponderada
+254,85,Iquique,3,Partido Ant Abs vs Pen Pon
+255,86,Coquimbo Unido,1,Último Absoluta
+256,86,Universidad de Concepción,2,Último Ponderada
+257,86,Iquique,3,Partido Pen Abs vs Pen Pon
+258,87,Iquique,1,Último Absoluta
+259,87,Universidad de Concepción,2,Penúltimo Ponderada
+260,87,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+261,88,Coquimbo Unido,1,Último Absoluta
+262,88,Universidad de Concepción,2,Último Ponderada
+263,88,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+264,89,Coquimbo Unido,1,Último Absoluta
+265,89,Iquique,2,Último Ponderada
+266,89,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+267,90,Iquique,1,Último Absoluta
+268,90,Universidad de Concepción,2,Penúltimo Ponderada
+269,90,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+270,91,Coquimbo Unido,1,Último Absoluta
+271,91,Universidad de Concepción,2,Último Ponderada
+272,91,Iquique,3,Partido Pen Abs vs Pen Pon
+273,92,Colo-Colo,1,Último Absoluta
+274,92,Universidad de Concepción,2,Último Ponderada
+275,92,Iquique,3,Partido Pen Abs vs Pen Pon
+276,93,Audax Italiano,1,Último Absoluta
+277,93,Universidad de Concepción,2,Último Ponderada
+278,93,Iquique,3,Partido Pen Abs vs Pen Pon
+279,94,Colo-Colo,1,Último Absoluta
+280,94,Universidad de Concepción,2,Último Ponderada
+281,94,Iquique,3,Partido Pen Abs vs Pen Pon
+282,95,Iquique,1,Último Absoluta
+283,95,Universidad de Concepción,2,Penúltimo Ponderada
+284,95,Antofagasta,3,Partido Pen Abs vs Ant Pon
+285,96,Iquique,1,Último Absoluta
+286,96,Universidad de Concepción,2,Penúltimo Ponderada
+287,96,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+288,97,Iquique,1,Último Absoluta
+289,97,Universidad de Concepción,2,Penúltimo Ponderada
+290,97,Antofagasta,3,Partido Pen Abs vs Ant Pon
+291,98,Iquique,1,Último Absoluta
+292,98,Universidad de Concepción,2,Penúltimo Ponderada
+293,98,La Serena,3,Partido Pen Abs vs Ant Pon
+294,99,Colo-Colo,1,Último Absoluta
+295,99,Universidad de Concepción,2,Último Ponderada
+296,99,Iquique,3,Partido Pen Abs vs Pen Pon
+297,100,Iquique,1,Último Absoluta
+298,100,Universidad de Concepción,2,Penúltimo Ponderada
+299,100,La Serena,3,Partido Pen Abs vs Ant Pon
+300,101,Coquimbo Unido,1,Último Absoluta
+301,101,Universidad de Concepción,2,Último Ponderada
+302,101,Iquique,3,Partido Pen Abs vs Pen Pon
+303,102,Coquimbo Unido,1,Último Absoluta
+304,102,Iquique,2,Último Ponderada
+305,102,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+306,103,Iquique,1,Último Absoluta
+307,103,Universidad de Concepción,2,Penúltimo Ponderada
+308,103,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+309,104,Iquique,1,Último Absoluta
+310,104,Universidad de Concepción,2,Penúltimo Ponderada
+311,104,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+312,105,Iquique,1,Último Absoluta
+313,105,Universidad de Concepción,2,Penúltimo Ponderada
+314,105,Everton,3,Partido Pen Abs vs Ant Pon
+315,106,Iquique,1,Último Absoluta
+316,106,Universidad de Concepción,2,Penúltimo Ponderada
+317,106,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+318,107,Iquique,1,Último Absoluta
+319,107,Universidad de Concepción,2,Penúltimo Ponderada
+320,107,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+321,108,Iquique,1,Último Absoluta
+322,108,Universidad de Concepción,2,Último Ponderada
+323,108,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+324,109,Coquimbo Unido,1,Último Absoluta
+325,109,Universidad de Concepción,2,Último Ponderada
+326,109,Iquique,3,Partido Pen Abs vs Pen Pon
+327,110,Iquique,1,Último Absoluta
+328,110,Universidad de Concepción,2,Penúltimo Ponderada
+329,110,Antofagasta,3,Partido Pen Abs vs Ant Pon
+330,111,Iquique,1,Último Absoluta
+331,111,Universidad de Concepción,2,Penúltimo Ponderada
+332,111,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+333,112,Coquimbo Unido,1,Último Absoluta
+334,112,Universidad de Concepción,2,Último Ponderada
+335,112,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+336,113,Coquimbo Unido,1,Último Absoluta
+337,113,Universidad de Concepción,2,Último Ponderada
+338,113,Iquique,3,Partido Pen Abs vs Pen Pon
+339,114,Coquimbo Unido,1,Último Absoluta
+340,114,Universidad de Concepción,2,Último Ponderada
+341,114,Iquique,3,Partido Pen Abs vs Pen Pon
+342,115,Coquimbo Unido,1,Último Absoluta
+343,115,Universidad de Concepción,2,Último Ponderada
+344,115,Iquique,3,Partido Pen Abs vs Pen Pon
+345,116,Coquimbo Unido,1,Último Absoluta
+346,116,Universidad de Concepción,2,Último Ponderada
+347,116,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+348,117,Coquimbo Unido,1,Último Absoluta
+349,117,Iquique,2,Último Ponderada
+350,117,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+351,118,Iquique,1,Último Absoluta
+352,118,Universidad de Concepción,2,Penúltimo Ponderada
+353,118,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+354,119,Colo-Colo,1,Último Absoluta
+355,119,Iquique,2,Último Ponderada
+356,119,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+357,120,Iquique,1,Último Absoluta
+358,120,Universidad de Concepción,2,Último Ponderada
+359,120,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+360,121,Iquique,1,Último Absoluta
+361,121,Universidad de Concepción,2,Penúltimo Ponderada
+362,121,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+363,122,Coquimbo Unido,1,Último Absoluta
+364,122,Iquique,2,Último Ponderada
+365,122,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+366,123,Coquimbo Unido,1,Último Absoluta
+367,123,Iquique,2,Último Ponderada
+368,123,La Serena,3,Partido Ant Abs vs Pen Pon
+369,124,Coquimbo Unido,1,Último Absoluta
+370,124,Universidad de Concepción,2,Último Ponderada
+371,124,Iquique,3,Partido Pen Abs vs Pen Pon
+372,125,Coquimbo Unido,1,Último Absoluta
+373,125,Iquique,2,Último Ponderada
+374,125,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+375,126,Colo-Colo,1,Último Absoluta
+376,126,Universidad de Concepción,2,Último Ponderada
+377,126,Iquique,3,Partido Pen Abs vs Pen Pon
+378,127,Coquimbo Unido,1,Último Absoluta
+379,127,Iquique,2,Último Ponderada
+380,127,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+381,128,Iquique,1,Último Absoluta
+382,128,Universidad de Concepción,2,Penúltimo Ponderada
+383,128,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+384,129,La Serena,1,Último Absoluta
+385,129,Iquique,2,Último Ponderada
+386,129,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+387,130,Colo-Colo,1,Último Absoluta
+388,130,Universidad de Concepción,2,Último Ponderada
+389,130,Iquique,3,Partido Pen Abs vs Pen Pon
+390,131,Colo-Colo,1,Último Absoluta
+391,131,Universidad de Concepción,2,Último Ponderada
+392,131,Iquique,3,Partido Pen Abs vs Pen Pon
+393,132,Iquique,1,Último Absoluta
+394,132,Universidad de Concepción,2,Último Ponderada
+395,132,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+396,133,Coquimbo Unido,1,Último Absoluta
+397,133,Iquique,2,Último Ponderada
+398,133,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+399,134,Coquimbo Unido,1,Último Absoluta
+400,134,Universidad de Concepción,2,Último Ponderada
+401,134,Iquique,3,Partido Pen Abs vs Pen Pon
+402,135,Iquique,1,Último Absoluta
+403,135,Universidad de Concepción,2,Último Ponderada
+404,135,Antofagasta,3,Partido Ant Abs vs Ant Pon
+405,136,Iquique,1,Último Absoluta
+406,136,Universidad de Concepción,2,Penúltimo Ponderada
+407,136,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+408,137,Coquimbo Unido,1,Último Absoluta
+409,137,Iquique,2,Último Ponderada
+410,137,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+411,138,Coquimbo Unido,1,Último Absoluta
+412,138,Iquique,2,Último Ponderada
+413,138,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+414,139,Coquimbo Unido,1,Último Absoluta
+415,139,Universidad de Concepción,2,Último Ponderada
+416,139,Iquique,3,Partido Pen Abs vs Pen Pon
+417,140,Iquique,1,Último Absoluta
+418,140,Universidad de Concepción,2,Penúltimo Ponderada
+419,140,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+420,141,Colo-Colo,1,Último Absoluta
+421,141,Universidad de Concepción,2,Último Ponderada
+422,141,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+423,142,Coquimbo Unido,1,Último Absoluta
+424,142,Universidad de Concepción,2,Último Ponderada
+425,142,Iquique,3,Partido Pen Abs vs Pen Pon
+426,143,Iquique,1,Último Absoluta
+427,143,Universidad de Concepción,2,Penúltimo Ponderada
+428,143,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+429,144,Coquimbo Unido,1,Último Absoluta
+430,144,Universidad de Concepción,2,Último Ponderada
+431,144,Iquique,3,Partido Pen Abs vs Pen Pon
+432,145,Coquimbo Unido,1,Último Absoluta
+433,145,Universidad de Concepción,2,Último Ponderada
+434,145,Iquique,3,Partido Pen Abs vs Pen Pon
+435,146,Iquique,1,Último Absoluta
+436,146,Universidad de Concepción,2,Penúltimo Ponderada
+437,146,Everton,3,Partido Pen Abs vs Ant Pon
+438,147,Colo-Colo,1,Último Absoluta
+439,147,Universidad de Concepción,2,Último Ponderada
+440,147,Iquique,3,Partido Pen Abs vs Pen Pon
+441,148,Iquique,1,Último Absoluta
+442,148,Universidad de Concepción,2,Último Ponderada
+443,148,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+444,149,Iquique,1,Último Absoluta
+445,149,Universidad de Concepción,2,Último Ponderada
+446,149,La Serena,3,Partido Pen Abs vs Ant Pon
+447,150,Iquique,1,Último Absoluta
+448,150,Universidad de Concepción,2,Penúltimo Ponderada
+449,150,La Serena,3,Penúltimo Absoluta
+450,151,Iquique,1,Último Absoluta
+451,151,Universidad de Concepción,2,Último Ponderada
+452,151,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+453,152,Colo-Colo,1,Último Absoluta
+454,152,Universidad de Concepción,2,Último Ponderada
+455,152,Iquique,3,Partido Ant Abs vs Pen Pon
+456,153,Colo-Colo,1,Último Absoluta
+457,153,Iquique,2,Último Ponderada
+458,153,La Serena,3,Partido Ant Abs vs Pen Pon
+459,154,Iquique,1,Último Absoluta
+460,154,Universidad de Concepción,2,Penúltimo Ponderada
+461,154,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+462,155,Coquimbo Unido,1,Último Absoluta
+463,155,Iquique,2,Último Ponderada
+464,155,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+465,156,Iquique,1,Último Absoluta
+466,156,Universidad de Concepción,2,Penúltimo Ponderada
+467,156,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+468,157,Colo-Colo,1,Último Absoluta
+469,157,Universidad de Concepción,2,Último Ponderada
+470,157,Iquique,3,Partido Pen Abs vs Pen Pon
+471,158,Coquimbo Unido,1,Último Absoluta
+472,158,Universidad de Concepción,2,Último Ponderada
+473,158,Iquique,3,Partido Pen Abs vs Pen Pon
+474,159,Coquimbo Unido,1,Último Absoluta
+475,159,Universidad de Concepción,2,Último Ponderada
+476,159,Iquique,3,Partido Pen Abs vs Pen Pon
+477,160,Coquimbo Unido,1,Último Absoluta
+478,160,Universidad de Concepción,2,Último Ponderada
+479,160,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+480,161,Iquique,1,Último Absoluta
+481,161,Universidad de Concepción,2,Último Ponderada
+482,161,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+483,162,Colo-Colo,1,Último Absoluta
+484,162,Universidad de Concepción,2,Último Ponderada
+485,162,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+486,163,Colo-Colo,1,Último Absoluta
+487,163,Universidad de Concepción,2,Último Ponderada
+488,163,Iquique,3,Partido Pen Abs vs Pen Pon
+489,164,Coquimbo Unido,1,Último Absoluta
+490,164,Iquique,2,Último Ponderada
+491,164,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+492,165,Iquique,1,Último Absoluta
+493,165,Universidad de Concepción,2,Último Ponderada
+494,165,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+495,166,Coquimbo Unido,1,Último Absoluta
+496,166,Iquique,2,Último Ponderada
+497,166,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+498,167,Coquimbo Unido,1,Último Absoluta
+499,167,Iquique,2,Último Ponderada
+500,167,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+501,168,Colo-Colo,1,Último Absoluta
+502,168,Iquique,2,Último Ponderada
+503,168,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+504,169,Coquimbo Unido,1,Último Absoluta
+505,169,Universidad de Concepción,2,Último Ponderada
+506,169,Iquique,3,Partido Pen Abs vs Pen Pon
+507,170,Iquique,1,Último Absoluta
+508,170,Universidad de Concepción,2,Penúltimo Ponderada
+509,170,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+510,171,Iquique,1,Último Absoluta
+511,171,Universidad de Concepción,2,Penúltimo Ponderada
+512,171,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+513,172,Coquimbo Unido,1,Último Absoluta
+514,172,Universidad de Concepción,2,Último Ponderada
+515,172,Iquique,3,Partido Pen Abs vs Pen Pon
+516,173,Iquique,1,Último Absoluta
+517,173,Universidad de Concepción,2,Penúltimo Ponderada
+518,173,Antofagasta,3,Partido Pen Abs vs Ant Pon
+519,174,Coquimbo Unido,1,Último Absoluta
+520,174,Universidad de Concepción,2,Último Ponderada
+521,174,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+522,175,Coquimbo Unido,1,Último Absoluta
+523,175,Universidad de Concepción,2,Último Ponderada
+524,175,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+525,176,Iquique,1,Último Absoluta
+526,176,Universidad de Concepción,2,Último Ponderada
+527,176,Audax Italiano,3,Partido Pen Abs vs Ant Pon
+528,177,La Serena,1,Último Absoluta
+529,177,Universidad de Concepción,2,Último Ponderada
+530,177,Iquique,3,Partido Pen Abs vs Ant Pon
+531,178,Coquimbo Unido,1,Último Absoluta
+532,178,Iquique,2,Último Ponderada
+533,178,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+534,179,Iquique,1,Último Absoluta
+535,179,Universidad de Concepción,2,Penúltimo Ponderada
+536,179,Everton,3,Partido Pen Abs vs Ant Pon
+537,180,Coquimbo Unido,1,Último Absoluta
+538,180,Universidad de Concepción,2,Último Ponderada
+539,180,Iquique,3,Partido Pen Abs vs Pen Pon
+540,181,Iquique,1,Último Absoluta
+541,181,Universidad de Concepción,2,Penúltimo Ponderada
+542,181,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+543,182,Iquique,1,Último Absoluta
+544,182,Universidad de Concepción,2,Penúltimo Ponderada
+545,182,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+546,183,Coquimbo Unido,1,Último Absoluta
+547,183,Iquique,2,Último Ponderada
+548,183,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+549,184,Coquimbo Unido,1,Último Absoluta
+550,184,Iquique,2,Último Ponderada
+551,184,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+552,185,Coquimbo Unido,1,Último Absoluta
+553,185,Iquique,2,Último Ponderada
+554,185,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+555,186,Iquique,1,Último Absoluta
+556,186,Universidad de Concepción,2,Penúltimo Ponderada
+557,186,Everton,3,Partido Ant Abs vs Ant Pon
+558,187,Coquimbo Unido,1,Último Absoluta
+559,187,Universidad de Concepción,2,Último Ponderada
+560,187,Iquique,3,Partido Pen Abs vs Pen Pon
+561,188,Coquimbo Unido,1,Último Absoluta
+562,188,Universidad de Concepción,2,Último Ponderada
+563,188,Iquique,3,Partido Pen Abs vs Pen Pon
+564,189,Coquimbo Unido,1,Último Absoluta
+565,189,Iquique,2,Último Ponderada
+566,189,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+567,190,Coquimbo Unido,1,Último Absoluta
+568,190,Universidad de Concepción,2,Último Ponderada
+569,190,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+570,191,Coquimbo Unido,1,Último Absoluta
+571,191,Universidad de Concepción,2,Último Ponderada
+572,191,Iquique,3,Partido Pen Abs vs Pen Pon
+573,192,Iquique,1,Último Absoluta
+574,192,Universidad de Concepción,2,Penúltimo Ponderada
+575,192,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+576,193,Iquique,1,Último Absoluta
+577,193,Universidad de Concepción,2,Penúltimo Ponderada
+578,193,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+579,194,Iquique,1,Último Absoluta
+580,194,Universidad de Concepción,2,Penúltimo Ponderada
+581,194,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+582,195,Coquimbo Unido,1,Último Absoluta
+583,195,Universidad de Concepción,2,Último Ponderada
+584,195,Iquique,3,Partido Pen Abs vs Pen Pon
+585,196,Colo-Colo,1,Último Absoluta
+586,196,Universidad de Concepción,2,Último Ponderada
+587,196,Iquique,3,Partido Pen Abs vs Pen Pon
+588,197,Iquique,1,Último Absoluta
+589,197,Universidad de Concepción,2,Penúltimo Ponderada
+590,197,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+591,198,Coquimbo Unido,1,Último Absoluta
+592,198,Universidad de Concepción,2,Último Ponderada
+593,198,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+594,199,Coquimbo Unido,1,Último Absoluta
+595,199,Iquique,2,Último Ponderada
+596,199,La Serena,3,Partido Pen Abs vs Pen Pon
+597,200,Iquique,1,Último Absoluta
+598,200,Universidad de Concepción,2,Penúltimo Ponderada
+599,200,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+600,201,Colo-Colo,1,Último Absoluta
+601,201,Iquique,2,Último Ponderada
+602,201,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+603,202,Iquique,1,Último Absoluta
+604,202,Universidad de Concepción,2,Penúltimo Ponderada
+605,202,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+606,203,Coquimbo Unido,1,Último Absoluta
+607,203,Universidad de Concepción,2,Último Ponderada
+608,203,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+609,204,Coquimbo Unido,1,Último Absoluta
+610,204,Universidad de Concepción,2,Último Ponderada
+611,204,La Serena,3,Partido Pen Abs vs Pen Pon
+612,205,Coquimbo Unido,1,Último Absoluta
+613,205,Universidad de Concepción,2,Último Ponderada
+614,205,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+615,206,La Serena,1,Último Absoluta
+616,206,Universidad de Concepción,2,Último Ponderada
+617,206,Iquique,3,Partido Pen Abs vs Pen Pon
+618,207,Coquimbo Unido,1,Último Absoluta
+619,207,Universidad de Concepción,2,Último Ponderada
+620,207,Iquique,3,Partido Pen Abs vs Pen Pon
+621,208,Coquimbo Unido,1,Último Absoluta
+622,208,Universidad de Concepción,2,Último Ponderada
+623,208,Iquique,3,Partido Pen Abs vs Pen Pon
+624,209,Coquimbo Unido,1,Último Absoluta
+625,209,Universidad de Concepción,2,Último Ponderada
+626,209,Iquique,3,Partido Pen Abs vs Pen Pon
+627,210,Iquique,1,Último Absoluta
+628,210,Universidad de Concepción,2,Penúltimo Ponderada
+629,210,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+630,211,Iquique,1,Último Absoluta
+631,211,Universidad de Concepción,2,Penúltimo Ponderada
+632,211,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+633,212,Coquimbo Unido,1,Último Absoluta
+634,212,Universidad de Concepción,2,Último Ponderada
+635,212,Iquique,3,Partido Pen Abs vs Pen Pon
+636,213,Coquimbo Unido,1,Último Absoluta
+637,213,Universidad de Concepción,2,Último Ponderada
+638,213,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+639,214,Colo-Colo,1,Último Absoluta
+640,214,Universidad de Concepción,2,Último Ponderada
+641,214,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+642,215,Coquimbo Unido,1,Último Absoluta
+643,215,Universidad de Concepción,2,Último Ponderada
+644,215,Iquique,3,Partido Pen Abs vs Pen Pon
+645,216,Colo-Colo,1,Último Absoluta
+646,216,Universidad de Concepción,2,Último Ponderada
+647,216,Iquique,3,Partido Pen Abs vs Pen Pon
+648,217,Colo-Colo,1,Último Absoluta
+649,217,Iquique,2,Último Ponderada
+650,217,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+651,218,Colo-Colo,1,Último Absoluta
+652,218,Universidad de Concepción,2,Último Ponderada
+653,218,Iquique,3,Partido Pen Abs vs Pen Pon
+654,219,Iquique,1,Último Absoluta
+655,219,Universidad de Concepción,2,Penúltimo Ponderada
+656,219,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+657,220,Coquimbo Unido,1,Último Absoluta
+658,220,Universidad de Concepción,2,Último Ponderada
+659,220,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+660,221,Iquique,1,Último Absoluta
+661,221,Universidad de Concepción,2,Penúltimo Ponderada
+662,221,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+663,222,Coquimbo Unido,1,Último Absoluta
+664,222,Iquique,2,Último Ponderada
+665,222,La Serena,3,Partido Ant Abs vs Pen Pon
+666,223,Iquique,1,Último Absoluta
+667,223,Universidad de Concepción,2,Penúltimo Ponderada
+668,223,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+669,224,Iquique,1,Último Absoluta
+670,224,Universidad de Concepción,2,Penúltimo Ponderada
+671,224,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+672,225,Coquimbo Unido,1,Último Absoluta
+673,225,Iquique,2,Último Ponderada
+674,225,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+675,226,Coquimbo Unido,1,Último Absoluta
+676,226,Universidad de Concepción,2,Último Ponderada
+677,226,Iquique,3,Partido Pen Abs vs Pen Pon
+678,227,Coquimbo Unido,1,Último Absoluta
+679,227,Universidad de Concepción,2,Último Ponderada
+680,227,Cobresal,3,Partido Pen Abs vs Pen Pon
+681,228,Coquimbo Unido,1,Último Absoluta
+682,228,Iquique,2,Último Ponderada
+683,228,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+684,229,Coquimbo Unido,1,Último Absoluta
+685,229,Universidad de Concepción,2,Último Ponderada
+686,229,Iquique,3,Partido Pen Abs vs Pen Pon
+687,230,Coquimbo Unido,1,Último Absoluta
+688,230,Universidad de Concepción,2,Último Ponderada
+689,230,Iquique,3,Partido Pen Abs vs Pen Pon
+690,231,Iquique,1,Último Absoluta
+691,231,Universidad de Concepción,2,Penúltimo Ponderada
+692,231,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+693,232,Coquimbo Unido,1,Último Absoluta
+694,232,Universidad de Concepción,2,Último Ponderada
+695,232,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+696,233,Iquique,1,Último Absoluta
+697,233,Universidad de Concepción,2,Penúltimo Ponderada
+698,233,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+699,234,Colo-Colo,1,Último Absoluta
+700,234,Universidad de Concepción,2,Último Ponderada
+701,234,Iquique,3,Partido Pen Abs vs Pen Pon
+702,235,Coquimbo Unido,1,Último Absoluta
+703,235,Universidad de Concepción,2,Último Ponderada
+704,235,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+705,236,Coquimbo Unido,1,Último Absoluta
+706,236,Universidad de Concepción,2,Último Ponderada
+707,236,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+708,237,Coquimbo Unido,1,Último Absoluta
+709,237,Iquique,2,Último Ponderada
+710,237,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+711,238,Coquimbo Unido,1,Último Absoluta
+712,238,Iquique,2,Último Ponderada
+713,238,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+714,239,Coquimbo Unido,1,Último Absoluta
+715,239,Universidad de Concepción,2,Último Ponderada
+716,239,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+717,240,Coquimbo Unido,1,Último Absoluta
+718,240,Universidad de Concepción,2,Último Ponderada
+719,240,La Serena,3,Partido Pen Abs vs Pen Pon
+720,241,Coquimbo Unido,1,Último Absoluta
+721,241,Universidad de Concepción,2,Último Ponderada
+722,241,Iquique,3,Partido Pen Abs vs Pen Pon
+723,242,Iquique,1,Último Absoluta
+724,242,Universidad de Concepción,2,Penúltimo Ponderada
+725,242,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+726,243,Iquique,1,Último Absoluta
+727,243,Universidad de Concepción,2,Penúltimo Ponderada
+728,243,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+729,244,Coquimbo Unido,1,Último Absoluta
+730,244,Universidad de Concepción,2,Último Ponderada
+731,244,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+732,245,Coquimbo Unido,1,Último Absoluta
+733,245,Universidad de Concepción,2,Último Ponderada
+734,245,Iquique,3,Partido Pen Abs vs Pen Pon
+735,246,Coquimbo Unido,1,Último Absoluta
+736,246,Universidad de Concepción,2,Último Ponderada
+737,246,Iquique,3,Partido Pen Abs vs Pen Pon
+738,247,Coquimbo Unido,1,Último Absoluta
+739,247,Universidad de Concepción,2,Último Ponderada
+740,247,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+741,248,Iquique,1,Último Absoluta
+742,248,Universidad de Concepción,2,Penúltimo Ponderada
+743,248,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+744,249,La Serena,1,Último Absoluta
+745,249,Universidad de Concepción,2,Último Ponderada
+746,249,Iquique,3,Partido Pen Abs vs Pen Pon
+747,250,Coquimbo Unido,1,Último Absoluta
+748,250,Universidad de Concepción,2,Último Ponderada
+749,250,Iquique,3,Partido Pen Abs vs Pen Pon
+750,251,Colo-Colo,1,Último Absoluta
+751,251,Universidad de Concepción,2,Último Ponderada
+752,251,Iquique,3,Partido Pen Abs vs Pen Pon
+753,252,Coquimbo Unido,1,Último Absoluta
+754,252,Universidad de Concepción,2,Último Ponderada
+755,252,Iquique,3,Partido Pen Abs vs Pen Pon
+756,253,Iquique,1,Último Absoluta
+757,253,Universidad de Concepción,2,Penúltimo Ponderada
+758,253,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+759,254,Coquimbo Unido,1,Último Absoluta
+760,254,Universidad de Concepción,2,Último Ponderada
+761,254,Iquique,3,Partido Pen Abs vs Pen Pon
+762,255,Coquimbo Unido,1,Último Absoluta
+763,255,Iquique,2,Último Ponderada
+764,255,La Serena,3,Partido Ant Abs vs Pen Pon
+765,256,Iquique,1,Último Absoluta
+766,256,Universidad de Concepción,2,Penúltimo Ponderada
+767,256,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+768,257,Coquimbo Unido,1,Último Absoluta
+769,257,Universidad de Concepción,2,Último Ponderada
+770,257,Iquique,3,Partido Pen Abs vs Pen Pon
+771,258,Coquimbo Unido,1,Último Absoluta
+772,258,Universidad de Concepción,2,Último Ponderada
+773,258,Iquique,3,Partido Pen Abs vs Pen Pon
+774,259,Iquique,1,Último Absoluta
+775,259,Universidad de Concepción,2,Penúltimo Ponderada
+776,259,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+777,260,Coquimbo Unido,1,Último Absoluta
+778,260,Iquique,2,Último Ponderada
+779,260,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+780,261,Iquique,1,Último Absoluta
+781,261,Universidad de Concepción,2,Penúltimo Ponderada
+782,261,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+783,262,Iquique,1,Último Absoluta
+784,262,Universidad de Concepción,2,Penúltimo Ponderada
+785,262,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+786,263,Coquimbo Unido,1,Último Absoluta
+787,263,Universidad de Concepción,2,Último Ponderada
+788,263,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+789,264,Coquimbo Unido,1,Último Absoluta
+790,264,Iquique,2,Último Ponderada
+791,264,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+792,265,Colo-Colo,1,Último Absoluta
+793,265,Universidad de Concepción,2,Último Ponderada
+794,265,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+795,266,Coquimbo Unido,1,Último Absoluta
+796,266,Iquique,2,Último Ponderada
+797,266,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+798,267,Coquimbo Unido,1,Último Absoluta
+799,267,Iquique,2,Último Ponderada
+800,267,La Serena,3,Partido Ant Abs vs Pen Pon
+801,268,Iquique,1,Último Absoluta
+802,268,Universidad de Concepción,2,Penúltimo Ponderada
+803,268,Everton,3,Partido Pen Abs vs Ant Pon
+804,269,Coquimbo Unido,1,Último Absoluta
+805,269,Universidad de Concepción,2,Último Ponderada
+806,269,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+807,270,Coquimbo Unido,1,Último Absoluta
+808,270,Iquique,2,Último Ponderada
+809,270,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+810,271,Coquimbo Unido,1,Último Absoluta
+811,271,Universidad de Concepción,2,Último Ponderada
+812,271,La Serena,3,Partido Pen Abs vs Pen Pon
+813,272,Colo-Colo,1,Último Absoluta
+814,272,Universidad de Concepción,2,Último Ponderada
+815,272,Iquique,3,Partido Pen Abs vs Pen Pon
+816,273,Colo-Colo,1,Último Absoluta
+817,273,Universidad de Concepción,2,Último Ponderada
+818,273,Iquique,3,Partido Pen Abs vs Pen Pon
+819,274,La Serena,1,Último Absoluta
+820,274,Universidad de Concepción,2,Último Ponderada
+821,274,Iquique,3,Partido Pen Abs vs Pen Pon
+822,275,Iquique,1,Último Absoluta
+823,275,Universidad de Concepción,2,Penúltimo Ponderada
+824,275,Antofagasta,3,Partido Pen Abs vs Ant Pon
+825,276,Coquimbo Unido,1,Último Absoluta
+826,276,Iquique,2,Último Ponderada
+827,276,La Serena,3,Partido Pen Abs vs Pen Pon
+828,277,Coquimbo Unido,1,Último Absoluta
+829,277,Universidad de Concepción,2,Último Ponderada
+830,277,Iquique,3,Partido Pen Abs vs Pen Pon
+831,278,Coquimbo Unido,1,Último Absoluta
+832,278,Universidad de Concepción,2,Último Ponderada
+833,278,Iquique,3,Partido Pen Abs vs Pen Pon
+834,279,Iquique,1,Último Absoluta
+835,279,Universidad de Concepción,2,Penúltimo Ponderada
+836,279,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+837,280,Iquique,1,Último Absoluta
+838,280,Universidad de Concepción,2,Penúltimo Ponderada
+839,280,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+840,281,Iquique,1,Último Absoluta
+841,281,Universidad de Concepción,2,Penúltimo Ponderada
+842,281,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+843,282,Iquique,1,Último Absoluta
+844,282,Universidad de Concepción,2,Último Ponderada
+845,282,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+846,283,Coquimbo Unido,1,Último Absoluta
+847,283,Iquique,2,Último Ponderada
+848,283,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+849,284,Coquimbo Unido,1,Último Absoluta
+850,284,Iquique,2,Último Ponderada
+851,284,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+852,285,Coquimbo Unido,1,Último Absoluta
+853,285,Universidad de Concepción,2,Último Ponderada
+854,285,Iquique,3,Partido Pen Abs vs Pen Pon
+855,286,Coquimbo Unido,1,Último Absoluta
+856,286,Universidad de Concepción,2,Último Ponderada
+857,286,Iquique,3,Partido Pen Abs vs Pen Pon
+858,287,Iquique,1,Último Absoluta
+859,287,Universidad de Concepción,2,Penúltimo Ponderada
+860,287,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+861,288,Coquimbo Unido,1,Último Absoluta
+862,288,Iquique,2,Último Ponderada
+863,288,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+864,289,Coquimbo Unido,1,Último Absoluta
+865,289,Universidad de Concepción,2,Último Ponderada
+866,289,Iquique,3,Partido Pen Abs vs Pen Pon
+867,290,Iquique,1,Último Absoluta
+868,290,Universidad de Concepción,2,Último Ponderada
+869,290,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+870,291,Iquique,1,Último Absoluta
+871,291,Universidad de Concepción,2,Último Ponderada
+872,291,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+873,292,Iquique,1,Último Absoluta
+874,292,Universidad de Concepción,2,Penúltimo Ponderada
+875,292,La Serena,3,Penúltimo Absoluta
+876,293,Iquique,1,Último Absoluta
+877,293,Universidad de Concepción,2,Penúltimo Ponderada
+878,293,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+879,294,Iquique,1,Último Absoluta
+880,294,Universidad de Concepción,2,Último Ponderada
+881,294,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+882,295,Coquimbo Unido,1,Último Absoluta
+883,295,Universidad de Concepción,2,Último Ponderada
+884,295,Iquique,3,Partido Pen Abs vs Pen Pon
+885,296,Iquique,1,Último Absoluta
+886,296,Universidad de Concepción,2,Penúltimo Ponderada
+887,296,La Serena,3,Penúltimo Absoluta
+888,297,Iquique,1,Último Absoluta
+889,297,Universidad de Concepción,2,Penúltimo Ponderada
+890,297,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+891,298,Coquimbo Unido,1,Último Absoluta
+892,298,Universidad de Concepción,2,Último Ponderada
+893,298,Iquique,3,Partido Pen Abs vs Pen Pon
+894,299,Colo-Colo,1,Último Absoluta
+895,299,Universidad de Concepción,2,Último Ponderada
+896,299,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+897,300,Coquimbo Unido,1,Último Absoluta
+898,300,Universidad de Concepción,2,Último Ponderada
+899,300,Iquique,3,Partido Pen Abs vs Pen Pon
+900,301,Coquimbo Unido,1,Último Absoluta
+901,301,Universidad de Concepción,2,Último Ponderada
+902,301,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+903,302,Coquimbo Unido,1,Último Absoluta
+904,302,Universidad de Concepción,2,Último Ponderada
+905,302,Iquique,3,Partido Pen Abs vs Pen Pon
+906,303,Coquimbo Unido,1,Último Absoluta
+907,303,Iquique,2,Último Ponderada
+908,303,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+909,304,Coquimbo Unido,1,Último Absoluta
+910,304,Universidad de Concepción,2,Último Ponderada
+911,304,Iquique,3,Partido Pen Abs vs Pen Pon
+912,305,Coquimbo Unido,1,Último Absoluta
+913,305,Universidad de Concepción,2,Último Ponderada
+914,305,La Serena,3,Partido Pen Abs vs Pen Pon
+915,306,Iquique,1,Último Absoluta
+916,306,Universidad de Concepción,2,Penúltimo Ponderada
+917,306,Everton,3,Partido Pen Abs vs Ant Pon
+918,307,Iquique,1,Último Absoluta
+919,307,Universidad de Concepción,2,Último Ponderada
+920,307,La Serena,3,Partido Pen Abs vs Ant Pon
+921,308,Colo-Colo,1,Último Absoluta
+922,308,Iquique,2,Último Ponderada
+923,308,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+924,309,Coquimbo Unido,1,Último Absoluta
+925,309,Iquique,2,Último Ponderada
+926,309,La Serena,3,Partido Ant Abs vs Pen Pon
+927,310,Coquimbo Unido,1,Último Absoluta
+928,310,Universidad de Concepción,2,Último Ponderada
+929,310,Iquique,3,Partido Pen Abs vs Pen Pon
+930,311,Coquimbo Unido,1,Último Absoluta
+931,311,Universidad de Concepción,2,Último Ponderada
+932,311,Iquique,3,Partido Pen Abs vs Pen Pon
+933,312,Iquique,1,Último Absoluta
+934,312,Universidad de Concepción,2,Penúltimo Ponderada
+935,312,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+936,313,Colo-Colo,1,Último Absoluta
+937,313,Universidad de Concepción,2,Último Ponderada
+938,313,La Serena,3,Partido Pen Abs vs Pen Pon
+939,314,Colo-Colo,1,Último Absoluta
+940,314,Universidad de Concepción,2,Último Ponderada
+941,314,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+942,315,Iquique,1,Último Absoluta
+943,315,Universidad de Concepción,2,Penúltimo Ponderada
+944,315,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+945,316,Coquimbo Unido,1,Último Absoluta
+946,316,Universidad de Concepción,2,Último Ponderada
+947,316,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+948,317,Coquimbo Unido,1,Último Absoluta
+949,317,Universidad de Concepción,2,Último Ponderada
+950,317,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+951,318,Coquimbo Unido,1,Último Absoluta
+952,318,Universidad de Concepción,2,Último Ponderada
+953,318,Iquique,3,Partido Pen Abs vs Pen Pon
+954,319,Iquique,1,Último Absoluta
+955,319,Universidad de Concepción,2,Último Ponderada
+956,319,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+957,320,Coquimbo Unido,1,Último Absoluta
+958,320,Universidad de Concepción,2,Último Ponderada
+959,320,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+960,321,Iquique,1,Último Absoluta
+961,321,Universidad de Concepción,2,Penúltimo Ponderada
+962,321,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+963,322,La Serena,1,Último Absoluta
+964,322,Universidad de Concepción,2,Último Ponderada
+965,322,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+966,323,Coquimbo Unido,1,Último Absoluta
+967,323,Iquique,2,Último Ponderada
+968,323,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+969,324,Coquimbo Unido,1,Último Absoluta
+970,324,Iquique,2,Último Ponderada
+971,324,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+972,325,Iquique,1,Último Absoluta
+973,325,Universidad de Concepción,2,Último Ponderada
+974,325,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+975,326,Iquique,1,Último Absoluta
+976,326,Universidad de Concepción,2,Penúltimo Ponderada
+977,326,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+978,327,Coquimbo Unido,1,Último Absoluta
+979,327,Universidad de Concepción,2,Último Ponderada
+980,327,Iquique,3,Partido Pen Abs vs Pen Pon
+981,328,Colo-Colo,1,Último Absoluta
+982,328,Iquique,2,Último Ponderada
+983,328,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+984,329,Coquimbo Unido,1,Último Absoluta
+985,329,Universidad de Concepción,2,Último Ponderada
+986,329,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+987,330,Coquimbo Unido,1,Último Absoluta
+988,330,Universidad de Concepción,2,Último Ponderada
+989,330,Iquique,3,Partido Pen Abs vs Pen Pon
+990,331,Coquimbo Unido,1,Último Absoluta
+991,331,Universidad de Concepción,2,Último Ponderada
+992,331,Iquique,3,Partido Pen Abs vs Pen Pon
+993,332,Coquimbo Unido,1,Último Absoluta
+994,332,Universidad de Concepción,2,Último Ponderada
+995,332,Iquique,3,Partido Pen Abs vs Pen Pon
+996,333,Coquimbo Unido,1,Último Absoluta
+997,333,Universidad de Concepción,2,Último Ponderada
+998,333,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+999,334,Coquimbo Unido,1,Último Absoluta
+1000,334,Iquique,2,Último Ponderada
+1001,334,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1002,335,Iquique,1,Último Absoluta
+1003,335,Universidad de Concepción,2,Penúltimo Ponderada
+1004,335,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1005,336,Iquique,1,Último Absoluta
+1006,336,Universidad de Concepción,2,Penúltimo Ponderada
+1007,336,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+1008,337,Colo-Colo,1,Último Absoluta
+1009,337,Universidad de Concepción,2,Último Ponderada
+1010,337,Iquique,3,Partido Pen Abs vs Pen Pon
+1011,338,Colo-Colo,1,Último Absoluta
+1012,338,Universidad de Concepción,2,Último Ponderada
+1013,338,Iquique,3,Partido Pen Abs vs Pen Pon
+1014,339,Coquimbo Unido,1,Último Absoluta
+1015,339,Universidad de Concepción,2,Último Ponderada
+1016,339,Iquique,3,Partido Pen Abs vs Pen Pon
+1017,340,Coquimbo Unido,1,Último Absoluta
+1018,340,Universidad de Concepción,2,Último Ponderada
+1019,340,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1020,341,Iquique,1,Último Absoluta
+1021,341,Universidad de Concepción,2,Penúltimo Ponderada
+1022,341,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+1023,342,Iquique,1,Último Absoluta
+1024,342,Universidad de Concepción,2,Penúltimo Ponderada
+1025,342,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+1026,343,Colo-Colo,1,Último Absoluta
+1027,343,Universidad de Concepción,2,Último Ponderada
+1028,343,Iquique,3,Partido Pen Abs vs Pen Pon
+1029,344,Iquique,1,Último Absoluta
+1030,344,Universidad de Concepción,2,Penúltimo Ponderada
+1031,344,Everton,3,Partido Pen Abs vs Ant Pon
+1032,345,Coquimbo Unido,1,Último Absoluta
+1033,345,Iquique,2,Último Ponderada
+1034,345,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1035,346,Iquique,1,Último Absoluta
+1036,346,Universidad de Concepción,2,Último Ponderada
+1037,346,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+1038,347,Colo-Colo,1,Último Absoluta
+1039,347,Universidad de Concepción,2,Último Ponderada
+1040,347,Iquique,3,Partido Pen Abs vs Pen Pon
+1041,348,Coquimbo Unido,1,Último Absoluta
+1042,348,Iquique,2,Último Ponderada
+1043,348,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1044,349,Colo-Colo,1,Último Absoluta
+1045,349,Universidad de Concepción,2,Último Ponderada
+1046,349,Iquique,3,Partido Pen Abs vs Pen Pon
+1047,350,Coquimbo Unido,1,Último Absoluta
+1048,350,Universidad de Concepción,2,Último Ponderada
+1049,350,Iquique,3,Partido Pen Abs vs Pen Pon
+1050,351,Coquimbo Unido,1,Último Absoluta
+1051,351,Universidad de Concepción,2,Último Ponderada
+1052,351,Iquique,3,Partido Pen Abs vs Pen Pon
+1053,352,Iquique,1,Último Absoluta
+1054,352,Universidad de Concepción,2,Penúltimo Ponderada
+1055,352,Everton,3,Partido Pen Abs vs Ant Pon
+1056,353,Iquique,1,Último Absoluta
+1057,353,Universidad de Concepción,2,Penúltimo Ponderada
+1058,353,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1059,354,Iquique,1,Último Absoluta
+1060,354,Universidad de Concepción,2,Penúltimo Ponderada
+1061,354,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1062,355,Coquimbo Unido,1,Último Absoluta
+1063,355,Universidad de Concepción,2,Último Ponderada
+1064,355,Iquique,3,Partido Pen Abs vs Pen Pon
+1065,356,Iquique,1,Último Absoluta
+1066,356,Universidad de Concepción,2,Penúltimo Ponderada
+1067,356,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1068,357,Coquimbo Unido,1,Último Absoluta
+1069,357,Universidad de Concepción,2,Último Ponderada
+1070,357,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1071,358,Coquimbo Unido,1,Último Absoluta
+1072,358,Universidad de Concepción,2,Último Ponderada
+1073,358,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1074,359,Coquimbo Unido,1,Último Absoluta
+1075,359,Universidad de Concepción,2,Último Ponderada
+1076,359,Iquique,3,Partido Pen Abs vs Pen Pon
+1077,360,Iquique,1,Último Absoluta
+1078,360,Universidad de Chile,2,Penúltimo Ponderada
+1079,360,Universidad de Concepción,3,Partido Pen Abs vs Ant Pon
+1080,361,Coquimbo Unido,1,Último Absoluta
+1081,361,Iquique,2,Último Ponderada
+1082,361,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1083,362,Coquimbo Unido,1,Último Absoluta
+1084,362,Universidad de Concepción,2,Último Ponderada
+1085,362,Iquique,3,Partido Pen Abs vs Pen Pon
+1086,363,Iquique,1,Último Absoluta
+1087,363,Universidad de Concepción,2,Penúltimo Ponderada
+1088,363,La Serena,3,Partido Pen Abs vs Ant Pon
+1089,364,Coquimbo Unido,1,Último Absoluta
+1090,364,Iquique,2,Último Ponderada
+1091,364,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1092,365,Colo-Colo,1,Último Absoluta
+1093,365,Universidad de Concepción,2,Último Ponderada
+1094,365,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+1095,366,Coquimbo Unido,1,Último Absoluta
+1096,366,Universidad de Concepción,2,Último Ponderada
+1097,366,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1098,367,Iquique,1,Último Absoluta
+1099,367,Universidad de Concepción,2,Penúltimo Ponderada
+1100,367,Everton,3,Partido Pen Abs vs Ant Pon
+1101,368,Colo-Colo,1,Último Absoluta
+1102,368,Universidad de Concepción,2,Último Ponderada
+1103,368,Iquique,3,Partido Pen Abs vs Pen Pon
+1104,369,Coquimbo Unido,1,Último Absoluta
+1105,369,Iquique,2,Último Ponderada
+1106,369,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1107,370,Iquique,1,Último Absoluta
+1108,370,Universidad de Concepción,2,Último Ponderada
+1109,370,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1110,371,Coquimbo Unido,1,Último Absoluta
+1111,371,Universidad de Concepción,2,Último Ponderada
+1112,371,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1113,372,Iquique,1,Último Absoluta
+1114,372,Universidad de Concepción,2,Penúltimo Ponderada
+1115,372,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1116,373,Iquique,1,Último Absoluta
+1117,373,Universidad de Concepción,2,Penúltimo Ponderada
+1118,373,Everton,3,Partido Pen Abs vs Ant Pon
+1119,374,Iquique,1,Último Absoluta
+1120,374,Universidad de Concepción,2,Último Ponderada
+1121,374,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1122,375,Coquimbo Unido,1,Último Absoluta
+1123,375,Iquique,2,Último Ponderada
+1124,375,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1125,376,Coquimbo Unido,1,Último Absoluta
+1126,376,Universidad de Concepción,2,Último Ponderada
+1127,376,Iquique,3,Partido Pen Abs vs Pen Pon
+1128,377,Coquimbo Unido,1,Último Absoluta
+1129,377,Iquique,2,Último Ponderada
+1130,377,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1131,378,Coquimbo Unido,1,Último Absoluta
+1132,378,Universidad de Concepción,2,Último Ponderada
+1133,378,Iquique,3,Partido Pen Abs vs Pen Pon
+1134,379,Audax Italiano,1,Último Absoluta
+1135,379,Universidad de Concepción,2,Último Ponderada
+1136,379,Iquique,3,Partido Pen Abs vs Pen Pon
+1137,380,Iquique,1,Último Absoluta
+1138,380,Universidad de Concepción,2,Penúltimo Ponderada
+1139,380,Everton,3,Partido Pen Abs vs Ant Pon
+1140,381,Iquique,1,Último Absoluta
+1141,381,Universidad de Concepción,2,Penúltimo Ponderada
+1142,381,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1143,382,Audax Italiano,1,Último Absoluta
+1144,382,Universidad de Concepción,2,Último Ponderada
+1145,382,Iquique,3,Partido Pen Abs vs Pen Pon
+1146,383,Iquique,1,Último Absoluta
+1147,383,Universidad de Concepción,2,Penúltimo Ponderada
+1148,383,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1149,384,Colo-Colo,1,Último Absoluta
+1150,384,Universidad de Concepción,2,Último Ponderada
+1151,384,Iquique,3,Partido Pen Abs vs Pen Pon
+1152,385,Coquimbo Unido,1,Último Absoluta
+1153,385,Iquique,2,Último Ponderada
+1154,385,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1155,386,Coquimbo Unido,1,Último Absoluta
+1156,386,Universidad de Concepción,2,Último Ponderada
+1157,386,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1158,387,Iquique,1,Último Absoluta
+1159,387,Universidad de Concepción,2,Penúltimo Ponderada
+1160,387,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1161,388,Coquimbo Unido,1,Último Absoluta
+1162,388,Universidad de Concepción,2,Último Ponderada
+1163,388,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1164,389,Coquimbo Unido,1,Último Absoluta
+1165,389,Iquique,2,Último Ponderada
+1166,389,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1167,390,Iquique,1,Último Absoluta
+1168,390,Universidad de Concepción,2,Penúltimo Ponderada
+1169,390,Everton,3,Partido Pen Abs vs Ant Pon
+1170,391,Coquimbo Unido,1,Último Absoluta
+1171,391,Universidad de Concepción,2,Último Ponderada
+1172,391,Iquique,3,Partido Pen Abs vs Pen Pon
+1173,392,Coquimbo Unido,1,Último Absoluta
+1174,392,Iquique,2,Último Ponderada
+1175,392,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1176,393,Coquimbo Unido,1,Último Absoluta
+1177,393,Iquique,2,Último Ponderada
+1178,393,La Serena,3,Partido Ant Abs vs Pen Pon
+1179,394,Coquimbo Unido,1,Último Absoluta
+1180,394,Universidad de Concepción,2,Último Ponderada
+1181,394,Iquique,3,Partido Pen Abs vs Pen Pon
+1182,395,Coquimbo Unido,1,Último Absoluta
+1183,395,Iquique,2,Último Ponderada
+1184,395,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1185,396,Coquimbo Unido,1,Último Absoluta
+1186,396,Iquique,2,Último Ponderada
+1187,396,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1188,397,Iquique,1,Último Absoluta
+1189,397,Universidad de Concepción,2,Último Ponderada
+1190,397,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1191,398,Coquimbo Unido,1,Último Absoluta
+1192,398,Universidad de Concepción,2,Último Ponderada
+1193,398,Iquique,3,Partido Pen Abs vs Pen Pon
+1194,399,Coquimbo Unido,1,Último Absoluta
+1195,399,Universidad de Concepción,2,Último Ponderada
+1196,399,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1197,400,La Serena,1,Último Absoluta
+1198,400,Universidad de Concepción,2,Último Ponderada
+1199,400,Iquique,3,Partido Pen Abs vs Pen Pon
+1200,401,Iquique,1,Último Absoluta
+1201,401,Universidad de Concepción,2,Último Ponderada
+1202,401,Everton,3,Partido Pen Abs vs Ant Pon
+1203,402,Iquique,1,Último Absoluta
+1204,402,Universidad de Concepción,2,Penúltimo Ponderada
+1205,402,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1206,403,Colo-Colo,1,Último Absoluta
+1207,403,Iquique,2,Último Ponderada
+1208,403,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+1209,404,Iquique,1,Último Absoluta
+1210,404,Universidad de Concepción,2,Penúltimo Ponderada
+1211,404,Everton,3,Partido Pen Abs vs Ant Pon
+1212,405,Coquimbo Unido,1,Último Absoluta
+1213,405,Universidad de Concepción,2,Último Ponderada
+1214,405,Iquique,3,Partido Pen Abs vs Pen Pon
+1215,406,Coquimbo Unido,1,Último Absoluta
+1216,406,Universidad de Concepción,2,Último Ponderada
+1217,406,La Serena,3,Partido Pen Abs vs Pen Pon
+1218,407,Iquique,1,Último Absoluta
+1219,407,Universidad de Concepción,2,Penúltimo Ponderada
+1220,407,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1221,408,Colo-Colo,1,Último Absoluta
+1222,408,Iquique,2,Último Ponderada
+1223,408,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1224,409,Coquimbo Unido,1,Último Absoluta
+1225,409,Iquique,2,Último Ponderada
+1226,409,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1227,410,Colo-Colo,1,Último Absoluta
+1228,410,Universidad de Concepción,2,Último Ponderada
+1229,410,La Serena,3,Partido Pen Abs vs Pen Pon
+1230,411,Coquimbo Unido,1,Último Absoluta
+1231,411,Universidad de Concepción,2,Último Ponderada
+1232,411,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1233,412,Coquimbo Unido,1,Último Absoluta
+1234,412,Iquique,2,Último Ponderada
+1235,412,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1236,413,Iquique,1,Último Absoluta
+1237,413,Universidad de Concepción,2,Penúltimo Ponderada
+1238,413,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1239,414,Coquimbo Unido,1,Último Absoluta
+1240,414,Universidad de Concepción,2,Último Ponderada
+1241,414,Iquique,3,Partido Pen Abs vs Pen Pon
+1242,415,Iquique,1,Último Absoluta
+1243,415,Universidad de Concepción,2,Penúltimo Ponderada
+1244,415,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1245,416,Iquique,1,Último Absoluta
+1246,416,Universidad de Concepción,2,Penúltimo Ponderada
+1247,416,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1248,417,Colo-Colo,1,Último Absoluta
+1249,417,Iquique,2,Último Ponderada
+1250,417,La Serena,3,Partido Ant Abs vs Pen Pon
+1251,418,Coquimbo Unido,1,Último Absoluta
+1252,418,Universidad de Concepción,2,Último Ponderada
+1253,418,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1254,419,Coquimbo Unido,1,Último Absoluta
+1255,419,Universidad de Concepción,2,Último Ponderada
+1256,419,Iquique,3,Partido Pen Abs vs Pen Pon
+1257,420,Iquique,1,Último Absoluta
+1258,420,Universidad de Concepción,2,Penúltimo Ponderada
+1259,420,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1260,421,Iquique,1,Último Absoluta
+1261,421,Universidad de Concepción,2,Penúltimo Ponderada
+1262,421,La Serena,3,Penúltimo Absoluta
+1263,422,La Serena,1,Último Absoluta
+1264,422,Universidad de Concepción,2,Último Ponderada
+1265,422,Iquique,3,Partido Pen Abs vs Pen Pon
+1266,423,Colo-Colo,1,Último Absoluta
+1267,423,Universidad de Concepción,2,Último Ponderada
+1268,423,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1269,424,Coquimbo Unido,1,Último Absoluta
+1270,424,Universidad de Concepción,2,Último Ponderada
+1271,424,Iquique,3,Partido Pen Abs vs Pen Pon
+1272,425,Iquique,1,Último Absoluta
+1273,425,Universidad de Concepción,2,Penúltimo Ponderada
+1274,425,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1275,426,Iquique,1,Último Absoluta
+1276,426,Universidad de Concepción,2,Penúltimo Ponderada
+1277,426,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+1278,427,Coquimbo Unido,1,Último Absoluta
+1279,427,Iquique,2,Último Ponderada
+1280,427,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1281,428,Coquimbo Unido,1,Último Absoluta
+1282,428,Universidad de Concepción,2,Último Ponderada
+1283,428,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1284,429,Coquimbo Unido,1,Último Absoluta
+1285,429,Universidad de Concepción,2,Último Ponderada
+1286,429,Iquique,3,Partido Pen Abs vs Pen Pon
+1287,430,Iquique,1,Último Absoluta
+1288,430,Universidad de Concepción,2,Último Ponderada
+1289,430,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1290,431,Coquimbo Unido,1,Último Absoluta
+1291,431,Universidad de Concepción,2,Último Ponderada
+1292,431,Iquique,3,Partido Pen Abs vs Pen Pon
+1293,432,Iquique,1,Último Absoluta
+1294,432,Universidad de Concepción,2,Penúltimo Ponderada
+1295,432,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1296,433,Coquimbo Unido,1,Último Absoluta
+1297,433,Iquique,2,Último Ponderada
+1298,433,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1299,434,Iquique,1,Último Absoluta
+1300,434,Universidad de Concepción,2,Penúltimo Ponderada
+1301,434,Everton,3,Partido Pen Abs vs Ant Pon
+1302,435,La Serena,1,Último Absoluta
+1303,435,Universidad de Concepción,2,Último Ponderada
+1304,435,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+1305,436,Colo-Colo,1,Último Absoluta
+1306,436,Universidad de Concepción,2,Último Ponderada
+1307,436,Iquique,3,Partido Pen Abs vs Pen Pon
+1308,437,Coquimbo Unido,1,Último Absoluta
+1309,437,Iquique,2,Último Ponderada
+1310,437,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1311,438,Iquique,1,Último Absoluta
+1312,438,Universidad de Concepción,2,Penúltimo Ponderada
+1313,438,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1314,439,Coquimbo Unido,1,Último Absoluta
+1315,439,Iquique,2,Último Ponderada
+1316,439,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1317,440,Iquique,1,Último Absoluta
+1318,440,Universidad de Concepción,2,Penúltimo Ponderada
+1319,440,Everton,3,Partido Pen Abs vs Ant Pon
+1320,441,Coquimbo Unido,1,Último Absoluta
+1321,441,Universidad de Concepción,2,Último Ponderada
+1322,441,Iquique,3,Partido Pen Abs vs Pen Pon
+1323,442,Coquimbo Unido,1,Último Absoluta
+1324,442,Iquique,2,Último Ponderada
+1325,442,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1326,443,Colo-Colo,1,Último Absoluta
+1327,443,Universidad de Concepción,2,Último Ponderada
+1328,443,Iquique,3,Partido Pen Abs vs Pen Pon
+1329,444,Coquimbo Unido,1,Último Absoluta
+1330,444,Universidad de Concepción,2,Último Ponderada
+1331,444,Iquique,3,Partido Pen Abs vs Pen Pon
+1332,445,Iquique,1,Último Absoluta
+1333,445,Universidad de Concepción,2,Penúltimo Ponderada
+1334,445,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1335,446,Iquique,1,Último Absoluta
+1336,446,Universidad de Concepción,2,Penúltimo Ponderada
+1337,446,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1338,447,Iquique,1,Último Absoluta
+1339,447,Universidad de Concepción,2,Último Ponderada
+1340,447,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+1341,448,Coquimbo Unido,1,Último Absoluta
+1342,448,Iquique,2,Último Ponderada
+1343,448,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1344,449,Colo-Colo,1,Último Absoluta
+1345,449,Universidad de Concepción,2,Último Ponderada
+1346,449,Iquique,3,Partido Pen Abs vs Pen Pon
+1347,450,Colo-Colo,1,Último Absoluta
+1348,450,Universidad de Concepción,2,Último Ponderada
+1349,450,Iquique,3,Partido Pen Abs vs Pen Pon
+1350,451,Colo-Colo,1,Último Absoluta
+1351,451,Universidad de Concepción,2,Último Ponderada
+1352,451,Iquique,3,Partido Pen Abs vs Pen Pon
+1353,452,Iquique,1,Último Absoluta
+1354,452,Universidad de Concepción,2,Penúltimo Ponderada
+1355,452,La Serena,3,Penúltimo Absoluta
+1356,453,Coquimbo Unido,1,Último Absoluta
+1357,453,Universidad de Concepción,2,Último Ponderada
+1358,453,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1359,454,Coquimbo Unido,1,Último Absoluta
+1360,454,Universidad de Concepción,2,Último Ponderada
+1361,454,Iquique,3,Partido Pen Abs vs Pen Pon
+1362,455,Coquimbo Unido,1,Último Absoluta
+1363,455,Iquique,2,Último Ponderada
+1364,455,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1365,456,Coquimbo Unido,1,Último Absoluta
+1366,456,Universidad de Concepción,2,Último Ponderada
+1367,456,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1368,457,Iquique,1,Último Absoluta
+1369,457,Universidad de Concepción,2,Penúltimo Ponderada
+1370,457,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1371,458,Coquimbo Unido,1,Último Absoluta
+1372,458,Universidad de Concepción,2,Último Ponderada
+1373,458,Iquique,3,Partido Pen Abs vs Pen Pon
+1374,459,Colo-Colo,1,Último Absoluta
+1375,459,Iquique,2,Último Ponderada
+1376,459,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1377,460,Coquimbo Unido,1,Último Absoluta
+1378,460,Universidad de Concepción,2,Último Ponderada
+1379,460,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1380,461,Iquique,1,Último Absoluta
+1381,461,Universidad de Concepción,2,Penúltimo Ponderada
+1382,461,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+1383,462,Colo-Colo,1,Último Absoluta
+1384,462,Universidad de Concepción,2,Último Ponderada
+1385,462,Everton,3,Partido Pen Abs vs Pen Pon
+1386,463,Coquimbo Unido,1,Último Absoluta
+1387,463,Iquique,2,Último Ponderada
+1388,463,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+1389,464,Iquique,1,Último Absoluta
+1390,464,Universidad de Concepción,2,Penúltimo Ponderada
+1391,464,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1392,465,Coquimbo Unido,1,Último Absoluta
+1393,465,Iquique,2,Último Ponderada
+1394,465,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1395,466,Iquique,1,Último Absoluta
+1396,466,Universidad de Concepción,2,Penúltimo Ponderada
+1397,466,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1398,467,Coquimbo Unido,1,Último Absoluta
+1399,467,Universidad de Concepción,2,Último Ponderada
+1400,467,Iquique,3,Partido Pen Abs vs Pen Pon
+1401,468,Iquique,1,Último Absoluta
+1402,468,Universidad de Concepción,2,Penúltimo Ponderada
+1403,468,La Serena,3,Penúltimo Absoluta
+1404,469,Coquimbo Unido,1,Último Absoluta
+1405,469,Universidad de Concepción,2,Último Ponderada
+1406,469,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1407,470,Iquique,1,Último Absoluta
+1408,470,Universidad de Concepción,2,Penúltimo Ponderada
+1409,470,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1410,471,Colo-Colo,1,Último Absoluta
+1411,471,Universidad de Concepción,2,Último Ponderada
+1412,471,Iquique,3,Partido Pen Abs vs Pen Pon
+1413,472,Coquimbo Unido,1,Último Absoluta
+1414,472,Universidad de Concepción,2,Último Ponderada
+1415,472,Iquique,3,Partido Pen Abs vs Pen Pon
+1416,473,Iquique,1,Último Absoluta
+1417,473,Universidad de Concepción,2,Penúltimo Ponderada
+1418,473,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1419,474,Iquique,1,Último Absoluta
+1420,474,Universidad de Concepción,2,Penúltimo Ponderada
+1421,474,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1422,475,Iquique,1,Último Absoluta
+1423,475,Universidad de Concepción,2,Penúltimo Ponderada
+1424,475,La Serena,3,Partido Pen Abs vs Ant Pon
+1425,476,Iquique,1,Último Absoluta
+1426,476,Universidad de Concepción,2,Penúltimo Ponderada
+1427,476,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1428,477,Colo-Colo,1,Último Absoluta
+1429,477,Universidad de Concepción,2,Último Ponderada
+1430,477,La Serena,3,Partido Pen Abs vs Pen Pon
+1431,478,La Serena,1,Último Absoluta
+1432,478,Universidad de Concepción,2,Último Ponderada
+1433,478,Iquique,3,Partido Pen Abs vs Pen Pon
+1434,479,Coquimbo Unido,1,Último Absoluta
+1435,479,Universidad de Concepción,2,Último Ponderada
+1436,479,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1437,480,Coquimbo Unido,1,Último Absoluta
+1438,480,Iquique,2,Último Ponderada
+1439,480,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1440,481,Iquique,1,Último Absoluta
+1441,481,Universidad de Concepción,2,Penúltimo Ponderada
+1442,481,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1443,482,Coquimbo Unido,1,Último Absoluta
+1444,482,Universidad de Concepción,2,Último Ponderada
+1445,482,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1446,483,Audax Italiano,1,Último Absoluta
+1447,483,Universidad de Concepción,2,Último Ponderada
+1448,483,Iquique,3,Partido Pen Abs vs Pen Pon
+1449,484,Coquimbo Unido,1,Último Absoluta
+1450,484,Iquique,2,Último Ponderada
+1451,484,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1452,485,Coquimbo Unido,1,Último Absoluta
+1453,485,Universidad de Concepción,2,Último Ponderada
+1454,485,La Serena,3,Partido Pen Abs vs Pen Pon
+1455,486,Coquimbo Unido,1,Último Absoluta
+1456,486,Iquique,2,Último Ponderada
+1457,486,La Serena,3,Partido Ant Abs vs Pen Pon
+1458,487,Coquimbo Unido,1,Último Absoluta
+1459,487,Universidad de Concepción,2,Último Ponderada
+1460,487,Iquique,3,Partido Pen Abs vs Pen Pon
+1461,488,Coquimbo Unido,1,Último Absoluta
+1462,488,Iquique,2,Último Ponderada
+1463,488,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1464,489,Iquique,1,Último Absoluta
+1465,489,Universidad de Concepción,2,Penúltimo Ponderada
+1466,489,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1467,490,Iquique,1,Último Absoluta
+1468,490,Universidad de Concepción,2,Penúltimo Ponderada
+1469,490,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1470,491,Iquique,1,Último Absoluta
+1471,491,Universidad de Concepción,2,Penúltimo Ponderada
+1472,491,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1473,492,Coquimbo Unido,1,Último Absoluta
+1474,492,Universidad de Concepción,2,Último Ponderada
+1475,492,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1476,493,Coquimbo Unido,1,Último Absoluta
+1477,493,Universidad de Concepción,2,Último Ponderada
+1478,493,Iquique,3,Partido Pen Abs vs Pen Pon
+1479,494,Coquimbo Unido,1,Último Absoluta
+1480,494,Universidad de Concepción,2,Último Ponderada
+1481,494,Iquique,3,Partido Pen Abs vs Pen Pon
+1482,495,Iquique,1,Último Absoluta
+1483,495,Universidad de Concepción,2,Penúltimo Ponderada
+1484,495,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1485,496,Iquique,1,Último Absoluta
+1486,496,Universidad de Concepción,2,Penúltimo Ponderada
+1487,496,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1488,497,Coquimbo Unido,1,Último Absoluta
+1489,497,Universidad de Concepción,2,Último Ponderada
+1490,497,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1491,498,Coquimbo Unido,1,Último Absoluta
+1492,498,Universidad de Concepción,2,Último Ponderada
+1493,498,La Serena,3,Partido Pen Abs vs Pen Pon
+1494,499,Coquimbo Unido,1,Último Absoluta
+1495,499,Universidad de Concepción,2,Último Ponderada
+1496,499,Iquique,3,Partido Pen Abs vs Pen Pon
+1497,500,Coquimbo Unido,1,Último Absoluta
+1498,500,Universidad de Concepción,2,Último Ponderada
+1499,500,Iquique,3,Partido Pen Abs vs Pen Pon
+1500,501,Iquique,1,Último Absoluta
+1501,501,Universidad de Concepción,2,Penúltimo Ponderada
+1502,501,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1503,502,Iquique,1,Último Absoluta
+1504,502,Universidad de Concepción,2,Último Ponderada
+1505,502,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1506,503,Coquimbo Unido,1,Último Absoluta
+1507,503,Iquique,2,Último Ponderada
+1508,503,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1509,504,Coquimbo Unido,1,Último Absoluta
+1510,504,Iquique,2,Último Ponderada
+1511,504,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+1512,505,Coquimbo Unido,1,Último Absoluta
+1513,505,Universidad de Concepción,2,Último Ponderada
+1514,505,Iquique,3,Partido Pen Abs vs Pen Pon
+1515,506,Coquimbo Unido,1,Último Absoluta
+1516,506,Iquique,2,Último Ponderada
+1517,506,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1518,507,Coquimbo Unido,1,Último Absoluta
+1519,507,Universidad de Concepción,2,Último Ponderada
+1520,507,Iquique,3,Partido Pen Abs vs Pen Pon
+1521,508,Iquique,1,Último Absoluta
+1522,508,Universidad de Concepción,2,Penúltimo Ponderada
+1523,508,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1524,509,Iquique,1,Último Absoluta
+1525,509,Universidad de Concepción,2,Penúltimo Ponderada
+1526,509,La Serena,3,Penúltimo Absoluta
+1527,510,Coquimbo Unido,1,Último Absoluta
+1528,510,Universidad de Concepción,2,Último Ponderada
+1529,510,Iquique,3,Partido Pen Abs vs Pen Pon
+1530,511,Iquique,1,Último Absoluta
+1531,511,Universidad de Concepción,2,Penúltimo Ponderada
+1532,511,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1533,512,Iquique,1,Último Absoluta
+1534,512,Universidad de Concepción,2,Último Ponderada
+1535,512,Everton,3,Partido Pen Abs vs Ant Pon
+1536,513,Iquique,1,Último Absoluta
+1537,513,Universidad de Concepción,2,Último Ponderada
+1538,513,La Serena,3,Partido Pen Abs vs Ant Pon
+1539,514,Iquique,1,Último Absoluta
+1540,514,Universidad de Concepción,2,Penúltimo Ponderada
+1541,514,Everton,3,Partido Pen Abs vs Ant Pon
+1542,515,Coquimbo Unido,1,Último Absoluta
+1543,515,Universidad de Concepción,2,Último Ponderada
+1544,515,Iquique,3,Partido Pen Abs vs Pen Pon
+1545,516,Coquimbo Unido,1,Último Absoluta
+1546,516,Iquique,2,Último Ponderada
+1547,516,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1548,517,Colo-Colo,1,Último Absoluta
+1549,517,Universidad de Concepción,2,Último Ponderada
+1550,517,Iquique,3,Partido Pen Abs vs Pen Pon
+1551,518,Coquimbo Unido,1,Último Absoluta
+1552,518,Universidad de Concepción,2,Último Ponderada
+1553,518,Iquique,3,Partido Pen Abs vs Pen Pon
+1554,519,Coquimbo Unido,1,Último Absoluta
+1555,519,Universidad de Concepción,2,Último Ponderada
+1556,519,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1557,520,Coquimbo Unido,1,Último Absoluta
+1558,520,Universidad de Concepción,2,Último Ponderada
+1559,520,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1560,521,Coquimbo Unido,1,Último Absoluta
+1561,521,Universidad de Concepción,2,Último Ponderada
+1562,521,Iquique,3,Partido Pen Abs vs Pen Pon
+1563,522,Iquique,1,Último Absoluta
+1564,522,Universidad de Concepción,2,Penúltimo Ponderada
+1565,522,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1566,523,Coquimbo Unido,1,Último Absoluta
+1567,523,Universidad de Concepción,2,Último Ponderada
+1568,523,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1569,524,Coquimbo Unido,1,Último Absoluta
+1570,524,Iquique,2,Último Ponderada
+1571,524,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1572,525,Iquique,1,Último Absoluta
+1573,525,Universidad de Concepción,2,Último Ponderada
+1574,525,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1575,526,Iquique,1,Último Absoluta
+1576,526,Universidad de Concepción,2,Penúltimo Ponderada
+1577,526,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1578,527,Iquique,1,Último Absoluta
+1579,527,Universidad de Concepción,2,Penúltimo Ponderada
+1580,527,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1581,528,La Serena,1,Último Absoluta
+1582,528,Universidad de Concepción,2,Último Ponderada
+1583,528,Iquique,3,Partido Pen Abs vs Pen Pon
+1584,529,Coquimbo Unido,1,Último Absoluta
+1585,529,Iquique,2,Último Ponderada
+1586,529,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1587,530,Iquique,1,Último Absoluta
+1588,530,Universidad de Concepción,2,Penúltimo Ponderada
+1589,530,La Serena,3,Partido Pen Abs vs Ant Pon
+1590,531,Iquique,1,Último Absoluta
+1591,531,Universidad de Concepción,2,Penúltimo Ponderada
+1592,531,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1593,532,Coquimbo Unido,1,Último Absoluta
+1594,532,Universidad de Concepción,2,Último Ponderada
+1595,532,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1596,533,Colo-Colo,1,Último Absoluta
+1597,533,Universidad de Concepción,2,Último Ponderada
+1598,533,Iquique,3,Partido Pen Abs vs Pen Pon
+1599,534,Colo-Colo,1,Último Absoluta
+1600,534,Iquique,2,Último Ponderada
+1601,534,La Serena,3,Partido Ant Abs vs Pen Pon
+1602,535,Iquique,1,Último Absoluta
+1603,535,Universidad de Concepción,2,Penúltimo Ponderada
+1604,535,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1605,536,Colo-Colo,1,Último Absoluta
+1606,536,Iquique,2,Último Ponderada
+1607,536,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1608,537,Coquimbo Unido,1,Último Absoluta
+1609,537,Universidad de Concepción,2,Último Ponderada
+1610,537,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1611,538,Colo-Colo,1,Último Absoluta
+1612,538,Universidad de Concepción,2,Último Ponderada
+1613,538,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+1614,539,Coquimbo Unido,1,Último Absoluta
+1615,539,Iquique,2,Último Ponderada
+1616,539,La Serena,3,Partido Ant Abs vs Pen Pon
+1617,540,Iquique,1,Último Absoluta
+1618,540,Universidad de Concepción,2,Último Ponderada
+1619,540,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1620,541,Coquimbo Unido,1,Último Absoluta
+1621,541,Universidad de Concepción,2,Último Ponderada
+1622,541,Iquique,3,Partido Pen Abs vs Pen Pon
+1623,542,Audax Italiano,1,Último Absoluta
+1624,542,Universidad de Concepción,2,Último Ponderada
+1625,542,Universidad de Chile,3,Partido Ant Abs vs Pen Pon
+1626,543,Colo-Colo,1,Último Absoluta
+1627,543,Iquique,2,Último Ponderada
+1628,543,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1629,544,Coquimbo Unido,1,Último Absoluta
+1630,544,Iquique,2,Último Ponderada
+1631,544,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1632,545,Iquique,1,Último Absoluta
+1633,545,Universidad de Concepción,2,Último Ponderada
+1634,545,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1635,546,Iquique,1,Último Absoluta
+1636,546,Universidad de Concepción,2,Penúltimo Ponderada
+1637,546,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1638,547,Coquimbo Unido,1,Último Absoluta
+1639,547,Universidad de Concepción,2,Último Ponderada
+1640,547,Iquique,3,Partido Pen Abs vs Pen Pon
+1641,548,Iquique,1,Último Absoluta
+1642,548,Universidad de Concepción,2,Penúltimo Ponderada
+1643,548,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1644,549,Coquimbo Unido,1,Último Absoluta
+1645,549,Universidad de Concepción,2,Último Ponderada
+1646,549,Iquique,3,Partido Pen Abs vs Pen Pon
+1647,550,Colo-Colo,1,Último Absoluta
+1648,550,Iquique,2,Último Ponderada
+1649,550,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+1650,551,Iquique,1,Último Absoluta
+1651,551,Universidad de Concepción,2,Penúltimo Ponderada
+1652,551,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1653,552,Iquique,1,Último Absoluta
+1654,552,Universidad de Concepción,2,Penúltimo Ponderada
+1655,552,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1656,553,Colo-Colo,1,Último Absoluta
+1657,553,Universidad de Concepción,2,Último Ponderada
+1658,553,Iquique,3,Partido Pen Abs vs Pen Pon
+1659,554,Coquimbo Unido,1,Último Absoluta
+1660,554,Iquique,2,Último Ponderada
+1661,554,La Serena,3,Partido Pen Abs vs Pen Pon
+1662,555,Iquique,1,Último Absoluta
+1663,555,Universidad de Concepción,2,Penúltimo Ponderada
+1664,555,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1665,556,Audax Italiano,1,Último Absoluta
+1666,556,Universidad de Concepción,2,Último Ponderada
+1667,556,La Serena,3,Partido Pen Abs vs Pen Pon
+1668,557,Iquique,1,Último Absoluta
+1669,557,Universidad de Concepción,2,Penúltimo Ponderada
+1670,557,La Serena,3,Penúltimo Absoluta
+1671,558,Coquimbo Unido,1,Último Absoluta
+1672,558,Universidad de Concepción,2,Último Ponderada
+1673,558,Iquique,3,Partido Pen Abs vs Pen Pon
+1674,559,Coquimbo Unido,1,Último Absoluta
+1675,559,Iquique,2,Último Ponderada
+1676,559,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1677,560,Iquique,1,Último Absoluta
+1678,560,Universidad de Concepción,2,Penúltimo Ponderada
+1679,560,Audax Italiano,3,Partido Pen Abs vs Ant Pon
+1680,561,Iquique,1,Último Absoluta
+1681,561,Universidad de Concepción,2,Penúltimo Ponderada
+1682,561,La Serena,3,Partido Pen Abs vs Ant Pon
+1683,562,Iquique,1,Último Absoluta
+1684,562,Universidad de Concepción,2,Penúltimo Ponderada
+1685,562,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1686,563,Coquimbo Unido,1,Último Absoluta
+1687,563,Universidad de Concepción,2,Último Ponderada
+1688,563,Iquique,3,Partido Pen Abs vs Pen Pon
+1689,564,Coquimbo Unido,1,Último Absoluta
+1690,564,Universidad de Concepción,2,Último Ponderada
+1691,564,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1692,565,Coquimbo Unido,1,Último Absoluta
+1693,565,Iquique,2,Último Ponderada
+1694,565,La Serena,3,Partido Ant Abs vs Pen Pon
+1695,566,Iquique,1,Último Absoluta
+1696,566,Universidad de Concepción,2,Penúltimo Ponderada
+1697,566,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1698,567,Iquique,1,Último Absoluta
+1699,567,Universidad de Concepción,2,Último Ponderada
+1700,567,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1701,568,Coquimbo Unido,1,Último Absoluta
+1702,568,Iquique,2,Último Ponderada
+1703,568,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1704,569,Coquimbo Unido,1,Último Absoluta
+1705,569,Universidad de Concepción,2,Último Ponderada
+1706,569,Iquique,3,Partido Pen Abs vs Pen Pon
+1707,570,Coquimbo Unido,1,Último Absoluta
+1708,570,Iquique,2,Último Ponderada
+1709,570,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1710,571,Colo-Colo,1,Último Absoluta
+1711,571,Universidad de Concepción,2,Último Ponderada
+1712,571,Iquique,3,Partido Pen Abs vs Pen Pon
+1713,572,Coquimbo Unido,1,Último Absoluta
+1714,572,Universidad de Concepción,2,Último Ponderada
+1715,572,Iquique,3,Partido Pen Abs vs Pen Pon
+1716,573,Coquimbo Unido,1,Último Absoluta
+1717,573,Iquique,2,Último Ponderada
+1718,573,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1719,574,Coquimbo Unido,1,Último Absoluta
+1720,574,Iquique,2,Último Ponderada
+1721,574,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1722,575,Coquimbo Unido,1,Último Absoluta
+1723,575,Iquique,2,Último Ponderada
+1724,575,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1725,576,Colo-Colo,1,Último Absoluta
+1726,576,Universidad de Concepción,2,Último Ponderada
+1727,576,Iquique,3,Partido Pen Abs vs Pen Pon
+1728,577,Iquique,1,Último Absoluta
+1729,577,Universidad de Concepción,2,Último Ponderada
+1730,577,Everton,3,Partido Pen Abs vs Ant Pon
+1731,578,Coquimbo Unido,1,Último Absoluta
+1732,578,Universidad de Concepción,2,Último Ponderada
+1733,578,Iquique,3,Partido Pen Abs vs Pen Pon
+1734,579,Coquimbo Unido,1,Último Absoluta
+1735,579,Iquique,2,Último Ponderada
+1736,579,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1737,580,Coquimbo Unido,1,Último Absoluta
+1738,580,Iquique,2,Último Ponderada
+1739,580,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1740,581,Iquique,1,Último Absoluta
+1741,581,Universidad de Concepción,2,Penúltimo Ponderada
+1742,581,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1743,582,Iquique,1,Último Absoluta
+1744,582,Universidad de Concepción,2,Último Ponderada
+1745,582,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1746,583,Colo-Colo,1,Último Absoluta
+1747,583,Universidad de Concepción,2,Último Ponderada
+1748,583,Iquique,3,Partido Pen Abs vs Pen Pon
+1749,584,Iquique,1,Último Absoluta
+1750,584,Universidad de Concepción,2,Penúltimo Ponderada
+1751,584,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1752,585,Coquimbo Unido,1,Último Absoluta
+1753,585,Universidad de Concepción,2,Último Ponderada
+1754,585,Iquique,3,Partido Pen Abs vs Pen Pon
+1755,586,Coquimbo Unido,1,Último Absoluta
+1756,586,Universidad de Concepción,2,Último Ponderada
+1757,586,Iquique,3,Partido Pen Abs vs Pen Pon
+1758,587,Colo-Colo,1,Último Absoluta
+1759,587,Iquique,2,Último Ponderada
+1760,587,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+1761,588,Iquique,1,Último Absoluta
+1762,588,Universidad de Concepción,2,Último Ponderada
+1763,588,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1764,589,Iquique,1,Último Absoluta
+1765,589,Universidad de Concepción,2,Penúltimo Ponderada
+1766,589,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1767,590,Coquimbo Unido,1,Último Absoluta
+1768,590,Universidad de Concepción,2,Último Ponderada
+1769,590,Iquique,3,Partido Pen Abs vs Pen Pon
+1770,591,Coquimbo Unido,1,Último Absoluta
+1771,591,Universidad de Concepción,2,Último Ponderada
+1772,591,Iquique,3,Partido Pen Abs vs Pen Pon
+1773,592,Colo-Colo,1,Último Absoluta
+1774,592,Universidad de Concepción,2,Último Ponderada
+1775,592,Iquique,3,Partido Pen Abs vs Pen Pon
+1776,593,Coquimbo Unido,1,Último Absoluta
+1777,593,Universidad de Concepción,2,Último Ponderada
+1778,593,Iquique,3,Partido Pen Abs vs Pen Pon
+1779,594,Coquimbo Unido,1,Último Absoluta
+1780,594,Universidad de Concepción,2,Último Ponderada
+1781,594,Iquique,3,Partido Pen Abs vs Pen Pon
+1782,595,Iquique,1,Último Absoluta
+1783,595,Universidad de Concepción,2,Último Ponderada
+1784,595,La Serena,3,Partido Pen Abs vs Ant Pon
+1785,596,Coquimbo Unido,1,Último Absoluta
+1786,596,Universidad de Concepción,2,Último Ponderada
+1787,596,Iquique,3,Partido Pen Abs vs Pen Pon
+1788,597,Coquimbo Unido,1,Último Absoluta
+1789,597,Universidad de Concepción,2,Último Ponderada
+1790,597,La Serena,3,Partido Pen Abs vs Pen Pon
+1791,598,Colo-Colo,1,Último Absoluta
+1792,598,Universidad de Concepción,2,Último Ponderada
+1793,598,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+1794,599,Coquimbo Unido,1,Último Absoluta
+1795,599,Universidad de Concepción,2,Último Ponderada
+1796,599,La Serena,3,Partido Pen Abs vs Pen Pon
+1797,600,Coquimbo Unido,1,Último Absoluta
+1798,600,Universidad de Concepción,2,Último Ponderada
+1799,600,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1800,601,Coquimbo Unido,1,Último Absoluta
+1801,601,Universidad de Concepción,2,Último Ponderada
+1802,601,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1803,602,Colo-Colo,1,Último Absoluta
+1804,602,Iquique,2,Último Ponderada
+1805,602,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1806,603,Iquique,1,Último Absoluta
+1807,603,Universidad de Concepción,2,Penúltimo Ponderada
+1808,603,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1809,604,Coquimbo Unido,1,Último Absoluta
+1810,604,Iquique,2,Último Ponderada
+1811,604,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1812,605,Coquimbo Unido,1,Último Absoluta
+1813,605,Iquique,2,Último Ponderada
+1814,605,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1815,606,La Serena,1,Último Absoluta
+1816,606,Universidad de Concepción,2,Último Ponderada
+1817,606,Iquique,3,Partido Pen Abs vs Pen Pon
+1818,607,Coquimbo Unido,1,Último Absoluta
+1819,607,Iquique,2,Último Ponderada
+1820,607,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1821,608,Coquimbo Unido,1,Último Absoluta
+1822,608,Universidad de Concepción,2,Último Ponderada
+1823,608,Iquique,3,Partido Pen Abs vs Pen Pon
+1824,609,Coquimbo Unido,1,Último Absoluta
+1825,609,Iquique,2,Último Ponderada
+1826,609,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1827,610,Colo-Colo,1,Último Absoluta
+1828,610,Iquique,2,Último Ponderada
+1829,610,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+1830,611,Colo-Colo,1,Último Absoluta
+1831,611,Iquique,2,Último Ponderada
+1832,611,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1833,612,Colo-Colo,1,Último Absoluta
+1834,612,Iquique,2,Último Ponderada
+1835,612,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1836,613,Coquimbo Unido,1,Último Absoluta
+1837,613,Universidad de Concepción,2,Último Ponderada
+1838,613,Iquique,3,Partido Pen Abs vs Pen Pon
+1839,614,Colo-Colo,1,Último Absoluta
+1840,614,Iquique,2,Último Ponderada
+1841,614,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1842,615,Coquimbo Unido,1,Último Absoluta
+1843,615,Iquique,2,Último Ponderada
+1844,615,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1845,616,Coquimbo Unido,1,Último Absoluta
+1846,616,Universidad de Concepción,2,Último Ponderada
+1847,616,Iquique,3,Partido Pen Abs vs Pen Pon
+1848,617,Coquimbo Unido,1,Último Absoluta
+1849,617,Universidad de Concepción,2,Último Ponderada
+1850,617,Iquique,3,Partido Pen Abs vs Pen Pon
+1851,618,Coquimbo Unido,1,Último Absoluta
+1852,618,Universidad de Concepción,2,Último Ponderada
+1853,618,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1854,619,Iquique,1,Último Absoluta
+1855,619,Universidad de Concepción,2,Penúltimo Ponderada
+1856,619,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1857,620,Coquimbo Unido,1,Último Absoluta
+1858,620,Universidad de Concepción,2,Último Ponderada
+1859,620,Iquique,3,Partido Pen Abs vs Pen Pon
+1860,621,Coquimbo Unido,1,Último Absoluta
+1861,621,Iquique,2,Último Ponderada
+1862,621,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1863,622,Coquimbo Unido,1,Último Absoluta
+1864,622,Iquique,2,Último Ponderada
+1865,622,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1866,623,Coquimbo Unido,1,Último Absoluta
+1867,623,Universidad de Concepción,2,Último Ponderada
+1868,623,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1869,624,Iquique,1,Último Absoluta
+1870,624,Universidad de Concepción,2,Penúltimo Ponderada
+1871,624,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1872,625,Iquique,1,Último Absoluta
+1873,625,Universidad de Concepción,2,Penúltimo Ponderada
+1874,625,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1875,626,Coquimbo Unido,1,Último Absoluta
+1876,626,Iquique,2,Último Ponderada
+1877,626,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1878,627,Coquimbo Unido,1,Último Absoluta
+1879,627,Universidad de Concepción,2,Último Ponderada
+1880,627,Iquique,3,Partido Pen Abs vs Pen Pon
+1881,628,Coquimbo Unido,1,Último Absoluta
+1882,628,Universidad de Concepción,2,Último Ponderada
+1883,628,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1884,629,Colo-Colo,1,Último Absoluta
+1885,629,Iquique,2,Último Ponderada
+1886,629,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1887,630,Iquique,1,Último Absoluta
+1888,630,Universidad de Concepción,2,Último Ponderada
+1889,630,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1890,631,Coquimbo Unido,1,Último Absoluta
+1891,631,Universidad de Concepción,2,Último Ponderada
+1892,631,Iquique,3,Partido Pen Abs vs Pen Pon
+1893,632,Coquimbo Unido,1,Último Absoluta
+1894,632,Iquique,2,Último Ponderada
+1895,632,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1896,633,La Serena,1,Último Absoluta
+1897,633,Iquique,2,Último Ponderada
+1898,633,Cobresal,3,Partido Ant Abs vs Pen Pon
+1899,634,Coquimbo Unido,1,Último Absoluta
+1900,634,Universidad de Concepción,2,Último Ponderada
+1901,634,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1902,635,Iquique,1,Último Absoluta
+1903,635,Universidad de Concepción,2,Último Ponderada
+1904,635,La Serena,3,Partido Pen Abs vs Ant Pon
+1905,636,Colo-Colo,1,Último Absoluta
+1906,636,Universidad de Concepción,2,Último Ponderada
+1907,636,Iquique,3,Partido Pen Abs vs Pen Pon
+1908,637,Iquique,1,Último Absoluta
+1909,637,Universidad de Concepción,2,Penúltimo Ponderada
+1910,637,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1911,638,Coquimbo Unido,1,Último Absoluta
+1912,638,Universidad de Concepción,2,Último Ponderada
+1913,638,Iquique,3,Partido Pen Abs vs Pen Pon
+1914,639,Coquimbo Unido,1,Último Absoluta
+1915,639,Iquique,2,Último Ponderada
+1916,639,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1917,640,Coquimbo Unido,1,Último Absoluta
+1918,640,Universidad de Concepción,2,Último Ponderada
+1919,640,Iquique,3,Partido Pen Abs vs Pen Pon
+1920,641,La Serena,1,Último Absoluta
+1921,641,Universidad de Concepción,2,Último Ponderada
+1922,641,Iquique,3,Partido Pen Abs vs Pen Pon
+1923,642,Colo-Colo,1,Último Absoluta
+1924,642,Universidad de Concepción,2,Último Ponderada
+1925,642,Iquique,3,Partido Pen Abs vs Pen Pon
+1926,643,Coquimbo Unido,1,Último Absoluta
+1927,643,Universidad de Concepción,2,Último Ponderada
+1928,643,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+1929,644,Iquique,1,Último Absoluta
+1930,644,Universidad de Concepción,2,Último Ponderada
+1931,644,Everton,3,Partido Pen Abs vs Ant Pon
+1932,645,Iquique,1,Último Absoluta
+1933,645,Universidad de Concepción,2,Penúltimo Ponderada
+1934,645,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+1935,646,Coquimbo Unido,1,Último Absoluta
+1936,646,Iquique,2,Último Ponderada
+1937,646,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1938,647,Colo-Colo,1,Último Absoluta
+1939,647,Universidad de Concepción,2,Último Ponderada
+1940,647,Iquique,3,Partido Pen Abs vs Pen Pon
+1941,648,Colo-Colo,1,Último Absoluta
+1942,648,Iquique,2,Último Ponderada
+1943,648,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1944,649,Iquique,1,Último Absoluta
+1945,649,Universidad de Concepción,2,Penúltimo Ponderada
+1946,649,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+1947,650,Coquimbo Unido,1,Último Absoluta
+1948,650,Iquique,2,Último Ponderada
+1949,650,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1950,651,Coquimbo Unido,1,Último Absoluta
+1951,651,Universidad de Concepción,2,Último Ponderada
+1952,651,La Serena,3,Partido Pen Abs vs Pen Pon
+1953,652,Colo-Colo,1,Último Absoluta
+1954,652,Universidad de Concepción,2,Último Ponderada
+1955,652,Iquique,3,Partido Pen Abs vs Pen Pon
+1956,653,Coquimbo Unido,1,Último Absoluta
+1957,653,Universidad de Concepción,2,Último Ponderada
+1958,653,Iquique,3,Partido Pen Abs vs Pen Pon
+1959,654,Iquique,1,Último Absoluta
+1960,654,Universidad de Concepción,2,Penúltimo Ponderada
+1961,654,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1962,655,Coquimbo Unido,1,Último Absoluta
+1963,655,Iquique,2,Último Ponderada
+1964,655,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+1965,656,Iquique,1,Último Absoluta
+1966,656,Universidad de Concepción,2,Último Ponderada
+1967,656,Antofagasta,3,Partido Pen Abs vs Ant Pon
+1968,657,Audax Italiano,1,Último Absoluta
+1969,657,Universidad de Chile,2,Último Ponderada
+1970,657,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+1971,658,Iquique,1,Último Absoluta
+1972,658,Universidad de Concepción,2,Penúltimo Ponderada
+1973,658,Everton,3,Partido Pen Abs vs Ant Pon
+1974,659,Iquique,1,Último Absoluta
+1975,659,Universidad de Concepción,2,Último Ponderada
+1976,659,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+1977,660,Coquimbo Unido,1,Último Absoluta
+1978,660,Iquique,2,Último Ponderada
+1979,660,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1980,661,Coquimbo Unido,1,Último Absoluta
+1981,661,Universidad de Concepción,2,Último Ponderada
+1982,661,La Serena,3,Partido Pen Abs vs Pen Pon
+1983,662,Coquimbo Unido,1,Último Absoluta
+1984,662,Iquique,2,Último Ponderada
+1985,662,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1986,663,Iquique,1,Último Absoluta
+1987,663,Universidad de Concepción,2,Penúltimo Ponderada
+1988,663,La Serena,3,Penúltimo Absoluta
+1989,664,Coquimbo Unido,1,Último Absoluta
+1990,664,Universidad de Concepción,2,Último Ponderada
+1991,664,Iquique,3,Partido Pen Abs vs Pen Pon
+1992,665,Coquimbo Unido,1,Último Absoluta
+1993,665,Iquique,2,Último Ponderada
+1994,665,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+1995,666,Coquimbo Unido,1,Último Absoluta
+1996,666,Iquique,2,Último Ponderada
+1997,666,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+1998,667,Iquique,1,Último Absoluta
+1999,667,Universidad de Concepción,2,Penúltimo Ponderada
+2000,667,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2001,668,Iquique,1,Último Absoluta
+2002,668,Universidad de Concepción,2,Penúltimo Ponderada
+2003,668,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2004,669,Coquimbo Unido,1,Último Absoluta
+2005,669,Universidad de Concepción,2,Último Ponderada
+2006,669,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2007,670,Coquimbo Unido,1,Último Absoluta
+2008,670,Universidad de Concepción,2,Último Ponderada
+2009,670,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2010,671,Coquimbo Unido,1,Último Absoluta
+2011,671,Universidad de Concepción,2,Último Ponderada
+2012,671,Iquique,3,Partido Pen Abs vs Pen Pon
+2013,672,Coquimbo Unido,1,Último Absoluta
+2014,672,Universidad de Concepción,2,Último Ponderada
+2015,672,Iquique,3,Partido Pen Abs vs Pen Pon
+2016,673,Coquimbo Unido,1,Último Absoluta
+2017,673,Universidad de Concepción,2,Último Ponderada
+2018,673,Iquique,3,Partido Pen Abs vs Pen Pon
+2019,674,Iquique,1,Último Absoluta
+2020,674,Universidad de Concepción,2,Último Ponderada
+2021,674,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2022,675,Coquimbo Unido,1,Último Absoluta
+2023,675,Iquique,2,Último Ponderada
+2024,675,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2025,676,Coquimbo Unido,1,Último Absoluta
+2026,676,Universidad de Concepción,2,Último Ponderada
+2027,676,Iquique,3,Partido Pen Abs vs Pen Pon
+2028,677,Iquique,1,Último Absoluta
+2029,677,Universidad de Concepción,2,Penúltimo Ponderada
+2030,677,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2031,678,Colo-Colo,1,Último Absoluta
+2032,678,Universidad de Concepción,2,Último Ponderada
+2033,678,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2034,679,Iquique,1,Último Absoluta
+2035,679,Universidad de Concepción,2,Penúltimo Ponderada
+2036,679,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2037,680,Colo-Colo,1,Último Absoluta
+2038,680,Universidad de Concepción,2,Último Ponderada
+2039,680,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2040,681,Iquique,1,Último Absoluta
+2041,681,Universidad de Concepción,2,Penúltimo Ponderada
+2042,681,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2043,682,Coquimbo Unido,1,Último Absoluta
+2044,682,Iquique,2,Último Ponderada
+2045,682,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2046,683,Iquique,1,Último Absoluta
+2047,683,Universidad de Concepción,2,Penúltimo Ponderada
+2048,683,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2049,684,Coquimbo Unido,1,Último Absoluta
+2050,684,Universidad de Concepción,2,Último Ponderada
+2051,684,Iquique,3,Partido Pen Abs vs Pen Pon
+2052,685,Coquimbo Unido,1,Último Absoluta
+2053,685,Universidad de Concepción,2,Último Ponderada
+2054,685,Iquique,3,Partido Pen Abs vs Pen Pon
+2055,686,Colo-Colo,1,Último Absoluta
+2056,686,Universidad de Concepción,2,Último Ponderada
+2057,686,Iquique,3,Partido Pen Abs vs Pen Pon
+2058,687,Colo-Colo,1,Último Absoluta
+2059,687,Universidad de Concepción,2,Último Ponderada
+2060,687,Iquique,3,Partido Pen Abs vs Pen Pon
+2061,688,Iquique,1,Último Absoluta
+2062,688,Universidad de Concepción,2,Penúltimo Ponderada
+2063,688,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2064,689,Coquimbo Unido,1,Último Absoluta
+2065,689,Universidad de Concepción,2,Último Ponderada
+2066,689,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+2067,690,Iquique,1,Último Absoluta
+2068,690,Universidad de Concepción,2,Penúltimo Ponderada
+2069,690,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2070,691,Iquique,1,Último Absoluta
+2071,691,Universidad de Concepción,2,Penúltimo Ponderada
+2072,691,La Serena,3,Partido Pen Abs vs Ant Pon
+2073,692,Iquique,1,Último Absoluta
+2074,692,Universidad de Concepción,2,Penúltimo Ponderada
+2075,692,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2076,693,Coquimbo Unido,1,Último Absoluta
+2077,693,Universidad de Concepción,2,Último Ponderada
+2078,693,Iquique,3,Partido Pen Abs vs Pen Pon
+2079,694,Coquimbo Unido,1,Último Absoluta
+2080,694,Iquique,2,Último Ponderada
+2081,694,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2082,695,Iquique,1,Último Absoluta
+2083,695,Universidad de Concepción,2,Penúltimo Ponderada
+2084,695,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2085,696,Coquimbo Unido,1,Último Absoluta
+2086,696,Iquique,2,Último Ponderada
+2087,696,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2088,697,Coquimbo Unido,1,Último Absoluta
+2089,697,Universidad de Concepción,2,Último Ponderada
+2090,697,Iquique,3,Partido Pen Abs vs Pen Pon
+2091,698,Coquimbo Unido,1,Último Absoluta
+2092,698,Universidad de Concepción,2,Último Ponderada
+2093,698,Iquique,3,Partido Pen Abs vs Pen Pon
+2094,699,Coquimbo Unido,1,Último Absoluta
+2095,699,Universidad de Concepción,2,Último Ponderada
+2096,699,Iquique,3,Partido Pen Abs vs Pen Pon
+2097,700,Coquimbo Unido,1,Último Absoluta
+2098,700,Universidad de Concepción,2,Último Ponderada
+2099,700,Iquique,3,Partido Pen Abs vs Pen Pon
+2100,701,Coquimbo Unido,1,Último Absoluta
+2101,701,Universidad de Concepción,2,Último Ponderada
+2102,701,Iquique,3,Partido Pen Abs vs Pen Pon
+2103,702,Iquique,1,Último Absoluta
+2104,702,Universidad de Concepción,2,Penúltimo Ponderada
+2105,702,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2106,703,Iquique,1,Último Absoluta
+2107,703,Universidad de Concepción,2,Último Ponderada
+2108,703,La Serena,3,Partido Ant Abs vs Ant Pon
+2109,704,Colo-Colo,1,Último Absoluta
+2110,704,Iquique,2,Último Ponderada
+2111,704,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+2112,705,Iquique,1,Último Absoluta
+2113,705,Universidad de Concepción,2,Penúltimo Ponderada
+2114,705,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2115,706,Coquimbo Unido,1,Último Absoluta
+2116,706,Universidad de Concepción,2,Último Ponderada
+2117,706,Iquique,3,Partido Pen Abs vs Pen Pon
+2118,707,Iquique,1,Último Absoluta
+2119,707,Universidad de Concepción,2,Penúltimo Ponderada
+2120,707,La Serena,3,Partido Pen Abs vs Ant Pon
+2121,708,Coquimbo Unido,1,Último Absoluta
+2122,708,Universidad de Concepción,2,Último Ponderada
+2123,708,Iquique,3,Partido Pen Abs vs Pen Pon
+2124,709,Coquimbo Unido,1,Último Absoluta
+2125,709,Universidad de Concepción,2,Último Ponderada
+2126,709,Iquique,3,Partido Pen Abs vs Pen Pon
+2127,710,Colo-Colo,1,Último Absoluta
+2128,710,Universidad de Concepción,2,Último Ponderada
+2129,710,La Serena,3,Partido Pen Abs vs Pen Pon
+2130,711,Colo-Colo,1,Último Absoluta
+2131,711,Universidad de Concepción,2,Último Ponderada
+2132,711,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2133,712,Iquique,1,Último Absoluta
+2134,712,Universidad de Concepción,2,Penúltimo Ponderada
+2135,712,Everton,3,Partido Pen Abs vs Ant Pon
+2136,713,Coquimbo Unido,1,Último Absoluta
+2137,713,Universidad de Concepción,2,Último Ponderada
+2138,713,La Serena,3,Partido Pen Abs vs Pen Pon
+2139,714,Coquimbo Unido,1,Último Absoluta
+2140,714,Iquique,2,Último Ponderada
+2141,714,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2142,715,La Serena,1,Último Absoluta
+2143,715,Universidad de Concepción,2,Último Ponderada
+2144,715,Iquique,3,Partido Pen Abs vs Pen Pon
+2145,716,Iquique,1,Último Absoluta
+2146,716,Universidad de Concepción,2,Penúltimo Ponderada
+2147,716,La Serena,3,Penúltimo Absoluta
+2148,717,La Serena,1,Último Absoluta
+2149,717,Universidad de Concepción,2,Último Ponderada
+2150,717,Iquique,3,Partido Pen Abs vs Pen Pon
+2151,718,Iquique,1,Último Absoluta
+2152,718,Universidad de Concepción,2,Último Ponderada
+2153,718,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2154,719,Iquique,1,Último Absoluta
+2155,719,Universidad de Concepción,2,Penúltimo Ponderada
+2156,719,La Serena,3,Partido Pen Abs vs Ant Pon
+2157,720,Coquimbo Unido,1,Último Absoluta
+2158,720,Universidad de Concepción,2,Último Ponderada
+2159,720,La Serena,3,Partido Pen Abs vs Pen Pon
+2160,721,Iquique,1,Último Absoluta
+2161,721,Universidad de Concepción,2,Penúltimo Ponderada
+2162,721,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2163,722,Coquimbo Unido,1,Último Absoluta
+2164,722,Iquique,2,Último Ponderada
+2165,722,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2166,723,Iquique,1,Último Absoluta
+2167,723,Universidad de Concepción,2,Penúltimo Ponderada
+2168,723,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2169,724,Coquimbo Unido,1,Último Absoluta
+2170,724,Universidad de Concepción,2,Último Ponderada
+2171,724,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2172,725,Coquimbo Unido,1,Último Absoluta
+2173,725,Iquique,2,Último Ponderada
+2174,725,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2175,726,Iquique,1,Último Absoluta
+2176,726,Universidad de Concepción,2,Último Ponderada
+2177,726,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2178,727,Coquimbo Unido,1,Último Absoluta
+2179,727,Universidad de Concepción,2,Último Ponderada
+2180,727,Iquique,3,Partido Pen Abs vs Pen Pon
+2181,728,Colo-Colo,1,Último Absoluta
+2182,728,Universidad de Concepción,2,Último Ponderada
+2183,728,Iquique,3,Partido Pen Abs vs Pen Pon
+2184,729,Coquimbo Unido,1,Último Absoluta
+2185,729,Iquique,2,Último Ponderada
+2186,729,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2187,730,Coquimbo Unido,1,Último Absoluta
+2188,730,Iquique,2,Último Ponderada
+2189,730,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2190,731,Coquimbo Unido,1,Último Absoluta
+2191,731,Universidad de Concepción,2,Último Ponderada
+2192,731,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2193,732,Iquique,1,Último Absoluta
+2194,732,Universidad de Concepción,2,Último Ponderada
+2195,732,La Serena,3,Partido Pen Abs vs Ant Pon
+2196,733,Iquique,1,Último Absoluta
+2197,733,Universidad de Concepción,2,Penúltimo Ponderada
+2198,733,La Serena,3,Penúltimo Absoluta
+2199,734,Iquique,1,Último Absoluta
+2200,734,Universidad de Concepción,2,Penúltimo Ponderada
+2201,734,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2202,735,Coquimbo Unido,1,Último Absoluta
+2203,735,Iquique,2,Último Ponderada
+2204,735,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2205,736,Coquimbo Unido,1,Último Absoluta
+2206,736,Iquique,2,Último Ponderada
+2207,736,La Serena,3,Partido Pen Abs vs Pen Pon
+2208,737,Coquimbo Unido,1,Último Absoluta
+2209,737,Universidad de Concepción,2,Último Ponderada
+2210,737,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2211,738,Iquique,1,Último Absoluta
+2212,738,Universidad de Concepción,2,Penúltimo Ponderada
+2213,738,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2214,739,La Serena,1,Último Absoluta
+2215,739,Universidad de Concepción,2,Último Ponderada
+2216,739,Iquique,3,Partido Ant Abs vs Pen Pon
+2217,740,Colo-Colo,1,Último Absoluta
+2218,740,Universidad de Concepción,2,Último Ponderada
+2219,740,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+2220,741,Iquique,1,Último Absoluta
+2221,741,Universidad de Concepción,2,Último Ponderada
+2222,741,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2223,742,Coquimbo Unido,1,Último Absoluta
+2224,742,Universidad de Concepción,2,Último Ponderada
+2225,742,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2226,743,Coquimbo Unido,1,Último Absoluta
+2227,743,Iquique,2,Último Ponderada
+2228,743,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2229,744,Iquique,1,Último Absoluta
+2230,744,Universidad de Concepción,2,Último Ponderada
+2231,744,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2232,745,Coquimbo Unido,1,Último Absoluta
+2233,745,Iquique,2,Último Ponderada
+2234,745,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2235,746,Iquique,1,Último Absoluta
+2236,746,Universidad de Concepción,2,Último Ponderada
+2237,746,Everton,3,Partido Pen Abs vs Ant Pon
+2238,747,Coquimbo Unido,1,Último Absoluta
+2239,747,Universidad de Concepción,2,Último Ponderada
+2240,747,Iquique,3,Partido Pen Abs vs Pen Pon
+2241,748,Coquimbo Unido,1,Último Absoluta
+2242,748,Universidad de Concepción,2,Último Ponderada
+2243,748,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2244,749,Coquimbo Unido,1,Último Absoluta
+2245,749,Universidad de Concepción,2,Último Ponderada
+2246,749,Iquique,3,Partido Pen Abs vs Pen Pon
+2247,750,Coquimbo Unido,1,Último Absoluta
+2248,750,Universidad de Concepción,2,Último Ponderada
+2249,750,Iquique,3,Partido Pen Abs vs Pen Pon
+2250,751,Coquimbo Unido,1,Último Absoluta
+2251,751,Universidad de Concepción,2,Último Ponderada
+2252,751,Iquique,3,Partido Pen Abs vs Pen Pon
+2253,752,Iquique,1,Último Absoluta
+2254,752,Universidad de Concepción,2,Penúltimo Ponderada
+2255,752,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2256,753,Audax Italiano,1,Último Absoluta
+2257,753,Universidad de Concepción,2,Último Ponderada
+2258,753,Iquique,3,Partido Pen Abs vs Pen Pon
+2259,754,Coquimbo Unido,1,Último Absoluta
+2260,754,Universidad de Concepción,2,Último Ponderada
+2261,754,Iquique,3,Partido Pen Abs vs Pen Pon
+2262,755,Iquique,1,Último Absoluta
+2263,755,Universidad de Concepción,2,Penúltimo Ponderada
+2264,755,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2265,756,Iquique,1,Último Absoluta
+2266,756,Universidad de Concepción,2,Penúltimo Ponderada
+2267,756,La Serena,3,Partido Pen Abs vs Ant Pon
+2268,757,Coquimbo Unido,1,Último Absoluta
+2269,757,Iquique,2,Último Ponderada
+2270,757,La Serena,3,Partido Ant Abs vs Pen Pon
+2271,758,Coquimbo Unido,1,Último Absoluta
+2272,758,Universidad de Concepción,2,Último Ponderada
+2273,758,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2274,759,Iquique,1,Último Absoluta
+2275,759,Universidad de Concepción,2,Penúltimo Ponderada
+2276,759,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+2277,760,Colo-Colo,1,Último Absoluta
+2278,760,Universidad de Concepción,2,Último Ponderada
+2279,760,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2280,761,Colo-Colo,1,Último Absoluta
+2281,761,Universidad de Concepción,2,Último Ponderada
+2282,761,Iquique,3,Partido Pen Abs vs Pen Pon
+2283,762,Coquimbo Unido,1,Último Absoluta
+2284,762,Universidad de Concepción,2,Último Ponderada
+2285,762,Iquique,3,Partido Pen Abs vs Pen Pon
+2286,763,Coquimbo Unido,1,Último Absoluta
+2287,763,Iquique,2,Último Ponderada
+2288,763,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2289,764,Coquimbo Unido,1,Último Absoluta
+2290,764,Universidad de Concepción,2,Último Ponderada
+2291,764,Iquique,3,Partido Pen Abs vs Pen Pon
+2292,765,Coquimbo Unido,1,Último Absoluta
+2293,765,Universidad de Concepción,2,Último Ponderada
+2294,765,Iquique,3,Partido Pen Abs vs Pen Pon
+2295,766,Iquique,1,Último Absoluta
+2296,766,Universidad de Concepción,2,Último Ponderada
+2297,766,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2298,767,Colo-Colo,1,Último Absoluta
+2299,767,Iquique,2,Último Ponderada
+2300,767,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2301,768,Iquique,1,Último Absoluta
+2302,768,Universidad de Concepción,2,Último Ponderada
+2303,768,Everton,3,Partido Pen Abs vs Ant Pon
+2304,769,Coquimbo Unido,1,Último Absoluta
+2305,769,Universidad de Concepción,2,Último Ponderada
+2306,769,Iquique,3,Partido Pen Abs vs Pen Pon
+2307,770,Coquimbo Unido,1,Último Absoluta
+2308,770,Iquique,2,Último Ponderada
+2309,770,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2310,771,Coquimbo Unido,1,Último Absoluta
+2311,771,Universidad de Concepción,2,Último Ponderada
+2312,771,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2313,772,Iquique,1,Último Absoluta
+2314,772,Universidad de Concepción,2,Penúltimo Ponderada
+2315,772,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2316,773,Colo-Colo,1,Último Absoluta
+2317,773,Iquique,2,Último Ponderada
+2318,773,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+2319,774,Coquimbo Unido,1,Último Absoluta
+2320,774,Iquique,2,Último Ponderada
+2321,774,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2322,775,Iquique,1,Último Absoluta
+2323,775,Universidad de Concepción,2,Penúltimo Ponderada
+2324,775,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2325,776,Iquique,1,Último Absoluta
+2326,776,Universidad de Concepción,2,Penúltimo Ponderada
+2327,776,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2328,777,Coquimbo Unido,1,Último Absoluta
+2329,777,Iquique,2,Último Ponderada
+2330,777,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2331,778,Iquique,1,Último Absoluta
+2332,778,Universidad de Concepción,2,Último Ponderada
+2333,778,Everton,3,Partido Pen Abs vs Ant Pon
+2334,779,Coquimbo Unido,1,Último Absoluta
+2335,779,Iquique,2,Último Ponderada
+2336,779,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2337,780,Iquique,1,Último Absoluta
+2338,780,Universidad de Concepción,2,Penúltimo Ponderada
+2339,780,La Serena,3,Penúltimo Absoluta
+2340,781,Iquique,1,Último Absoluta
+2341,781,Universidad de Concepción,2,Penúltimo Ponderada
+2342,781,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2343,782,La Serena,1,Último Absoluta
+2344,782,Universidad de Concepción,2,Último Ponderada
+2345,782,Iquique,3,Partido Pen Abs vs Pen Pon
+2346,783,Colo-Colo,1,Último Absoluta
+2347,783,Universidad de Concepción,2,Último Ponderada
+2348,783,Iquique,3,Partido Pen Abs vs Pen Pon
+2349,784,Coquimbo Unido,1,Último Absoluta
+2350,784,Universidad de Concepción,2,Último Ponderada
+2351,784,Iquique,3,Partido Pen Abs vs Pen Pon
+2352,785,Coquimbo Unido,1,Último Absoluta
+2353,785,Universidad de Concepción,2,Último Ponderada
+2354,785,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2355,786,Coquimbo Unido,1,Último Absoluta
+2356,786,Universidad de Concepción,2,Último Ponderada
+2357,786,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2358,787,Coquimbo Unido,1,Último Absoluta
+2359,787,Iquique,2,Último Ponderada
+2360,787,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2361,788,Coquimbo Unido,1,Último Absoluta
+2362,788,Universidad de Concepción,2,Último Ponderada
+2363,788,Iquique,3,Partido Pen Abs vs Pen Pon
+2364,789,Iquique,1,Último Absoluta
+2365,789,Universidad de Concepción,2,Penúltimo Ponderada
+2366,789,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2367,790,Colo-Colo,1,Último Absoluta
+2368,790,Universidad de Concepción,2,Último Ponderada
+2369,790,La Serena,3,Partido Pen Abs vs Pen Pon
+2370,791,Coquimbo Unido,1,Último Absoluta
+2371,791,Universidad de Concepción,2,Último Ponderada
+2372,791,Iquique,3,Partido Pen Abs vs Pen Pon
+2373,792,Coquimbo Unido,1,Último Absoluta
+2374,792,Universidad de Concepción,2,Último Ponderada
+2375,792,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2376,793,Iquique,1,Último Absoluta
+2377,793,Universidad de Concepción,2,Penúltimo Ponderada
+2378,793,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2379,794,Coquimbo Unido,1,Último Absoluta
+2380,794,Universidad de Concepción,2,Último Ponderada
+2381,794,Iquique,3,Partido Pen Abs vs Pen Pon
+2382,795,Colo-Colo,1,Último Absoluta
+2383,795,Universidad de Concepción,2,Último Ponderada
+2384,795,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2385,796,Colo-Colo,1,Último Absoluta
+2386,796,Universidad de Concepción,2,Último Ponderada
+2387,796,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2388,797,Coquimbo Unido,1,Último Absoluta
+2389,797,Universidad de Concepción,2,Último Ponderada
+2390,797,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+2391,798,Iquique,1,Último Absoluta
+2392,798,Universidad de Concepción,2,Penúltimo Ponderada
+2393,798,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2394,799,Iquique,1,Último Absoluta
+2395,799,Universidad de Concepción,2,Penúltimo Ponderada
+2396,799,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2397,800,Coquimbo Unido,1,Último Absoluta
+2398,800,Iquique,2,Último Ponderada
+2399,800,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2400,801,Iquique,1,Último Absoluta
+2401,801,Universidad de Concepción,2,Penúltimo Ponderada
+2402,801,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2403,802,Coquimbo Unido,1,Último Absoluta
+2404,802,Iquique,2,Último Ponderada
+2405,802,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2406,803,Coquimbo Unido,1,Último Absoluta
+2407,803,Iquique,2,Último Ponderada
+2408,803,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2409,804,Iquique,1,Último Absoluta
+2410,804,Universidad de Concepción,2,Penúltimo Ponderada
+2411,804,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2412,805,Colo-Colo,1,Último Absoluta
+2413,805,Universidad de Concepción,2,Último Ponderada
+2414,805,Iquique,3,Partido Pen Abs vs Pen Pon
+2415,806,Coquimbo Unido,1,Último Absoluta
+2416,806,Universidad de Concepción,2,Último Ponderada
+2417,806,Iquique,3,Partido Pen Abs vs Pen Pon
+2418,807,Coquimbo Unido,1,Último Absoluta
+2419,807,Universidad de Concepción,2,Último Ponderada
+2420,807,Iquique,3,Partido Pen Abs vs Pen Pon
+2421,808,Colo-Colo,1,Último Absoluta
+2422,808,Iquique,2,Último Ponderada
+2423,808,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+2424,809,Coquimbo Unido,1,Último Absoluta
+2425,809,Universidad de Concepción,2,Último Ponderada
+2426,809,Iquique,3,Partido Pen Abs vs Pen Pon
+2427,810,Iquique,1,Último Absoluta
+2428,810,Universidad de Concepción,2,Penúltimo Ponderada
+2429,810,La Serena,3,Partido Pen Abs vs Ant Pon
+2430,811,Iquique,1,Último Absoluta
+2431,811,Universidad de Concepción,2,Último Ponderada
+2432,811,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2433,812,Iquique,1,Último Absoluta
+2434,812,Universidad de Concepción,2,Último Ponderada
+2435,812,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2436,813,Coquimbo Unido,1,Último Absoluta
+2437,813,Universidad de Concepción,2,Último Ponderada
+2438,813,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2439,814,Iquique,1,Último Absoluta
+2440,814,Universidad de Concepción,2,Penúltimo Ponderada
+2441,814,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2442,815,Coquimbo Unido,1,Último Absoluta
+2443,815,Universidad de Concepción,2,Último Ponderada
+2444,815,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2445,816,Coquimbo Unido,1,Último Absoluta
+2446,816,Universidad de Concepción,2,Último Ponderada
+2447,816,Iquique,3,Partido Pen Abs vs Pen Pon
+2448,817,Iquique,1,Último Absoluta
+2449,817,Universidad de Concepción,2,Penúltimo Ponderada
+2450,817,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2451,818,Iquique,1,Último Absoluta
+2452,818,Universidad de Concepción,2,Penúltimo Ponderada
+2453,818,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2454,819,Coquimbo Unido,1,Último Absoluta
+2455,819,Universidad de Concepción,2,Último Ponderada
+2456,819,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+2457,820,Coquimbo Unido,1,Último Absoluta
+2458,820,Iquique,2,Último Ponderada
+2459,820,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2460,821,Iquique,1,Último Absoluta
+2461,821,Universidad de Concepción,2,Penúltimo Ponderada
+2462,821,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2463,822,Coquimbo Unido,1,Último Absoluta
+2464,822,Universidad de Concepción,2,Último Ponderada
+2465,822,Iquique,3,Partido Pen Abs vs Pen Pon
+2466,823,Iquique,1,Último Absoluta
+2467,823,Universidad de Concepción,2,Penúltimo Ponderada
+2468,823,Audax Italiano,3,Partido Pen Abs vs Ant Pon
+2469,824,Iquique,1,Último Absoluta
+2470,824,Universidad de Concepción,2,Penúltimo Ponderada
+2471,824,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2472,825,Colo-Colo,1,Último Absoluta
+2473,825,Universidad de Concepción,2,Último Ponderada
+2474,825,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2475,826,Coquimbo Unido,1,Último Absoluta
+2476,826,Universidad de Concepción,2,Último Ponderada
+2477,826,Iquique,3,Partido Pen Abs vs Pen Pon
+2478,827,Coquimbo Unido,1,Último Absoluta
+2479,827,Universidad de Concepción,2,Último Ponderada
+2480,827,Iquique,3,Partido Pen Abs vs Pen Pon
+2481,828,Iquique,1,Último Absoluta
+2482,828,Universidad de Concepción,2,Penúltimo Ponderada
+2483,828,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2484,829,Coquimbo Unido,1,Último Absoluta
+2485,829,Universidad de Concepción,2,Último Ponderada
+2486,829,Iquique,3,Partido Pen Abs vs Pen Pon
+2487,830,Coquimbo Unido,1,Último Absoluta
+2488,830,Universidad de Concepción,2,Último Ponderada
+2489,830,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2490,831,Colo-Colo,1,Último Absoluta
+2491,831,Iquique,2,Último Ponderada
+2492,831,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2493,832,Coquimbo Unido,1,Último Absoluta
+2494,832,Iquique,2,Último Ponderada
+2495,832,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+2496,833,Iquique,1,Último Absoluta
+2497,833,Universidad de Concepción,2,Último Ponderada
+2498,833,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+2499,834,La Serena,1,Último Absoluta
+2500,834,Universidad de Concepción,2,Último Ponderada
+2501,834,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2502,835,Coquimbo Unido,1,Último Absoluta
+2503,835,Universidad de Concepción,2,Último Ponderada
+2504,835,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+2505,836,Coquimbo Unido,1,Último Absoluta
+2506,836,Universidad de Concepción,2,Último Ponderada
+2507,836,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2508,837,Iquique,1,Último Absoluta
+2509,837,Universidad de Concepción,2,Penúltimo Ponderada
+2510,837,Everton,3,Partido Pen Abs vs Ant Pon
+2511,838,Iquique,1,Último Absoluta
+2512,838,Universidad de Concepción,2,Penúltimo Ponderada
+2513,838,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2514,839,Coquimbo Unido,1,Último Absoluta
+2515,839,Universidad de Concepción,2,Último Ponderada
+2516,839,Iquique,3,Partido Pen Abs vs Pen Pon
+2517,840,Audax Italiano,1,Último Absoluta
+2518,840,Universidad de Concepción,2,Último Ponderada
+2519,840,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2520,841,Coquimbo Unido,1,Último Absoluta
+2521,841,Iquique,2,Último Ponderada
+2522,841,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2523,842,Coquimbo Unido,1,Último Absoluta
+2524,842,Universidad de Concepción,2,Último Ponderada
+2525,842,Iquique,3,Partido Pen Abs vs Pen Pon
+2526,843,Iquique,1,Último Absoluta
+2527,843,Universidad de Concepción,2,Penúltimo Ponderada
+2528,843,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2529,844,Coquimbo Unido,1,Último Absoluta
+2530,844,Universidad de Concepción,2,Último Ponderada
+2531,844,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2532,845,Coquimbo Unido,1,Último Absoluta
+2533,845,Iquique,2,Último Ponderada
+2534,845,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2535,846,Iquique,1,Último Absoluta
+2536,846,Universidad de Concepción,2,Penúltimo Ponderada
+2537,846,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2538,847,Coquimbo Unido,1,Último Absoluta
+2539,847,Universidad de Concepción,2,Último Ponderada
+2540,847,Iquique,3,Partido Pen Abs vs Pen Pon
+2541,848,Coquimbo Unido,1,Último Absoluta
+2542,848,Universidad de Concepción,2,Último Ponderada
+2543,848,Iquique,3,Partido Pen Abs vs Pen Pon
+2544,849,Coquimbo Unido,1,Último Absoluta
+2545,849,Universidad de Concepción,2,Último Ponderada
+2546,849,La Serena,3,Partido Pen Abs vs Pen Pon
+2547,850,Iquique,1,Último Absoluta
+2548,850,Universidad de Concepción,2,Penúltimo Ponderada
+2549,850,Everton,3,Partido Pen Abs vs Ant Pon
+2550,851,Coquimbo Unido,1,Último Absoluta
+2551,851,Iquique,2,Último Ponderada
+2552,851,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2553,852,Iquique,1,Último Absoluta
+2554,852,Universidad de Concepción,2,Penúltimo Ponderada
+2555,852,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2556,853,La Serena,1,Último Absoluta
+2557,853,Iquique,2,Último Ponderada
+2558,853,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2559,854,Coquimbo Unido,1,Último Absoluta
+2560,854,Iquique,2,Último Ponderada
+2561,854,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2562,855,Coquimbo Unido,1,Último Absoluta
+2563,855,Iquique,2,Último Ponderada
+2564,855,Audax Italiano,3,Partido Ant Abs vs Pen Pon
+2565,856,Coquimbo Unido,1,Último Absoluta
+2566,856,Iquique,2,Último Ponderada
+2567,856,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2568,857,La Serena,1,Último Absoluta
+2569,857,Universidad de Concepción,2,Último Ponderada
+2570,857,Iquique,3,Partido Pen Abs vs Pen Pon
+2571,858,Coquimbo Unido,1,Último Absoluta
+2572,858,Universidad de Concepción,2,Último Ponderada
+2573,858,Iquique,3,Partido Pen Abs vs Pen Pon
+2574,859,Colo-Colo,1,Último Absoluta
+2575,859,Iquique,2,Último Ponderada
+2576,859,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2577,860,Iquique,1,Último Absoluta
+2578,860,Universidad de Concepción,2,Penúltimo Ponderada
+2579,860,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+2580,861,Coquimbo Unido,1,Último Absoluta
+2581,861,Iquique,2,Último Ponderada
+2582,861,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2583,862,Coquimbo Unido,1,Último Absoluta
+2584,862,Iquique,2,Último Ponderada
+2585,862,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2586,863,Coquimbo Unido,1,Último Absoluta
+2587,863,Universidad de Concepción,2,Último Ponderada
+2588,863,Iquique,3,Partido Pen Abs vs Pen Pon
+2589,864,Coquimbo Unido,1,Último Absoluta
+2590,864,Universidad de Concepción,2,Último Ponderada
+2591,864,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+2592,865,Colo-Colo,1,Último Absoluta
+2593,865,Iquique,2,Último Ponderada
+2594,865,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2595,866,Colo-Colo,1,Último Absoluta
+2596,866,Universidad de Concepción,2,Último Ponderada
+2597,866,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+2598,867,Coquimbo Unido,1,Último Absoluta
+2599,867,Iquique,2,Último Ponderada
+2600,867,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2601,868,Coquimbo Unido,1,Último Absoluta
+2602,868,Universidad de Concepción,2,Último Ponderada
+2603,868,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2604,869,Coquimbo Unido,1,Último Absoluta
+2605,869,Iquique,2,Último Ponderada
+2606,869,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2607,870,Iquique,1,Último Absoluta
+2608,870,Universidad de Concepción,2,Penúltimo Ponderada
+2609,870,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2610,871,Iquique,1,Último Absoluta
+2611,871,Universidad de Concepción,2,Penúltimo Ponderada
+2612,871,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2613,872,Iquique,1,Último Absoluta
+2614,872,Universidad de Concepción,2,Penúltimo Ponderada
+2615,872,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2616,873,Coquimbo Unido,1,Último Absoluta
+2617,873,Universidad de Concepción,2,Último Ponderada
+2618,873,Iquique,3,Partido Pen Abs vs Pen Pon
+2619,874,Coquimbo Unido,1,Último Absoluta
+2620,874,Universidad de Concepción,2,Último Ponderada
+2621,874,Iquique,3,Partido Pen Abs vs Pen Pon
+2622,875,Coquimbo Unido,1,Último Absoluta
+2623,875,Universidad de Concepción,2,Último Ponderada
+2624,875,Iquique,3,Partido Pen Abs vs Pen Pon
+2625,876,Iquique,1,Último Absoluta
+2626,876,Universidad de Concepción,2,Penúltimo Ponderada
+2627,876,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2628,877,La Serena,1,Último Absoluta
+2629,877,Universidad de Concepción,2,Último Ponderada
+2630,877,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2631,878,Iquique,1,Último Absoluta
+2632,878,Universidad de Concepción,2,Penúltimo Ponderada
+2633,878,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2634,879,Colo-Colo,1,Último Absoluta
+2635,879,Iquique,2,Último Ponderada
+2636,879,La Serena,3,Partido Ant Abs vs Pen Pon
+2637,880,Coquimbo Unido,1,Último Absoluta
+2638,880,Universidad de Concepción,2,Último Ponderada
+2639,880,Iquique,3,Partido Pen Abs vs Pen Pon
+2640,881,Coquimbo Unido,1,Último Absoluta
+2641,881,Universidad de Concepción,2,Último Ponderada
+2642,881,Iquique,3,Partido Pen Abs vs Pen Pon
+2643,882,Iquique,1,Último Absoluta
+2644,882,Universidad de Concepción,2,Penúltimo Ponderada
+2645,882,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2646,883,Coquimbo Unido,1,Último Absoluta
+2647,883,Universidad de Concepción,2,Último Ponderada
+2648,883,Iquique,3,Partido Pen Abs vs Pen Pon
+2649,884,Colo-Colo,1,Último Absoluta
+2650,884,Universidad de Concepción,2,Último Ponderada
+2651,884,La Serena,3,Partido Pen Abs vs Pen Pon
+2652,885,Iquique,1,Último Absoluta
+2653,885,Universidad de Concepción,2,Penúltimo Ponderada
+2654,885,Everton,3,Partido Pen Abs vs Ant Pon
+2655,886,Iquique,1,Último Absoluta
+2656,886,Universidad de Concepción,2,Penúltimo Ponderada
+2657,886,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2658,887,Iquique,1,Último Absoluta
+2659,887,Universidad de Concepción,2,Penúltimo Ponderada
+2660,887,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+2661,888,Coquimbo Unido,1,Último Absoluta
+2662,888,Universidad de Concepción,2,Último Ponderada
+2663,888,Iquique,3,Partido Pen Abs vs Pen Pon
+2664,889,Coquimbo Unido,1,Último Absoluta
+2665,889,Universidad de Concepción,2,Último Ponderada
+2666,889,Iquique,3,Partido Pen Abs vs Pen Pon
+2667,890,Iquique,1,Último Absoluta
+2668,890,Universidad de Concepción,2,Penúltimo Ponderada
+2669,890,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2670,891,Iquique,1,Último Absoluta
+2671,891,Universidad de Concepción,2,Penúltimo Ponderada
+2672,891,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2673,892,Iquique,1,Último Absoluta
+2674,892,Universidad de Concepción,2,Penúltimo Ponderada
+2675,892,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2676,893,Iquique,1,Último Absoluta
+2677,893,Universidad de Concepción,2,Penúltimo Ponderada
+2678,893,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2679,894,Coquimbo Unido,1,Último Absoluta
+2680,894,Universidad de Concepción,2,Último Ponderada
+2681,894,Iquique,3,Partido Pen Abs vs Pen Pon
+2682,895,Iquique,1,Último Absoluta
+2683,895,Universidad de Concepción,2,Penúltimo Ponderada
+2684,895,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2685,896,Coquimbo Unido,1,Último Absoluta
+2686,896,Universidad de Concepción,2,Último Ponderada
+2687,896,Iquique,3,Partido Pen Abs vs Pen Pon
+2688,897,Coquimbo Unido,1,Último Absoluta
+2689,897,Universidad de Concepción,2,Último Ponderada
+2690,897,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2691,898,Iquique,1,Último Absoluta
+2692,898,Universidad de Concepción,2,Penúltimo Ponderada
+2693,898,La Serena,3,Partido Pen Abs vs Ant Pon
+2694,899,Coquimbo Unido,1,Último Absoluta
+2695,899,Universidad de Concepción,2,Último Ponderada
+2696,899,Iquique,3,Partido Pen Abs vs Pen Pon
+2697,900,Coquimbo Unido,1,Último Absoluta
+2698,900,Universidad de Concepción,2,Último Ponderada
+2699,900,Iquique,3,Partido Pen Abs vs Pen Pon
+2700,901,Colo-Colo,1,Último Absoluta
+2701,901,Iquique,2,Último Ponderada
+2702,901,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+2703,902,Iquique,1,Último Absoluta
+2704,902,Universidad de Concepción,2,Último Ponderada
+2705,902,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2706,903,Coquimbo Unido,1,Último Absoluta
+2707,903,Universidad de Concepción,2,Último Ponderada
+2708,903,Iquique,3,Partido Pen Abs vs Pen Pon
+2709,904,Iquique,1,Último Absoluta
+2710,904,Universidad de Concepción,2,Penúltimo Ponderada
+2711,904,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2712,905,Coquimbo Unido,1,Último Absoluta
+2713,905,Universidad de Concepción,2,Último Ponderada
+2714,905,Iquique,3,Partido Pen Abs vs Pen Pon
+2715,906,Coquimbo Unido,1,Último Absoluta
+2716,906,Universidad de Concepción,2,Último Ponderada
+2717,906,Iquique,3,Partido Pen Abs vs Pen Pon
+2718,907,Coquimbo Unido,1,Último Absoluta
+2719,907,Iquique,2,Último Ponderada
+2720,907,La Serena,3,Partido Ant Abs vs Pen Pon
+2721,908,Iquique,1,Último Absoluta
+2722,908,Universidad de Concepción,2,Penúltimo Ponderada
+2723,908,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2724,909,Coquimbo Unido,1,Último Absoluta
+2725,909,Universidad de Concepción,2,Último Ponderada
+2726,909,Iquique,3,Partido Pen Abs vs Pen Pon
+2727,910,Coquimbo Unido,1,Último Absoluta
+2728,910,Iquique,2,Último Ponderada
+2729,910,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2730,911,Iquique,1,Último Absoluta
+2731,911,Universidad de Concepción,2,Penúltimo Ponderada
+2732,911,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2733,912,Colo-Colo,1,Último Absoluta
+2734,912,Universidad de Concepción,2,Último Ponderada
+2735,912,Iquique,3,Partido Pen Abs vs Pen Pon
+2736,913,Coquimbo Unido,1,Último Absoluta
+2737,913,Universidad de Concepción,2,Último Ponderada
+2738,913,La Serena,3,Partido Pen Abs vs Pen Pon
+2739,914,Coquimbo Unido,1,Último Absoluta
+2740,914,Iquique,2,Último Ponderada
+2741,914,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2742,915,Coquimbo Unido,1,Último Absoluta
+2743,915,Universidad de Concepción,2,Último Ponderada
+2744,915,Iquique,3,Partido Pen Abs vs Pen Pon
+2745,916,Coquimbo Unido,1,Último Absoluta
+2746,916,Iquique,2,Último Ponderada
+2747,916,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2748,917,Colo-Colo,1,Último Absoluta
+2749,917,Universidad de Concepción,2,Último Ponderada
+2750,917,Iquique,3,Partido Pen Abs vs Pen Pon
+2751,918,Iquique,1,Último Absoluta
+2752,918,Universidad de Concepción,2,Penúltimo Ponderada
+2753,918,Everton,3,Partido Pen Abs vs Ant Pon
+2754,919,Coquimbo Unido,1,Último Absoluta
+2755,919,Universidad de Concepción,2,Último Ponderada
+2756,919,Iquique,3,Partido Pen Abs vs Pen Pon
+2757,920,Iquique,1,Último Absoluta
+2758,920,Universidad de Concepción,2,Último Ponderada
+2759,920,La Serena,3,Partido Pen Abs vs Ant Pon
+2760,921,Coquimbo Unido,1,Último Absoluta
+2761,921,Iquique,2,Último Ponderada
+2762,921,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2763,922,Coquimbo Unido,1,Último Absoluta
+2764,922,Universidad de Concepción,2,Último Ponderada
+2765,922,Iquique,3,Partido Pen Abs vs Pen Pon
+2766,923,Coquimbo Unido,1,Último Absoluta
+2767,923,Iquique,2,Último Ponderada
+2768,923,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2769,924,Coquimbo Unido,1,Último Absoluta
+2770,924,Iquique,2,Último Ponderada
+2771,924,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2772,925,Coquimbo Unido,1,Último Absoluta
+2773,925,Universidad de Concepción,2,Último Ponderada
+2774,925,Iquique,3,Partido Pen Abs vs Pen Pon
+2775,926,Coquimbo Unido,1,Último Absoluta
+2776,926,Universidad de Concepción,2,Último Ponderada
+2777,926,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2778,927,Coquimbo Unido,1,Último Absoluta
+2779,927,Iquique,2,Último Ponderada
+2780,927,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2781,928,Coquimbo Unido,1,Último Absoluta
+2782,928,Universidad de Concepción,2,Último Ponderada
+2783,928,Iquique,3,Partido Pen Abs vs Pen Pon
+2784,929,Coquimbo Unido,1,Último Absoluta
+2785,929,Universidad de Concepción,2,Último Ponderada
+2786,929,La Serena,3,Partido Pen Abs vs Pen Pon
+2787,930,Colo-Colo,1,Último Absoluta
+2788,930,Iquique,2,Último Ponderada
+2789,930,Coquimbo Unido,3,Partido Ant Abs vs Pen Pon
+2790,931,Coquimbo Unido,1,Último Absoluta
+2791,931,Iquique,2,Último Ponderada
+2792,931,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2793,932,Iquique,1,Último Absoluta
+2794,932,Universidad de Concepción,2,Último Ponderada
+2795,932,Universidad de Chile,3,Partido Pen Abs vs Ant Pon
+2796,933,Coquimbo Unido,1,Último Absoluta
+2797,933,Universidad de Concepción,2,Último Ponderada
+2798,933,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+2799,934,Coquimbo Unido,1,Último Absoluta
+2800,934,Universidad de Concepción,2,Último Ponderada
+2801,934,Iquique,3,Partido Pen Abs vs Pen Pon
+2802,935,Coquimbo Unido,1,Último Absoluta
+2803,935,Universidad de Concepción,2,Último Ponderada
+2804,935,Iquique,3,Partido Pen Abs vs Pen Pon
+2805,936,Iquique,1,Último Absoluta
+2806,936,Universidad de Concepción,2,Último Ponderada
+2807,936,Universidad de Chile,3,Partido Ant Abs vs Ant Pon
+2808,937,Coquimbo Unido,1,Último Absoluta
+2809,937,Universidad de Concepción,2,Último Ponderada
+2810,937,Iquique,3,Partido Pen Abs vs Pen Pon
+2811,938,Coquimbo Unido,1,Último Absoluta
+2812,938,Universidad de Concepción,2,Último Ponderada
+2813,938,Iquique,3,Partido Pen Abs vs Pen Pon
+2814,939,Iquique,1,Último Absoluta
+2815,939,Universidad de Concepción,2,Penúltimo Ponderada
+2816,939,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2817,940,Colo-Colo,1,Último Absoluta
+2818,940,Universidad de Concepción,2,Último Ponderada
+2819,940,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2820,941,Coquimbo Unido,1,Último Absoluta
+2821,941,Universidad de Concepción,2,Último Ponderada
+2822,941,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2823,942,Coquimbo Unido,1,Último Absoluta
+2824,942,Iquique,2,Último Ponderada
+2825,942,La Serena,3,Partido Ant Abs vs Pen Pon
+2826,943,La Serena,1,Último Absoluta
+2827,943,Universidad de Concepción,2,Último Ponderada
+2828,943,Iquique,3,Partido Pen Abs vs Pen Pon
+2829,944,Iquique,1,Último Absoluta
+2830,944,Universidad de Concepción,2,Penúltimo Ponderada
+2831,944,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2832,945,Colo-Colo,1,Último Absoluta
+2833,945,Universidad de Concepción,2,Último Ponderada
+2834,945,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2835,946,Iquique,1,Último Absoluta
+2836,946,Universidad de Concepción,2,Último Ponderada
+2837,946,Curicó Unido,3,Partido Pen Abs vs Ant Pon
+2838,947,Coquimbo Unido,1,Último Absoluta
+2839,947,Universidad de Concepción,2,Último Ponderada
+2840,947,Iquique,3,Partido Pen Abs vs Pen Pon
+2841,948,Coquimbo Unido,1,Último Absoluta
+2842,948,Iquique,2,Último Ponderada
+2843,948,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2844,949,Coquimbo Unido,1,Último Absoluta
+2845,949,Iquique,2,Último Ponderada
+2846,949,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2847,950,Colo-Colo,1,Último Absoluta
+2848,950,Iquique,2,Último Ponderada
+2849,950,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2850,951,Coquimbo Unido,1,Último Absoluta
+2851,951,Universidad de Concepción,2,Último Ponderada
+2852,951,Iquique,3,Partido Pen Abs vs Pen Pon
+2853,952,Colo-Colo,1,Último Absoluta
+2854,952,Iquique,2,Último Ponderada
+2855,952,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2856,953,Iquique,1,Último Absoluta
+2857,953,Universidad de Concepción,2,Penúltimo Ponderada
+2858,953,La Serena,3,Partido Pen Abs vs Ant Pon
+2859,954,Iquique,1,Último Absoluta
+2860,954,Universidad de Concepción,2,Penúltimo Ponderada
+2861,954,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2862,955,Coquimbo Unido,1,Último Absoluta
+2863,955,Universidad de Concepción,2,Último Ponderada
+2864,955,Iquique,3,Partido Pen Abs vs Pen Pon
+2865,956,Iquique,1,Último Absoluta
+2866,956,Universidad de Concepción,2,Penúltimo Ponderada
+2867,956,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2868,957,Coquimbo Unido,1,Último Absoluta
+2869,957,Iquique,2,Último Ponderada
+2870,957,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2871,958,Coquimbo Unido,1,Último Absoluta
+2872,958,Universidad de Concepción,2,Último Ponderada
+2873,958,Universidad de Chile,3,Partido Pen Abs vs Pen Pon
+2874,959,Iquique,1,Último Absoluta
+2875,959,Universidad de Concepción,2,Penúltimo Ponderada
+2876,959,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2877,960,Coquimbo Unido,1,Último Absoluta
+2878,960,Universidad de Concepción,2,Último Ponderada
+2879,960,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2880,961,Coquimbo Unido,1,Último Absoluta
+2881,961,Iquique,2,Último Ponderada
+2882,961,Universidad de Concepción,3,Partido Pen Abs vs Pen Pon
+2883,962,Coquimbo Unido,1,Último Absoluta
+2884,962,Iquique,2,Último Ponderada
+2885,962,La Serena,3,Partido Ant Abs vs Pen Pon
+2886,963,Coquimbo Unido,1,Último Absoluta
+2887,963,Universidad de Concepción,2,Último Ponderada
+2888,963,Iquique,3,Partido Pen Abs vs Pen Pon
+2889,964,Coquimbo Unido,1,Último Absoluta
+2890,964,Universidad de Concepción,2,Último Ponderada
+2891,964,Iquique,3,Partido Pen Abs vs Pen Pon
+2892,965,Coquimbo Unido,1,Último Absoluta
+2893,965,Universidad de Concepción,2,Último Ponderada
+2894,965,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2895,966,Coquimbo Unido,1,Último Absoluta
+2896,966,Universidad de Concepción,2,Último Ponderada
+2897,966,Iquique,3,Partido Pen Abs vs Pen Pon
+2898,967,Iquique,1,Último Absoluta
+2899,967,Universidad de Concepción,2,Penúltimo Ponderada
+2900,967,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2901,968,Colo-Colo,1,Último Absoluta
+2902,968,Universidad de Concepción,2,Último Ponderada
+2903,968,Cobresal,3,Partido Pen Abs vs Pen Pon
+2904,969,Colo-Colo,1,Último Absoluta
+2905,969,Universidad de Concepción,2,Último Ponderada
+2906,969,Iquique,3,Partido Pen Abs vs Pen Pon
+2907,970,Coquimbo Unido,1,Último Absoluta
+2908,970,Universidad de Concepción,2,Último Ponderada
+2909,970,Iquique,3,Partido Pen Abs vs Pen Pon
+2910,971,Coquimbo Unido,1,Último Absoluta
+2911,971,Universidad de Concepción,2,Último Ponderada
+2912,971,La Serena,3,Partido Pen Abs vs Pen Pon
+2913,972,Colo-Colo,1,Último Absoluta
+2914,972,Universidad de Concepción,2,Último Ponderada
+2915,972,Audax Italiano,3,Partido Pen Abs vs Pen Pon
+2916,973,Iquique,1,Último Absoluta
+2917,973,Universidad de Concepción,2,Penúltimo Ponderada
+2918,973,Antofagasta,3,Partido Pen Abs vs Ant Pon
+2919,974,Coquimbo Unido,1,Último Absoluta
+2920,974,Universidad de Concepción,2,Último Ponderada
+2921,974,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2922,975,Iquique,1,Último Absoluta
+2923,975,Universidad de Concepción,2,Penúltimo Ponderada
+2924,975,Coquimbo Unido,3,Partido Pen Abs vs Ant Pon
+2925,976,Colo-Colo,1,Último Absoluta
+2926,976,Universidad de Concepción,2,Último Ponderada
+2927,976,Iquique,3,Partido Pen Abs vs Pen Pon
+2928,977,Coquimbo Unido,1,Último Absoluta
+2929,977,Universidad de Concepción,2,Último Ponderada
+2930,977,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2931,978,Coquimbo Unido,1,Último Absoluta
+2932,978,Iquique,2,Último Ponderada
+2933,978,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2934,979,Coquimbo Unido,1,Último Absoluta
+2935,979,Iquique,2,Último Ponderada
+2936,979,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2937,980,Colo-Colo,1,Último Absoluta
+2938,980,Universidad de Concepción,2,Último Ponderada
+2939,980,Iquique,3,Partido Pen Abs vs Pen Pon
+2940,981,Coquimbo Unido,1,Último Absoluta
+2941,981,Universidad de Concepción,2,Último Ponderada
+2942,981,Iquique,3,Partido Pen Abs vs Pen Pon
+2943,982,Iquique,1,Último Absoluta
+2944,982,Universidad de Concepción,2,Penúltimo Ponderada
+2945,982,Colo-Colo,3,Partido Pen Abs vs Ant Pon
+2946,983,Coquimbo Unido,1,Último Absoluta
+2947,983,Universidad de Concepción,2,Último Ponderada
+2948,983,Iquique,3,Partido Pen Abs vs Pen Pon
+2949,984,Coquimbo Unido,1,Último Absoluta
+2950,984,Iquique,2,Último Ponderada
+2951,984,La Serena,3,Partido Ant Abs vs Pen Pon
+2952,985,Coquimbo Unido,1,Último Absoluta
+2953,985,Iquique,2,Último Ponderada
+2954,985,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2955,986,Coquimbo Unido,1,Último Absoluta
+2956,986,Universidad de Concepción,2,Último Ponderada
+2957,986,Iquique,3,Partido Pen Abs vs Pen Pon
+2958,987,Coquimbo Unido,1,Último Absoluta
+2959,987,Universidad de Concepción,2,Último Ponderada
+2960,987,Iquique,3,Partido Pen Abs vs Pen Pon
+2961,988,Coquimbo Unido,1,Último Absoluta
+2962,988,Universidad de Concepción,2,Último Ponderada
+2963,988,Iquique,3,Partido Pen Abs vs Pen Pon
+2964,989,Coquimbo Unido,1,Último Absoluta
+2965,989,Universidad de Concepción,2,Último Ponderada
+2966,989,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2967,990,Coquimbo Unido,1,Último Absoluta
+2968,990,Iquique,2,Último Ponderada
+2969,990,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2970,991,Coquimbo Unido,1,Último Absoluta
+2971,991,Universidad de Concepción,2,Último Ponderada
+2972,991,Colo-Colo,3,Partido Pen Abs vs Pen Pon
+2973,992,La Serena,1,Último Absoluta
+2974,992,Universidad de Concepción,2,Último Ponderada
+2975,992,Iquique,3,Partido Pen Abs vs Pen Pon
+2976,993,Coquimbo Unido,1,Último Absoluta
+2977,993,Universidad de Concepción,2,Último Ponderada
+2978,993,La Serena,3,Partido Pen Abs vs Pen Pon
+2979,994,Coquimbo Unido,1,Último Absoluta
+2980,994,Iquique,2,Último Ponderada
+2981,994,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2982,995,Coquimbo Unido,1,Último Absoluta
+2983,995,Iquique,2,Último Ponderada
+2984,995,Universidad de Concepción,3,Partido Ant Abs vs Pen Pon
+2985,996,Colo-Colo,1,Último Absoluta
+2986,996,Iquique,2,Último Ponderada
+2987,996,Coquimbo Unido,3,Partido Pen Abs vs Pen Pon
+2988,997,Iquique,1,Último Absoluta
+2989,997,Universidad de Concepción,2,Penúltimo Ponderada
+2990,997,La Serena,3,Partido Pen Abs vs Ant Pon
+2991,998,Coquimbo Unido,1,Último Absoluta
+2992,998,Iquique,2,Último Ponderada
+2993,998,Colo-Colo,3,Partido Ant Abs vs Pen Pon
+2994,999,Colo-Colo,1,Último Absoluta
+2995,999,Universidad de Concepción,2,Último Ponderada
+2996,999,Iquique,3,Partido Pen Abs vs Pen Pon
+2997,1000,Coquimbo Unido,1,Último Absoluta
+2998,1000,Universidad de Concepción,2,Último Ponderada
+2999,1000,Colo-Colo,3,Partido Pen Abs vs Pen Pon

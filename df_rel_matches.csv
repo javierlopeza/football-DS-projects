@@ -1,0 +1,989 @@
+,n_sim,team_1,team_2
+0,1,Iquique,Iquique
+1,2,Coquimbo Unido,Iquique
+2,3,Audax Italiano,Iquique
+3,4,Colo-Colo,Universidad de Chile
+4,5,Coquimbo Unido,Universidad de Chile
+5,6,Colo-Colo,Universidad de Chile
+6,7,Colo-Colo,Iquique
+7,8,Coquimbo Unido,Iquique
+8,9,La Serena,La Serena
+9,10,Iquique,Iquique
+10,11,Colo-Colo,Iquique
+11,12,Colo-Colo,Iquique
+12,13,La Serena,Iquique
+13,14,Iquique,Iquique
+14,15,Colo-Colo,Iquique
+15,16,Audax Italiano,Universidad de Chile
+16,17,Universidad de Concepción,Everton
+17,18,Coquimbo Unido,Universidad de Chile
+18,19,Colo-Colo,Universidad de Chile
+19,20,La Serena,Iquique
+20,21,Universidad de Concepción,Curicó Unido
+21,22,Audax Italiano,Universidad de Chile
+22,23,La Serena,Iquique
+23,24,Coquimbo Unido,La Serena
+24,25,Coquimbo Unido,Iquique
+25,26,Universidad de Concepción,Antofagasta
+26,27,Colo-Colo,La Serena
+27,28,Coquimbo Unido,Universidad de Chile
+28,29,Audax Italiano,Iquique
+29,30,Coquimbo Unido,Universidad de Chile
+30,31,Coquimbo Unido,Universidad de Chile
+31,32,Coquimbo Unido,Iquique
+32,33,Universidad de Concepción,Antofagasta
+33,34,Universidad de Concepción,Everton
+34,35,Iquique,Iquique
+35,36,Universidad de Concepción,La Serena
+36,37,Iquique,Iquique
+37,38,Universidad de Concepción,La Serena
+38,39,Colo-Colo,Iquique
+39,40,Colo-Colo,Iquique
+40,41,Coquimbo Unido,Universidad de Chile
+41,42,La Serena,Universidad de Chile
+42,43,Iquique,Iquique
+43,44,Audax Italiano,Iquique
+44,45,Coquimbo Unido,Antofagasta
+45,46,Coquimbo Unido,Iquique
+46,47,Iquique,Iquique
+47,48,Universidad de Concepción,Everton
+48,49,Iquique,Iquique
+49,50,Colo-Colo,Iquique
+50,51,Coquimbo Unido,Antofagasta
+51,52,Universidad de Concepción,Universidad de Chile
+52,53,Iquique,Iquique
+53,54,Iquique,Iquique
+54,55,Coquimbo Unido,Universidad de Chile
+55,56,Universidad de Concepción,Antofagasta
+56,57,Coquimbo Unido,Antofagasta
+57,58,Coquimbo Unido,Universidad de Chile
+58,59,Colo-Colo,Universidad de Chile
+59,60,La Serena,Iquique
+60,61,Colo-Colo,Universidad de Chile
+61,62,Audax Italiano,Iquique
+62,63,Colo-Colo,Iquique
+63,64,Coquimbo Unido,Antofagasta
+64,65,Audax Italiano,Iquique
+65,66,Colo-Colo,Universidad de Concepción
+66,67,Coquimbo Unido,Antofagasta
+67,68,Universidad de Concepción,Antofagasta
+68,69,Colo-Colo,Iquique
+69,70,Iquique,Iquique
+70,71,Colo-Colo,Universidad de Chile
+71,72,Coquimbo Unido,Iquique
+72,73,Iquique,Universidad de Chile
+73,74,Colo-Colo,Iquique
+74,75,Colo-Colo,Iquique
+75,76,Colo-Colo,Iquique
+76,77,La Serena,Iquique
+77,78,Universidad de Concepción,Everton
+78,79,Iquique,Iquique
+79,80,Colo-Colo,Universidad de Chile
+80,81,Iquique,Iquique
+81,82,Colo-Colo,Iquique
+82,83,Audax Italiano,Iquique
+83,84,Coquimbo Unido,Universidad de Chile
+84,85,Iquique,Universidad de Chile
+85,86,Iquique,Iquique
+86,87,Coquimbo Unido,Universidad de Chile
+87,88,Colo-Colo,Iquique
+88,89,Universidad de Concepción,Everton
+89,90,Colo-Colo,Universidad de Chile
+90,91,Iquique,Iquique
+91,92,Iquique,Iquique
+92,93,Coquimbo Unido,Iquique
+93,94,Iquique,Iquique
+94,95,Coquimbo Unido,Antofagasta
+95,96,Coquimbo Unido,Curicó Unido
+96,97,Coquimbo Unido,Antofagasta
+97,98,La Serena,Universidad de Chile
+98,99,La Serena,Iquique
+99,100,La Serena,Universidad de Chile
+100,101,Iquique,Iquique
+101,102,Universidad de Concepción,Universidad de Chile
+102,103,Colo-Colo,Everton
+103,104,Coquimbo Unido,Universidad de Chile
+104,105,Colo-Colo,Everton
+105,106,Coquimbo Unido,Universidad de Chile
+106,107,Colo-Colo,Universidad de Chile
+107,108,Coquimbo Unido,Universidad de Chile
+108,109,Iquique,Iquique
+109,110,Coquimbo Unido,Antofagasta
+110,111,Coquimbo Unido,Universidad de Chile
+111,112,Colo-Colo,Iquique
+112,113,Colo-Colo,Iquique
+113,114,Iquique,Iquique
+114,115,Colo-Colo,Iquique
+115,116,Colo-Colo,Iquique
+116,117,Universidad de Concepción,Universidad de Chile
+117,118,Coquimbo Unido,Universidad de Chile
+118,119,Universidad de Concepción,Universidad de Chile
+119,120,Coquimbo Unido,Universidad de Chile
+120,121,Coquimbo Unido,Universidad de Chile
+121,122,Universidad de Concepción,Antofagasta
+122,123,Universidad de Concepción,Universidad de Chile
+123,124,Iquique,Iquique
+124,125,Colo-Colo,Universidad de Concepción
+125,126,Iquique,Iquique
+126,127,Universidad de Concepción,Antofagasta
+127,128,Coquimbo Unido,La Serena
+128,129,Coquimbo Unido,Universidad de Concepción
+129,130,La Serena,Iquique
+130,131,Iquique,Iquique
+131,132,Audax Italiano,Universidad de Chile
+132,133,Universidad de Concepción,Universidad de Chile
+133,134,Colo-Colo,Iquique
+134,135,Colo-Colo,Antofagasta
+135,136,Coquimbo Unido,Universidad de Chile
+136,137,Universidad de Concepción,Cobresal
+137,138,Universidad de Concepción,La Serena
+138,139,Iquique,Iquique
+139,140,Coquimbo Unido,Universidad de Chile
+140,141,Coquimbo Unido,Iquique
+141,142,La Serena,Iquique
+142,143,Coquimbo Unido,Universidad de Chile
+143,144,Iquique,Iquique
+144,145,Iquique,Iquique
+145,146,Coquimbo Unido,Everton
+146,147,Iquique,Iquique
+147,148,Coquimbo Unido,Universidad de Chile
+148,149,La Serena,La Serena
+149,151,Colo-Colo,Curicó Unido
+150,152,Iquique,Everton
+151,153,Universidad de Concepción,Universidad de Chile
+152,154,Coquimbo Unido,Antofagasta
+153,155,Universidad de Concepción,Universidad de Chile
+154,156,Coquimbo Unido,Everton
+155,157,Iquique,Iquique
+156,158,Colo-Colo,Iquique
+157,159,Colo-Colo,Iquique
+158,160,Colo-Colo,Iquique
+159,161,Colo-Colo,Antofagasta
+160,162,Coquimbo Unido,Iquique
+161,163,Coquimbo Unido,Iquique
+162,164,Colo-Colo,Universidad de Concepción
+163,165,Coquimbo Unido,Universidad de Chile
+164,166,Colo-Colo,Universidad de Concepción
+165,167,Universidad de Concepción,La Serena
+166,168,Coquimbo Unido,Universidad de Concepción
+167,169,Iquique,Iquique
+168,170,Coquimbo Unido,Everton
+169,171,Colo-Colo,Universidad de Chile
+170,172,La Serena,Iquique
+171,173,Coquimbo Unido,Antofagasta
+172,174,Colo-Colo,Iquique
+173,175,Colo-Colo,Iquique
+174,176,Audax Italiano,Universidad de Chile
+175,177,Colo-Colo,Iquique
+176,178,Universidad de Concepción,Antofagasta
+177,179,Coquimbo Unido,Everton
+178,180,Colo-Colo,Iquique
+179,181,Coquimbo Unido,Everton
+180,182,Coquimbo Unido,La Serena
+181,183,Colo-Colo,Universidad de Concepción
+182,184,Universidad de Concepción,La Serena
+183,185,Universidad de Concepción,Everton
+184,186,Coquimbo Unido,Everton
+185,187,Iquique,Iquique
+186,188,Colo-Colo,Iquique
+187,189,Colo-Colo,Universidad de Concepción
+188,190,Colo-Colo,Iquique
+189,191,La Serena,Iquique
+190,192,Coquimbo Unido,Universidad de Chile
+191,193,Coquimbo Unido,Curicó Unido
+192,194,Coquimbo Unido,Antofagasta
+193,195,Iquique,Iquique
+194,196,Coquimbo Unido,Iquique
+195,197,Coquimbo Unido,Universidad de Chile
+196,198,Colo-Colo,Iquique
+197,199,La Serena,Universidad de Concepción
+198,200,Coquimbo Unido,Universidad de Chile
+199,201,Universidad de Concepción,La Serena
+200,202,Colo-Colo,Curicó Unido
+201,203,Colo-Colo,Iquique
+202,204,La Serena,Iquique
+203,205,Colo-Colo,Iquique
+204,206,Iquique,Iquique
+205,207,La Serena,Iquique
+206,208,Colo-Colo,Iquique
+207,209,Iquique,Iquique
+208,210,Coquimbo Unido,Universidad de Chile
+209,211,Colo-Colo,Universidad de Chile
+210,212,Audax Italiano,Iquique
+211,213,Audax Italiano,Iquique
+212,214,Coquimbo Unido,Iquique
+213,215,Iquique,Iquique
+214,216,Iquique,Iquique
+215,217,Universidad de Concepción,Curicó Unido
+216,218,Coquimbo Unido,Iquique
+217,219,Coquimbo Unido,Universidad de Chile
+218,220,Audax Italiano,Iquique
+219,221,Coquimbo Unido,Universidad de Chile
+220,222,Universidad de Concepción,La Serena
+221,223,Colo-Colo,Universidad de Chile
+222,224,Coquimbo Unido,Universidad de Chile
+223,225,Universidad de Concepción,Universidad de Chile
+224,226,Colo-Colo,Iquique
+225,227,Cobresal,Universidad de Chile
+226,228,Universidad de Concepción,Everton
+227,229,Colo-Colo,Iquique
+228,230,Iquique,Iquique
+229,231,Colo-Colo,Universidad de Chile
+230,232,Colo-Colo,Universidad de Chile
+231,233,Coquimbo Unido,Antofagasta
+232,234,Coquimbo Unido,Iquique
+233,235,Colo-Colo,Iquique
+234,236,Colo-Colo,Iquique
+235,237,Colo-Colo,Universidad de Concepción
+236,238,Universidad de Concepción,Universidad de Chile
+237,239,Colo-Colo,Iquique
+238,240,La Serena,Iquique
+239,241,Colo-Colo,Iquique
+240,242,Coquimbo Unido,Universidad de Chile
+241,243,Coquimbo Unido,Universidad de Chile
+242,244,Colo-Colo,Iquique
+243,245,Iquique,Iquique
+244,246,Colo-Colo,Iquique
+245,247,Colo-Colo,Iquique
+246,248,Coquimbo Unido,Universidad de Chile
+247,249,Iquique,Iquique
+248,250,Colo-Colo,Iquique
+249,251,Iquique,Iquique
+250,252,Iquique,Iquique
+251,253,Coquimbo Unido,Universidad de Chile
+252,254,Colo-Colo,Iquique
+253,255,Universidad de Concepción,Curicó Unido
+254,256,Coquimbo Unido,Everton
+255,257,Colo-Colo,Iquique
+256,258,Colo-Colo,Iquique
+257,259,Coquimbo Unido,Curicó Unido
+258,260,Universidad de Concepción,Universidad de Chile
+259,261,Colo-Colo,Universidad de Chile
+260,262,Colo-Colo,Universidad de Chile
+261,263,Audax Italiano,Iquique
+262,264,Universidad de Concepción,Universidad de Chile
+263,265,Coquimbo Unido,Iquique
+264,266,Universidad de Concepción,La Serena
+265,267,Universidad de Concepción,Curicó Unido
+266,268,Coquimbo Unido,Everton
+267,269,Colo-Colo,Universidad de Chile
+268,270,Universidad de Concepción,Universidad de Chile
+269,271,La Serena,Iquique
+270,272,Iquique,Iquique
+271,273,La Serena,Iquique
+272,274,Iquique,Iquique
+273,275,Coquimbo Unido,Antofagasta
+274,276,La Serena,Universidad de Concepción
+275,277,Iquique,Iquique
+276,278,Iquique,Iquique
+277,279,Coquimbo Unido,Curicó Unido
+278,280,Coquimbo Unido,Universidad de Chile
+279,281,Colo-Colo,Universidad de Chile
+280,282,Coquimbo Unido,Universidad de Chile
+281,283,Universidad de Concepción,Universidad de Chile
+282,284,Universidad de Concepción,Everton
+283,285,Audax Italiano,Iquique
+284,286,Iquique,Iquique
+285,287,Colo-Colo,Everton
+286,288,Universidad de Concepción,Universidad de Chile
+287,289,La Serena,Iquique
+288,290,Coquimbo Unido,Universidad de Chile
+289,291,La Serena,Universidad de Chile
+290,293,Coquimbo Unido,Antofagasta
+291,294,Coquimbo Unido,Everton
+292,295,Audax Italiano,Iquique
+293,297,Coquimbo Unido,Antofagasta
+294,298,Colo-Colo,Iquique
+295,299,Coquimbo Unido,Iquique
+296,300,Iquique,Iquique
+297,301,Colo-Colo,Iquique
+298,302,Iquique,Iquique
+299,303,Universidad de Concepción,La Serena
+300,304,Colo-Colo,Iquique
+301,305,La Serena,Iquique
+302,306,Coquimbo Unido,Everton
+303,307,Coquimbo Unido,La Serena
+304,308,Universidad de Concepción,La Serena
+305,309,Universidad de Concepción,Universidad de Chile
+306,310,Colo-Colo,Iquique
+307,311,Colo-Colo,Iquique
+308,312,Coquimbo Unido,Curicó Unido
+309,313,La Serena,Iquique
+310,314,Coquimbo Unido,Iquique
+311,315,Coquimbo Unido,Universidad de Chile
+312,316,Colo-Colo,Iquique
+313,317,Audax Italiano,Iquique
+314,318,Colo-Colo,Iquique
+315,319,Audax Italiano,Universidad de Chile
+316,320,Colo-Colo,Iquique
+317,321,Colo-Colo,Curicó Unido
+318,322,Coquimbo Unido,Iquique
+319,323,Universidad de Concepción,Universidad de Chile
+320,324,Universidad de Concepción,Universidad de Chile
+321,325,Colo-Colo,Universidad de Chile
+322,326,Colo-Colo,Everton
+323,327,Colo-Colo,Iquique
+324,328,Universidad de Concepción,La Serena
+325,329,Colo-Colo,Iquique
+326,330,Colo-Colo,Iquique
+327,331,Iquique,Iquique
+328,332,Iquique,Iquique
+329,333,Colo-Colo,Iquique
+330,334,La Serena,Universidad de Concepción
+331,335,Coquimbo Unido,Universidad de Chile
+332,336,La Serena,Curicó Unido
+333,337,Iquique,Iquique
+334,338,Iquique,Iquique
+335,339,La Serena,Iquique
+336,340,Colo-Colo,Iquique
+337,341,Coquimbo Unido,Curicó Unido
+338,342,Coquimbo Unido,Curicó Unido
+339,343,Iquique,Iquique
+340,344,Colo-Colo,Everton
+341,345,Colo-Colo,Universidad de Concepción
+342,346,Audax Italiano,Universidad de Chile
+343,347,Audax Italiano,Iquique
+344,348,Universidad de Concepción,Curicó Unido
+345,349,Coquimbo Unido,Iquique
+346,350,Colo-Colo,Iquique
+347,351,Colo-Colo,Iquique
+348,352,Colo-Colo,Everton
+349,353,Colo-Colo,Everton
+350,354,Coquimbo Unido,Universidad de Chile
+351,355,Iquique,Iquique
+352,356,Coquimbo Unido,Universidad de Chile
+353,357,Colo-Colo,Iquique
+354,358,Colo-Colo,Iquique
+355,359,Colo-Colo,Iquique
+356,360,Coquimbo Unido,Universidad de Concepción
+357,361,Colo-Colo,Universidad de Concepción
+358,362,Iquique,Iquique
+359,363,Coquimbo Unido,La Serena
+360,364,Universidad de Concepción,Universidad de Chile
+361,365,Coquimbo Unido,Iquique
+362,366,Colo-Colo,Iquique
+363,367,Coquimbo Unido,Everton
+364,368,Coquimbo Unido,Iquique
+365,369,Universidad de Concepción,Curicó Unido
+366,370,Coquimbo Unido,Everton
+367,371,Colo-Colo,Iquique
+368,372,Coquimbo Unido,Curicó Unido
+369,373,Audax Italiano,Everton
+370,374,Coquimbo Unido,Everton
+371,375,Universidad de Concepción,La Serena
+372,376,Iquique,Iquique
+373,377,Universidad de Concepción,Antofagasta
+374,378,Iquique,Iquique
+375,379,Coquimbo Unido,Iquique
+376,380,Coquimbo Unido,Everton
+377,381,Colo-Colo,Universidad de Chile
+378,382,Colo-Colo,Iquique
+379,383,Coquimbo Unido,Universidad de Chile
+380,384,Coquimbo Unido,Iquique
+381,385,Universidad de Concepción,Universidad de Chile
+382,386,Iquique,Universidad de Chile
+383,387,Colo-Colo,La Serena
+384,388,Colo-Colo,Iquique
+385,389,Universidad de Concepción,La Serena
+386,390,Coquimbo Unido,Everton
+387,391,Iquique,Iquique
+388,392,Colo-Colo,Universidad de Concepción
+389,393,Universidad de Concepción,Everton
+390,394,Colo-Colo,Iquique
+391,395,Universidad de Concepción,Universidad de Chile
+392,396,Universidad de Concepción,Universidad de Chile
+393,397,Coquimbo Unido,Universidad de Chile
+394,398,Audax Italiano,Iquique
+395,399,Colo-Colo,Iquique
+396,400,Iquique,Iquique
+397,401,Audax Italiano,Everton
+398,402,Colo-Colo,Universidad de Chile
+399,403,Universidad de Concepción,Antofagasta
+400,404,Coquimbo Unido,Everton
+401,405,Colo-Colo,Iquique
+402,406,La Serena,Iquique
+403,407,Coquimbo Unido,Universidad de Chile
+404,408,Audax Italiano,Universidad de Concepción
+405,409,Universidad de Concepción,Universidad de Chile
+406,410,La Serena,Iquique
+407,411,Colo-Colo,Iquique
+408,412,Universidad de Concepción,Universidad de Chile
+409,413,Coquimbo Unido,Universidad de Chile
+410,414,Iquique,Iquique
+411,415,Coquimbo Unido,Universidad de Chile
+412,416,Colo-Colo,Universidad de Chile
+413,417,Universidad de Concepción,Universidad de Chile
+414,418,Colo-Colo,Iquique
+415,419,Colo-Colo,Iquique
+416,420,Coquimbo Unido,Antofagasta
+417,422,Iquique,Iquique
+418,423,Audax Italiano,Universidad de Chile
+419,424,Audax Italiano,Iquique
+420,425,Audax Italiano,Universidad de Chile
+421,426,Colo-Colo,Curicó Unido
+422,427,Universidad de Concepción,Universidad de Chile
+423,428,Colo-Colo,Iquique
+424,429,Colo-Colo,Iquique
+425,430,Coquimbo Unido,Antofagasta
+426,431,Colo-Colo,Iquique
+427,432,Coquimbo Unido,Antofagasta
+428,433,Universidad de Concepción,Curicó Unido
+429,434,Colo-Colo,Everton
+430,435,Coquimbo Unido,Iquique
+431,436,Iquique,Iquique
+432,437,Universidad de Concepción,Curicó Unido
+433,438,Coquimbo Unido,Antofagasta
+434,439,Universidad de Concepción,Universidad de Chile
+435,440,Coquimbo Unido,Everton
+436,441,Iquique,Iquique
+437,442,Universidad de Concepción,Curicó Unido
+438,443,Iquique,Iquique
+439,444,Iquique,Iquique
+440,445,Coquimbo Unido,Curicó Unido
+441,446,Coquimbo Unido,Universidad de Chile
+442,447,La Serena,Universidad de Chile
+443,448,Universidad de Concepción,Universidad de Chile
+444,449,Iquique,Iquique
+445,450,Iquique,Iquique
+446,451,La Serena,Iquique
+447,453,Colo-Colo,Iquique
+448,454,Iquique,Iquique
+449,455,Universidad de Concepción,Curicó Unido
+450,456,Audax Italiano,Iquique
+451,457,Coquimbo Unido,Antofagasta
+452,458,Iquique,Iquique
+453,459,Universidad de Concepción,Universidad de Chile
+454,460,Colo-Colo,Iquique
+455,461,Coquimbo Unido,Curicó Unido
+456,462,Everton,Iquique
+457,463,Universidad de Concepción,Universidad de Chile
+458,464,Colo-Colo,Universidad de Chile
+459,465,Colo-Colo,Universidad de Concepción
+460,466,Colo-Colo,Antofagasta
+461,467,Colo-Colo,Iquique
+462,469,Colo-Colo,Iquique
+463,470,Colo-Colo,Universidad de Chile
+464,471,La Serena,Iquique
+465,472,Colo-Colo,Iquique
+466,473,Coquimbo Unido,Universidad de Chile
+467,474,Coquimbo Unido,Universidad de Chile
+468,475,Coquimbo Unido,La Serena
+469,476,Colo-Colo,Universidad de Chile
+470,477,La Serena,Iquique
+471,478,Coquimbo Unido,Iquique
+472,479,Colo-Colo,Iquique
+473,480,Audax Italiano,Universidad de Concepción
+474,481,Colo-Colo,Universidad de Chile
+475,482,Colo-Colo,Iquique
+476,483,Iquique,Iquique
+477,484,Universidad de Concepción,Universidad de Chile
+478,485,La Serena,Iquique
+479,486,Universidad de Concepción,La Serena
+480,487,Iquique,Iquique
+481,488,Universidad de Concepción,La Serena
+482,489,Coquimbo Unido,Universidad de Chile
+483,490,Coquimbo Unido,Antofagasta
+484,491,Coquimbo Unido,Universidad de Chile
+485,492,Audax Italiano,Iquique
+486,493,Colo-Colo,Iquique
+487,494,Colo-Colo,Iquique
+488,495,Colo-Colo,Universidad de Chile
+489,496,Coquimbo Unido,Universidad de Chile
+490,497,Audax Italiano,Iquique
+491,498,La Serena,Iquique
+492,499,La Serena,Iquique
+493,500,Colo-Colo,Iquique
+494,501,La Serena,Universidad de Chile
+495,502,Coquimbo Unido,Universidad de Chile
+496,503,Colo-Colo,Universidad de Concepción
+497,504,Universidad de Concepción,Antofagasta
+498,505,Colo-Colo,Iquique
+499,506,Universidad de Concepción,La Serena
+500,507,Iquique,Iquique
+501,508,Coquimbo Unido,Universidad de Chile
+502,510,Iquique,Iquique
+503,511,Coquimbo Unido,Universidad de Chile
+504,512,Colo-Colo,Everton
+505,513,La Serena,La Serena
+506,514,Coquimbo Unido,Everton
+507,515,Iquique,Iquique
+508,516,Colo-Colo,Universidad de Concepción
+509,517,Coquimbo Unido,Iquique
+510,518,Colo-Colo,Iquique
+511,519,Audax Italiano,Iquique
+512,520,Colo-Colo,Iquique
+513,521,Colo-Colo,Iquique
+514,522,Colo-Colo,Universidad de Chile
+515,523,Colo-Colo,Iquique
+516,524,Universidad de Concepción,Antofagasta
+517,525,Coquimbo Unido,Antofagasta
+518,526,Coquimbo Unido,Antofagasta
+519,527,Colo-Colo,Universidad de Chile
+520,528,Colo-Colo,Iquique
+521,529,Universidad de Concepción,Universidad de Chile
+522,530,Coquimbo Unido,La Serena
+523,531,Colo-Colo,Universidad de Chile
+524,532,Colo-Colo,Iquique
+525,533,Audax Italiano,Iquique
+526,534,Universidad de Concepción,Universidad de Chile
+527,535,Coquimbo Unido,Universidad de Chile
+528,536,Coquimbo Unido,Universidad de Concepción
+529,537,Colo-Colo,Iquique
+530,538,Coquimbo Unido,Universidad de Chile
+531,539,Universidad de Concepción,La Serena
+532,540,Coquimbo Unido,Universidad de Chile
+533,541,Iquique,Iquique
+534,542,Universidad de Chile,Iquique
+535,543,Universidad de Concepción,Universidad de Chile
+536,544,Universidad de Concepción,Antofagasta
+537,545,Coquimbo Unido,Universidad de Chile
+538,546,Coquimbo Unido,Universidad de Chile
+539,547,Iquique,Iquique
+540,548,Coquimbo Unido,Universidad de Chile
+541,549,Iquique,Iquique
+542,550,Universidad de Concepción,La Serena
+543,551,Coquimbo Unido,Universidad de Chile
+544,552,Colo-Colo,Universidad de Chile
+545,553,Iquique,Iquique
+546,554,La Serena,Universidad de Concepción
+547,555,Coquimbo Unido,Universidad de Chile
+548,556,La Serena,Iquique
+549,558,Colo-Colo,Iquique
+550,559,Universidad de Concepción,Antofagasta
+551,560,Audax Italiano,Universidad de Chile
+552,561,Coquimbo Unido,La Serena
+553,562,Coquimbo Unido,Universidad de Chile
+554,563,Iquique,Iquique
+555,564,Colo-Colo,Iquique
+556,565,Universidad de Concepción,Universidad de Chile
+557,566,Colo-Colo,Universidad de Chile
+558,567,Colo-Colo,Universidad de Chile
+559,568,Universidad de Concepción,Curicó Unido
+560,569,Colo-Colo,Iquique
+561,570,Universidad de Concepción,Universidad de Chile
+562,571,Iquique,Iquique
+563,572,Iquique,Iquique
+564,573,Universidad de Concepción,Antofagasta
+565,574,Colo-Colo,Universidad de Concepción
+566,575,Universidad de Concepción,Universidad de Chile
+567,576,La Serena,Iquique
+568,577,Coquimbo Unido,Everton
+569,578,Iquique,Iquique
+570,579,Colo-Colo,Universidad de Concepción
+571,580,Universidad de Concepción,Everton
+572,581,Coquimbo Unido,Universidad de Chile
+573,582,Colo-Colo,Universidad de Chile
+574,583,Iquique,Iquique
+575,584,Coquimbo Unido,Universidad de Chile
+576,585,Colo-Colo,Iquique
+577,586,Iquique,Iquique
+578,587,Universidad de Concepción,Universidad de Chile
+579,588,Coquimbo Unido,Universidad de Chile
+580,589,Colo-Colo,Antofagasta
+581,590,Iquique,Iquique
+582,591,Colo-Colo,Iquique
+583,592,Coquimbo Unido,Iquique
+584,593,Iquique,Iquique
+585,594,La Serena,Iquique
+586,595,La Serena,La Serena
+587,596,Iquique,Iquique
+588,597,La Serena,Iquique
+589,598,Coquimbo Unido,Iquique
+590,599,La Serena,Iquique
+591,600,Audax Italiano,Iquique
+592,601,Colo-Colo,Iquique
+593,602,Universidad de Concepción,Antofagasta
+594,603,Coquimbo Unido,Universidad de Chile
+595,604,Universidad de Concepción,Universidad de Chile
+596,605,Universidad de Concepción,Universidad de Chile
+597,606,Iquique,Iquique
+598,607,Universidad de Concepción,Universidad de Chile
+599,608,Colo-Colo,Iquique
+600,609,Universidad de Concepción,Universidad de Chile
+601,610,Coquimbo Unido,Universidad de Concepción
+602,611,Universidad de Concepción,Antofagasta
+603,612,Coquimbo Unido,Universidad de Concepción
+604,613,Iquique,Iquique
+605,614,Universidad de Concepción,Universidad de Chile
+606,615,Colo-Colo,Universidad de Concepción
+607,616,Colo-Colo,Iquique
+608,617,Colo-Colo,Iquique
+609,618,Colo-Colo,Iquique
+610,619,Colo-Colo,Universidad de Chile
+611,620,Colo-Colo,Iquique
+612,621,Universidad de Concepción,Universidad de Chile
+613,622,Universidad de Concepción,Universidad de Chile
+614,623,Colo-Colo,Iquique
+615,624,Coquimbo Unido,Universidad de Chile
+616,625,Coquimbo Unido,Curicó Unido
+617,626,Universidad de Concepción,Everton
+618,627,Colo-Colo,Iquique
+619,628,Colo-Colo,Iquique
+620,629,Coquimbo Unido,Universidad de Concepción
+621,630,Colo-Colo,Universidad de Chile
+622,631,Colo-Colo,Iquique
+623,632,Colo-Colo,Universidad de Concepción
+624,633,Universidad de Concepción,La Serena
+625,634,Colo-Colo,Iquique
+626,635,La Serena,La Serena
+627,636,Iquique,Iquique
+628,637,Coquimbo Unido,Antofagasta
+629,638,Colo-Colo,Iquique
+630,639,Universidad de Concepción,La Serena
+631,640,Iquique,Iquique
+632,641,Coquimbo Unido,Iquique
+633,642,Iquique,Iquique
+634,643,Audax Italiano,Iquique
+635,644,Audax Italiano,Everton
+636,645,Colo-Colo,Curicó Unido
+637,646,Universidad de Concepción,Everton
+638,647,Coquimbo Unido,Iquique
+639,648,Universidad de Concepción,Antofagasta
+640,649,Coquimbo Unido,Antofagasta
+641,650,Universidad de Concepción,Everton
+642,651,La Serena,Iquique
+643,652,Iquique,Iquique
+644,653,La Serena,Iquique
+645,654,La Serena,Universidad de Chile
+646,655,Colo-Colo,Universidad de Concepción
+647,656,Coquimbo Unido,Antofagasta
+648,657,Cobresal,Universidad de Concepción
+649,658,La Serena,Everton
+650,659,Colo-Colo,Universidad de Chile
+651,660,Universidad de Concepción,Everton
+652,661,La Serena,Iquique
+653,662,Universidad de Concepción,Curicó Unido
+654,664,Colo-Colo,Iquique
+655,665,Universidad de Concepción,La Serena
+656,666,Universidad de Concepción,Curicó Unido
+657,667,Coquimbo Unido,Antofagasta
+658,668,Colo-Colo,Universidad de Chile
+659,669,Colo-Colo,Iquique
+660,670,Colo-Colo,Iquique
+661,671,Iquique,Iquique
+662,672,Iquique,Iquique
+663,673,Colo-Colo,Iquique
+664,674,Coquimbo Unido,Antofagasta
+665,675,Colo-Colo,Universidad de Concepción
+666,676,Iquique,Iquique
+667,677,Coquimbo Unido,Universidad de Chile
+668,678,Coquimbo Unido,Iquique
+669,679,Colo-Colo,Universidad de Chile
+670,680,Coquimbo Unido,Iquique
+671,681,Coquimbo Unido,Universidad de Chile
+672,682,Universidad de Concepción,Universidad de Chile
+673,683,Coquimbo Unido,Antofagasta
+674,684,Iquique,Iquique
+675,685,Colo-Colo,Iquique
+676,686,Coquimbo Unido,Iquique
+677,687,Iquique,Iquique
+678,688,Audax Italiano,Universidad de Chile
+679,689,Audax Italiano,Iquique
+680,690,Coquimbo Unido,La Serena
+681,691,Coquimbo Unido,La Serena
+682,692,Coquimbo Unido,Universidad de Chile
+683,693,Iquique,Iquique
+684,694,Colo-Colo,Universidad de Concepción
+685,695,Colo-Colo,Universidad de Chile
+686,696,Universidad de Concepción,Everton
+687,697,Colo-Colo,Iquique
+688,698,Iquique,Iquique
+689,699,Colo-Colo,Iquique
+690,700,Iquique,Iquique
+691,701,Colo-Colo,Iquique
+692,702,Coquimbo Unido,Antofagasta
+693,703,La Serena,Universidad de Chile
+694,704,Universidad de Concepción,Everton
+695,705,Colo-Colo,Universidad de Chile
+696,706,Iquique,Iquique
+697,707,Coquimbo Unido,La Serena
+698,708,Audax Italiano,Iquique
+699,709,Colo-Colo,Iquique
+700,710,La Serena,La Serena
+701,711,Coquimbo Unido,Iquique
+702,712,Coquimbo Unido,Everton
+703,713,La Serena,Iquique
+704,714,Colo-Colo,Universidad de Concepción
+705,715,Iquique,Iquique
+706,717,Iquique,Iquique
+707,718,Colo-Colo,Curicó Unido
+708,719,Coquimbo Unido,La Serena
+709,720,La Serena,Iquique
+710,721,Coquimbo Unido,Antofagasta
+711,722,Universidad de Concepción,Universidad de Chile
+712,723,Coquimbo Unido,Antofagasta
+713,724,Colo-Colo,Iquique
+714,725,Universidad de Concepción,Universidad de Chile
+715,726,Coquimbo Unido,Universidad de Chile
+716,727,Colo-Colo,Iquique
+717,728,Iquique,Iquique
+718,729,Universidad de Concepción,Universidad de Chile
+719,730,La Serena,Universidad de Concepción
+720,731,Colo-Colo,Iquique
+721,732,La Serena,Universidad de Chile
+722,734,Colo-Colo,La Serena
+723,735,Universidad de Concepción,Universidad de Chile
+724,736,La Serena,Universidad de Concepción
+725,737,Colo-Colo,Iquique
+726,738,Coquimbo Unido,La Serena
+727,739,Iquique,Curicó Unido
+728,740,Iquique,Antofagasta
+729,741,Coquimbo Unido,Universidad de Chile
+730,742,Colo-Colo,Iquique
+731,743,Colo-Colo,Universidad de Concepción
+732,744,Colo-Colo,Antofagasta
+733,745,Universidad de Concepción,Universidad de Chile
+734,746,Colo-Colo,Everton
+735,747,Iquique,Iquique
+736,748,Colo-Colo,Iquique
+737,749,Iquique,Iquique
+738,750,La Serena,Iquique
+739,751,Colo-Colo,Iquique
+740,752,Coquimbo Unido,Universidad de Chile
+741,753,La Serena,Iquique
+742,754,Iquique,Iquique
+743,755,Coquimbo Unido,Antofagasta
+744,756,Coquimbo Unido,La Serena
+745,757,Universidad de Concepción,Universidad de Chile
+746,758,Colo-Colo,Iquique
+747,759,Colo-Colo,Curicó Unido
+748,760,Coquimbo Unido,Iquique
+749,761,Audax Italiano,Iquique
+750,762,Iquique,Iquique
+751,763,Colo-Colo,Universidad de Concepción
+752,764,Colo-Colo,Iquique
+753,765,Iquique,Iquique
+754,766,Coquimbo Unido,Universidad de Chile
+755,767,Universidad de Concepción,Universidad de Chile
+756,768,Colo-Colo,Everton
+757,769,Iquique,Iquique
+758,770,Universidad de Concepción,Universidad de Chile
+759,771,Colo-Colo,Iquique
+760,772,Coquimbo Unido,Universidad de Chile
+761,773,Universidad de Concepción,Universidad de Chile
+762,774,Universidad de Concepción,Universidad de Chile
+763,775,Colo-Colo,Universidad de Chile
+764,776,Colo-Colo,Antofagasta
+765,777,Universidad de Concepción,Universidad de Chile
+766,778,Colo-Colo,Everton
+767,779,Universidad de Concepción,Universidad de Chile
+768,781,Coquimbo Unido,Antofagasta
+769,782,Iquique,Iquique
+770,783,Iquique,Iquique
+771,784,Iquique,Iquique
+772,785,Colo-Colo,Iquique
+773,786,Colo-Colo,Iquique
+774,787,Universidad de Concepción,Universidad de Chile
+775,788,Iquique,Iquique
+776,789,Colo-Colo,Curicó Unido
+777,790,La Serena,Iquique
+778,791,Iquique,Iquique
+779,792,Colo-Colo,Iquique
+780,793,Coquimbo Unido,Universidad de Chile
+781,794,Iquique,Iquique
+782,795,Coquimbo Unido,Iquique
+783,796,Coquimbo Unido,Iquique
+784,797,Audax Italiano,Iquique
+785,798,Colo-Colo,Everton
+786,799,Colo-Colo,Antofagasta
+787,800,Colo-Colo,Universidad de Concepción
+788,801,La Serena,Universidad de Chile
+789,802,Universidad de Concepción,La Serena
+790,803,Universidad de Concepción,La Serena
+791,804,Coquimbo Unido,La Serena
+792,805,Iquique,Iquique
+793,806,Audax Italiano,Iquique
+794,807,La Serena,Iquique
+795,808,Universidad de Concepción,Antofagasta
+796,809,Iquique,Iquique
+797,810,La Serena,Universidad de Chile
+798,811,Colo-Colo,Universidad de Chile
+799,812,Colo-Colo,Universidad de Chile
+800,813,Colo-Colo,Iquique
+801,814,Coquimbo Unido,Universidad de Chile
+802,815,Colo-Colo,Iquique
+803,816,Colo-Colo,Iquique
+804,817,Colo-Colo,Universidad de Chile
+805,818,Colo-Colo,La Serena
+806,819,Audax Italiano,Iquique
+807,820,Universidad de Concepción,La Serena
+808,821,Colo-Colo,Universidad de Chile
+809,822,Iquique,Iquique
+810,823,Audax Italiano,Universidad de Chile
+811,824,Coquimbo Unido,Universidad de Chile
+812,825,Coquimbo Unido,Iquique
+813,826,Iquique,Iquique
+814,827,Iquique,Iquique
+815,828,Coquimbo Unido,Universidad de Chile
+816,829,Iquique,Iquique
+817,830,Colo-Colo,Iquique
+818,831,Universidad de Concepción,Everton
+819,832,Universidad de Concepción,Universidad de Chile
+820,833,Coquimbo Unido,Universidad de Chile
+821,834,Coquimbo Unido,Iquique
+822,835,Colo-Colo,Universidad de Chile
+823,836,Colo-Colo,Iquique
+824,837,Coquimbo Unido,Everton
+825,838,Coquimbo Unido,Everton
+826,839,Iquique,Iquique
+827,840,Coquimbo Unido,Iquique
+828,841,Universidad de Concepción,Universidad de Chile
+829,842,Colo-Colo,Iquique
+830,843,Coquimbo Unido,Universidad de Chile
+831,844,Colo-Colo,Iquique
+832,845,Universidad de Concepción,Universidad de Chile
+833,846,Coquimbo Unido,Universidad de Chile
+834,847,Colo-Colo,Iquique
+835,848,Audax Italiano,Iquique
+836,849,La Serena,Iquique
+837,850,Coquimbo Unido,Everton
+838,851,Universidad de Concepción,Universidad de Chile
+839,852,Coquimbo Unido,Universidad de Chile
+840,853,Coquimbo Unido,Universidad de Concepción
+841,854,Universidad de Concepción,Curicó Unido
+842,855,Universidad de Concepción,Universidad de Chile
+843,856,Colo-Colo,Universidad de Concepción
+844,857,Iquique,Iquique
+845,858,Iquique,Iquique
+846,859,Universidad de Concepción,Universidad de Chile
+847,860,Colo-Colo,Curicó Unido
+848,861,Colo-Colo,Universidad de Concepción
+849,862,Universidad de Concepción,Universidad de Chile
+850,863,Colo-Colo,Iquique
+851,864,La Serena,Universidad de Chile
+852,865,Universidad de Concepción,Antofagasta
+853,866,Coquimbo Unido,Universidad de Chile
+854,867,Universidad de Concepción,Antofagasta
+855,868,Colo-Colo,Iquique
+856,869,Universidad de Concepción,Everton
+857,870,Colo-Colo,Universidad de Chile
+858,871,Coquimbo Unido,Universidad de Chile
+859,872,Colo-Colo,Universidad de Chile
+860,873,Iquique,Iquique
+861,874,Colo-Colo,Iquique
+862,875,Colo-Colo,Iquique
+863,876,Coquimbo Unido,Universidad de Chile
+864,877,Coquimbo Unido,Iquique
+865,878,Colo-Colo,Universidad de Chile
+866,879,Universidad de Concepción,La Serena
+867,880,Iquique,Iquique
+868,881,Iquique,Iquique
+869,882,Coquimbo Unido,Universidad de Chile
+870,883,Colo-Colo,Iquique
+871,884,La Serena,Iquique
+872,885,Coquimbo Unido,Everton
+873,886,Colo-Colo,La Serena
+874,887,Colo-Colo,Universidad de Chile
+875,888,Iquique,Iquique
+876,889,Colo-Colo,Iquique
+877,890,Coquimbo Unido,Universidad de Chile
+878,891,La Serena,Universidad de Chile
+879,892,Coquimbo Unido,Universidad de Chile
+880,893,Coquimbo Unido,Universidad de Chile
+881,894,Iquique,Iquique
+882,895,Coquimbo Unido,Universidad de Chile
+883,896,Iquique,Iquique
+884,897,Colo-Colo,Iquique
+885,898,La Serena,Universidad de Chile
+886,899,Iquique,Iquique
+887,900,Iquique,Iquique
+888,901,Universidad de Concepción,Universidad de Chile
+889,902,Colo-Colo,Universidad de Chile
+890,903,Iquique,Iquique
+891,904,Colo-Colo,Curicó Unido
+892,905,La Serena,Iquique
+893,906,Iquique,Iquique
+894,907,Universidad de Concepción,Everton
+895,908,Colo-Colo,Universidad de Chile
+896,909,Iquique,Iquique
+897,910,Universidad de Concepción,Universidad de Chile
+898,911,Coquimbo Unido,Antofagasta
+899,912,Coquimbo Unido,Iquique
+900,913,La Serena,Iquique
+901,914,Universidad de Concepción,Curicó Unido
+902,915,Colo-Colo,Iquique
+903,916,Universidad de Concepción,Antofagasta
+904,917,Coquimbo Unido,Iquique
+905,918,Colo-Colo,Everton
+906,919,La Serena,Iquique
+907,920,La Serena,Universidad de Chile
+908,921,Universidad de Concepción,Antofagasta
+909,922,Iquique,Iquique
+910,923,Universidad de Concepción,Universidad de Chile
+911,924,Universidad de Concepción,Universidad de Chile
+912,925,Iquique,Iquique
+913,926,Colo-Colo,Iquique
+914,927,Universidad de Concepción,Antofagasta
+915,928,Iquique,Iquique
+916,929,La Serena,Iquique
+917,930,Universidad de Concepción,La Serena
+918,931,Colo-Colo,Universidad de Concepción
+919,932,Coquimbo Unido,Universidad de Chile
+920,933,Audax Italiano,Iquique
+921,934,Audax Italiano,Iquique
+922,935,Iquique,Iquique
+923,936,Audax Italiano,Universidad de Chile
+924,937,Iquique,Iquique
+925,938,Iquique,Iquique
+926,939,Colo-Colo,Universidad de Chile
+927,940,Coquimbo Unido,Iquique
+928,941,Colo-Colo,Iquique
+929,942,Universidad de Concepción,La Serena
+930,943,Colo-Colo,Iquique
+931,944,Coquimbo Unido,Antofagasta
+932,945,Coquimbo Unido,Iquique
+933,946,Coquimbo Unido,Curicó Unido
+934,947,Colo-Colo,Iquique
+935,948,Universidad de Concepción,Antofagasta
+936,949,Universidad de Concepción,Universidad de Chile
+937,950,Universidad de Concepción,Universidad de Chile
+938,951,Audax Italiano,Iquique
+939,952,Coquimbo Unido,Universidad de Concepción
+940,953,Coquimbo Unido,La Serena
+941,954,Coquimbo Unido,Universidad de Chile
+942,955,Iquique,Iquique
+943,956,Coquimbo Unido,Antofagasta
+944,957,Universidad de Concepción,Curicó Unido
+945,958,La Serena,Universidad de Chile
+946,959,Coquimbo Unido,La Serena
+947,960,Colo-Colo,Iquique
+948,961,Colo-Colo,Universidad de Concepción
+949,962,Universidad de Concepción,Everton
+950,963,Iquique,Iquique
+951,964,Audax Italiano,Iquique
+952,965,Colo-Colo,Iquique
+953,966,Iquique,Iquique
+954,967,Coquimbo Unido,Antofagasta
+955,968,Cobresal,Iquique
+956,969,Coquimbo Unido,Iquique
+957,970,Iquique,Iquique
+958,971,La Serena,Iquique
+959,972,Audax Italiano,Iquique
+960,973,Colo-Colo,Antofagasta
+961,974,Colo-Colo,Iquique
+962,975,Coquimbo Unido,Universidad de Chile
+963,976,Iquique,Iquique
+964,977,Colo-Colo,Iquique
+965,978,Universidad de Concepción,Antofagasta
+966,979,Universidad de Concepción,Antofagasta
+967,980,Iquique,Iquique
+968,981,Colo-Colo,Iquique
+969,982,Colo-Colo,Everton
+970,983,Colo-Colo,Iquique
+971,984,Universidad de Concepción,Antofagasta
+972,985,Universidad de Concepción,Universidad de Chile
+973,986,Colo-Colo,Iquique
+974,987,Colo-Colo,Iquique
+975,988,Iquique,Iquique
+976,989,Colo-Colo,Iquique
+977,990,Universidad de Concepción,Curicó Unido
+978,991,Colo-Colo,Iquique
+979,992,Iquique,Iquique
+980,993,La Serena,Iquique
+981,994,Universidad de Concepción,Universidad de Chile
+982,995,Universidad de Concepción,La Serena
+983,996,Coquimbo Unido,Universidad de Concepción
+984,997,La Serena,Universidad de Chile
+985,998,Universidad de Concepción,Universidad de Chile
+986,999,Coquimbo Unido,Iquique
+987,1000,Colo-Colo,Iquique
