@@ -94,10 +94,10 @@ def summary_positions(sim_poisson_local, sim_poisson_visita, N_sim, teams, df_ta
             df_table_sim.loc[team, "Puntos"] = df_table_sim.loc[team, "Puntos"] + pts
             df_table_sim.loc[team, "GF"] = df_table_sim.loc[team, "GF"] + gf
             df_table_sim.loc[team, "GC"] = df_table_sim.loc[team, "GC"] + gc
-            df_table_sim["DF"] = df_table_sim.GF - df_table_sim.GC
-                
-            df_table_sim.sort_values(by=["Puntos","DG","GF","GC"], inplace = True, ascending = False)
-            df_table_sim["Posición"] = range(1,18+1)
+        df_table_sim["DF"] = df_table_sim.GF - df_table_sim.GC
+            
+        df_table_sim.sort_values(by=["Puntos","DG","GF","GC"], inplace = True, ascending = False)
+        df_table_sim["Posición"] = range(1,18+1)
             
         df_tabla_pond = tabla_pond(teams, df_tabla_2019, df_table_sim)
         for team in teams:
@@ -373,37 +373,39 @@ def sim_poisson_modification(team, N_matches, goles_team, goles_rival,sim_poisso
     return sim_poisson_local_mod, sim_poisson_visita_mod
 
 def probs_relegation(team, df_posicion, N_sim):
-    df_ult_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
-            (df_posicion["Posición"] == 18)&
-            (df_posicion["Equipo"] == team)]
-    df_pen_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
-            (df_posicion["Posición"] == 17)&
-            (df_posicion["Equipo"] == team)]
-    df_ant_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
-            (df_posicion["Posición"] == 16)&
-            (df_posicion["Equipo"] == team)]
+    # df_ult_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
+    #         (df_posicion["Posición"] == 18)&
+    #         (df_posicion["Equipo"] == team)]
+    # df_pen_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
+    #         (df_posicion["Posición"] == 17)&
+    #         (df_posicion["Equipo"] == team)]
+    # df_ant_abs = df_posicion[(df_posicion.Tabla == "Absoluta")&
+    #         (df_posicion["Posición"] == 16)&
+    #         (df_posicion["Equipo"] == team)]
     
-    df_ult_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
-            (df_posicion["Posición"] == 18)&
-            (df_posicion["Equipo"] == team)]
-    df_pen_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
-            (df_posicion["Posición"] == 17)&
-            (df_posicion["Equipo"] == team)]
+    # df_ult_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
+    #         (df_posicion["Posición"] == 18)&
+    #         (df_posicion["Equipo"] == team)]
+    # df_pen_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
+    #         (df_posicion["Posición"] == 17)&
+    #         (df_posicion["Equipo"] == team)]
     
-    df_ant_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
-            (df_posicion["Posición"] == 16)&
-            (df_posicion["Equipo"] == team)]
+    # df_ant_pon = df_posicion[(df_posicion.Tabla == "Ponderada")&
+    #         (df_posicion["Posición"] == 16)&
+    #         (df_posicion["Equipo"] == team)]
     
-    p_ult_abs = df_ult_abs.shape[0]/N_sim
-    p_pen_abs = df_pen_abs.shape[0]/N_sim
-    p_ant_abs = df_ant_abs.shape[0]/N_sim
+    # p_ult_abs = df_ult_abs.shape[0]/N_sim
+    # p_pen_abs = df_pen_abs.shape[0]/N_sim
+    # p_ant_abs = df_ant_abs.shape[0]/N_sim
     
-    p_ult_pon = df_ult_pon.shape[0]/N_sim
-    p_pen_pon = df_pen_pon.shape[0]/N_sim
-    p_ant_pon = df_ant_pon.shape[0]/N_sim
+    # p_ult_pon = df_ult_pon.shape[0]/N_sim
+    # p_pen_pon = df_pen_pon.shape[0]/N_sim
+    # p_ant_pon = df_ant_pon.shape[0]/N_sim
     
-    print("Probs Abs", p_ult_abs, p_pen_abs, p_ant_abs)
-    print("Probs Pon", p_ult_pon, p_pen_pon, p_ant_pon)
+    # print("Probs Abs", p_ult_abs, p_pen_abs, p_ant_abs)
+    # print("Probs Pon", p_ult_pon, p_pen_pon, p_ant_pon)
+    
+    plt.clf()
     
     # Plot ponderada
     p_pos_pon = df_posicion[(df_posicion.Tabla == "Ponderada") &
@@ -435,13 +437,15 @@ def probs_relegation(team, df_posicion, N_sim):
     plt.legend(custom_lines, ['Descenso Directo', 'Posible Liguilla', 'No Desciende'], fontsize = 16)
 
     plt.xlabel("Posición", fontsize = 16)
-    plt.ylabel("% en Posición", fontsize = 16)
+    plt.ylabel("Probabilidad de terminar en Posición", fontsize = 16)
     plt.xticks(np.arange(-1, 19), fontsize = 16)
     plt.yticks(fontsize = 16)
-    plt.title("Posición Final "+team+" - Tabla Ponderada", fontsize = 30)
+    plt.title(team+" - Tabla Ponderada", fontsize = 30)
     plt.xlim(0.01,19)
     plt.ylim(0,max(p_pos_pon)*1.1)
-    plt.show()
+    plt.savefig('./plots/ponderada/{}.png'.format(team), bbox_inches='tight')
+    plt.clf()
+    # plt.show()
 
     # Plot absoluta
     p_pos_abs = df_posicion[(df_posicion.Tabla == "Absoluta") &
@@ -473,10 +477,12 @@ def probs_relegation(team, df_posicion, N_sim):
     plt.legend(custom_lines, ['Descenso Directo', 'Liguilla o Posible Descenso Directo', 'No Desciende'], fontsize = 16)
 
     plt.xlabel("Posición", fontsize = 16)
-    plt.ylabel("% en Posición", fontsize = 16)
+    plt.ylabel("Probabilidad de terminar en Posición", fontsize = 16)
     plt.xticks(np.arange(0,19), fontsize = 16)
     plt.yticks(fontsize = 16)
-    plt.title("Posición Final "+team+" - Tabla 2020", fontsize = 30)
+    plt.title(team+" - Tabla 2020", fontsize = 30)
     plt.xlim(0.01,19)
     plt.ylim(0,max(p_pos_abs)*1.1)
-    plt.show()
+    plt.savefig('./plots/absoluta/{}.png'.format(team), bbox_inches='tight')
+    plt.clf()
+    # plt.show()
