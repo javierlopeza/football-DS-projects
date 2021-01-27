@@ -1,3 +1,4 @@
+import datetime
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -74,29 +75,45 @@ def current_table(df, teams):
     return df_table
 
 def summary_positions(sim_poisson_local, sim_poisson_visita, N_sim, teams, df_tabla_2019, df_tabla_2020):
+    a_dict = {}
+    b_dict = {}
+    aa_dict = {}
+    bb_dict = {}
+    for team in teams:
+        #info goles a favor
+        a = sim_poisson_local[sim_poisson_local.index.get_level_values("Local") == team].reset_index().drop("Local", axis = 1).set_index("idMatch")
+        #info goles en contra
+        b = sim_poisson_visita[sim_poisson_visita.index.get_level_values("Visita") == team].reset_index().drop("Visita", axis = 1).set_index("idMatch")
+        #info partidos de visita
+        aa = sim_poisson_visita[sim_poisson_visita.index.get_level_values(0).isin(a.index.get_level_values("idMatch"))].reset_index().drop("Visita", axis = 1).set_index("idMatch")
+        bb = sim_poisson_local[sim_poisson_local.index.get_level_values(0).isin(b.index.get_level_values("idMatch"))].reset_index().drop("Local", axis = 1).set_index("idMatch")
+
+        a_dict[team] = a
+        b_dict[team] = b
+        aa_dict[team] = aa
+        bb_dict[team] = bb
+
+
     #team, n_sim, posición
     team_stats = []
     for n_sim in tqdm(range(1,N_sim+1)):
         df_table_sim = df_tabla_2020.copy()
         for team in teams:
             #info partidos de local
-            a = sim_poisson_local[sim_poisson_local.index.get_level_values("Local") == team].reset_index().drop("Local", axis = 1).set_index("idMatch")
-            b = sim_poisson_visita[sim_poisson_visita.index.get_level_values("Visita") == team].reset_index().drop("Visita", axis = 1).set_index("idMatch")
-
+            a = a_dict[team]
+            b = b_dict[team]
             #info partidos de visita
-            aa = sim_poisson_visita[sim_poisson_visita.index.get_level_values(0).isin(a.index.get_level_values("idMatch"))].reset_index().drop("Visita", axis = 1).set_index("idMatch")
-            bb = sim_poisson_local[sim_poisson_local.index.get_level_values(0).isin(b.index.get_level_values("idMatch"))].reset_index().drop("Local", axis = 1).set_index("idMatch")
-
+            aa = aa_dict[team]
+            bb = bb_dict[team]
             pts = 3*(sum(a[n_sim] > aa[n_sim])) + (sum(a[n_sim] == aa[n_sim])) + 3*(sum(b[n_sim] > bb[n_sim])) + (sum(b[n_sim] == b[n_sim]))
             gf = sum(a[n_sim])
             gc = sum(b[n_sim])
-
-            df_table_sim.loc[team, "Puntos"] = df_table_sim.loc[team, "Puntos"] + pts
-            df_table_sim.loc[team, "GF"] = df_table_sim.loc[team, "GF"] + gf
-            df_table_sim.loc[team, "GC"] = df_table_sim.loc[team, "GC"] + gc
+            df_table_sim.loc[team, "Puntos"] += pts
+            df_table_sim.loc[team, "GF"] += gf
+            df_table_sim.loc[team, "GC"] += gc
         df_table_sim["DF"] = df_table_sim.GF - df_table_sim.GC
             
-        df_table_sim.sort_values(by=["Puntos","DG","GF","GC"], inplace = True, ascending = False)
+        df_table_sim.sort_values(by=["Puntos","DG","GF","GC"], inplace = True, ascending = [False, False, False, True])
         df_table_sim["Posición"] = range(1,18+1)
             
         df_tabla_pond = tabla_pond(teams, df_tabla_2019, df_table_sim)
@@ -109,8 +126,6 @@ def summary_positions(sim_poisson_local, sim_poisson_visita, N_sim, teams, df_ta
     return df_posicion
 
 def tabla_pond(teams, df_tabla_2019, df_tabla_2020):
-    pond_19 = 0.6
-    pond_20 = 0.4
     pond_team_stats = []
     for team in teams:
         pts_2020 = df_tabla_2020.loc[team]["Puntos"]
@@ -119,13 +134,13 @@ def tabla_pond(teams, df_tabla_2019, df_tabla_2020):
             score = pts_2020/pj_2020
         else:
             pts_2019 = df_tabla_2019.loc[team]["PTS"]
-            pj_2019 = 24
+            pj_2019 = df_tabla_2019.loc[team]["PJ"]
             score = (pts_2019/pj_2019)*0.6 + (pts_2020/pj_2020)*0.4
 
-        pond_team_stats.append([team, pts_2019, pts_2020, score])
-    df_tabla_pond = pd.DataFrame(pond_team_stats, columns = ["Equipo","2019","2020","Score"])
+        pond_team_stats.append([team, score])
+    df_tabla_pond = pd.DataFrame(pond_team_stats, columns = ["Equipo","Score"])
     df_tabla_pond.sort_values(by=["Score"], ascending = False, inplace = True)
-    df_tabla_pond["Posición"] = range(1,df_tabla_pond.shape[0]+1)
+    df_tabla_pond["Posición"] = range(1,18+1)
     df_tabla_pond["Score"] = df_tabla_pond.Score.round(3)
     df_tabla_pond.set_index("Equipo", inplace = True)
     return df_tabla_pond
