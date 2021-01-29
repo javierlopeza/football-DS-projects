@@ -15,7 +15,7 @@ plt.style.use('ggplot')
 plt.rcParams["figure.figsize"] = (16,9) 
 
 
-new_sim = False
+new_sim = True
 N_sim = 5000
 
 

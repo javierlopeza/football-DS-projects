@@ -1,1014 +1,964 @@
 ,n_sim,PenPon,AntAbs,Des1,Des2,PenAbs
-0,1,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-1,3,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-2,5,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-3,8,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-4,9,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-5,24,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-6,32,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-7,36,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-8,43,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-9,48,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-10,50,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-11,54,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-12,55,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-13,60,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-14,62,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-15,66,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-16,69,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-17,82,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-18,103,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-19,110,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-20,117,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-21,122,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-22,127,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-23,128,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-24,131,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-25,138,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-26,142,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-27,149,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-28,152,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-29,163,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-30,164,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-31,165,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-32,168,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-33,172,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-34,173,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-35,175,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-36,185,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-37,189,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-38,196,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-39,197,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-40,202,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-41,204,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-42,206,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-43,207,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-44,211,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-45,221,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-46,224,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-47,236,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-48,243,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-49,245,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-50,247,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-51,251,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-52,252,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-53,258,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-54,259,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-55,262,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-56,265,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-57,271,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-58,275,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-59,276,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-60,280,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-61,286,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-62,287,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-63,289,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-64,292,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-65,293,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-66,297,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-67,299,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-68,300,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-69,305,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-70,307,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-71,313,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-72,315,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-73,320,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-74,323,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-75,327,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-76,330,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-77,334,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-78,338,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-79,351,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-80,353,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-81,356,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-82,361,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-83,369,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-84,371,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-85,376,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-86,382,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-87,385,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-88,396,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-89,397,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-90,400,Iquique,Coquimbo Unido,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-91,406,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-92,412,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-93,428,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-94,434,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-95,443,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-96,444,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-97,453,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-98,456,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-99,467,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-100,468,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-101,471,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-102,472,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-103,487,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-104,489,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-105,492,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-106,498,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-107,502,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-108,505,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-109,510,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-110,511,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-111,514,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-112,516,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-113,523,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-114,525,Universidad de Concepción,Cobresal,Audax Italiano,Iquique,Iquique
-115,530,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-116,535,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-117,538,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-118,540,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-119,541,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-120,542,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-121,548,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-122,550,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-123,555,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-124,557,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-125,558,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-126,561,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-127,570,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-128,572,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-129,582,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-130,596,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-131,598,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-132,604,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-133,605,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-134,612,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-135,617,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-136,633,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-137,634,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-138,636,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-139,644,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-140,648,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-141,651,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-142,653,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-143,657,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-144,669,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-145,676,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-146,677,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-147,678,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-148,681,Iquique,Cobresal,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-149,688,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-150,699,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-151,700,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-152,705,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-153,718,Universidad de Chile,Audax Italiano,Colo-Colo,Iquique,Iquique
-154,719,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-155,727,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-156,731,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-157,735,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-158,741,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-159,743,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-160,747,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-161,756,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-162,759,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-163,760,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-164,761,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-165,766,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-166,770,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-167,779,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-168,783,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-169,785,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-170,787,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-171,788,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-172,792,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-173,793,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-174,801,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-175,808,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-176,816,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-177,817,Iquique,Coquimbo Unido,Cobresal,Universidad de Concepción,Universidad de Concepción
-178,819,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-179,827,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-180,830,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-181,836,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-182,837,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-183,841,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-184,852,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-185,853,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-186,858,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-187,862,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-188,866,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-189,868,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-190,869,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-191,885,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-192,886,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-193,888,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-194,891,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-195,895,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-196,904,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-197,910,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-198,916,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-199,935,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-200,939,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-201,941,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-202,945,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-203,946,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-204,951,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-205,958,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-206,965,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-207,966,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-208,985,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-209,987,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-210,989,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-211,998,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-212,1002,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-213,1004,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-214,1007,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-215,1008,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-216,1010,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-217,1014,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-218,1015,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-219,1019,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-220,1022,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-221,1030,Iquique,La Serena,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-222,1032,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-223,1046,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-224,1047,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-225,1055,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-226,1058,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-227,1059,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-228,1070,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-229,1076,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-230,1085,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-231,1086,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-232,1094,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-233,1096,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-234,1098,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-235,1110,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-236,1115,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-237,1127,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-238,1140,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-239,1145,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-240,1146,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-241,1154,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-242,1161,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-243,1168,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-244,1174,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-245,1177,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-246,1189,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-247,1193,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-248,1200,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-249,1201,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-250,1203,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-251,1205,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-252,1208,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-253,1212,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-254,1215,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-255,1216,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-256,1219,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-257,1236,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-258,1244,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-259,1252,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-260,1259,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-261,1266,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-262,1268,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-263,1269,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-264,1272,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-265,1278,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-266,1279,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-267,1293,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-268,1297,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-269,1302,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-270,1309,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-271,1320,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-272,1325,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-273,1329,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-274,1347,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-275,1360,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-276,1363,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-277,1365,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-278,1369,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-279,1371,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-280,1372,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-281,1380,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-282,1387,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-283,1389,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-284,1394,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-285,1403,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-286,1423,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-287,1431,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-288,1435,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-289,1437,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-290,1441,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-291,1445,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-292,1454,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-293,1460,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-294,1470,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-295,1478,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-296,1484,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-297,1488,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-298,1489,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-299,1491,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-300,1494,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-301,1503,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-302,1504,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-303,1507,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-304,1509,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-305,1513,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-306,1514,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-307,1527,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-308,1529,Iquique,Cobresal,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-309,1537,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-310,1539,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-311,1543,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-312,1544,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-313,1556,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-314,1565,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-315,1566,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-316,1576,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-317,1577,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-318,1583,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-319,1595,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-320,1610,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-321,1611,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-322,1612,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-323,1615,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-324,1619,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-325,1625,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-326,1627,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-327,1628,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-328,1631,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-329,1632,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-330,1633,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-331,1639,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-332,1642,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-333,1648,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-334,1651,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-335,1653,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-336,1659,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-337,1665,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-338,1671,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-339,1673,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-340,1675,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-341,1678,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-342,1681,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-343,1683,Iquique,Coquimbo Unido,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-344,1701,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-345,1702,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-346,1703,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-347,1706,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-348,1708,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-349,1713,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-350,1716,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-351,1722,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-352,1726,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-353,1728,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-354,1733,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-355,1740,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-356,1741,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-357,1742,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-358,1746,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-359,1752,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-360,1754,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-361,1756,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-362,1759,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-363,1762,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-364,1769,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-365,1771,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-366,1778,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-367,1779,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-368,1786,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-369,1794,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-370,1804,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-371,1823,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-372,1827,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-373,1828,Iquique,La Serena,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-374,1833,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-375,1834,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-376,1842,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-377,1843,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-378,1851,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-379,1853,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-380,1856,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-381,1858,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-382,1860,Iquique,La Serena,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-383,1862,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-384,1869,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-385,1879,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-386,1882,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-387,1889,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-388,1890,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-389,1891,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-390,1902,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-391,1905,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-392,1907,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-393,1908,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-394,1910,Universidad de Concepción,Everton,Coquimbo Unido,Iquique,Iquique
-395,1913,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-396,1914,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-397,1915,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-398,1918,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-399,1922,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-400,1948,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-401,1951,Iquique,O'Higgins,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-402,1954,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-403,1958,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-404,1961,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-405,1967,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-406,1970,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-407,1973,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-408,1974,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-409,1976,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-410,1979,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-411,1981,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-412,1983,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-413,1997,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-414,1999,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-415,2002,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-416,2003,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-417,2008,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-418,2011,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-419,2019,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-420,2023,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-421,2029,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-422,2032,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-423,2034,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-424,2051,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-425,2055,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-426,2061,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-427,2063,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-428,2066,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-429,2073,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-430,2076,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-431,2081,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-432,2083,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-433,2103,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-434,2110,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-435,2113,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-436,2114,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-437,2117,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-438,2123,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-439,2129,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-440,2133,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-441,2143,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-442,2151,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-443,2153,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-444,2154,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-445,2166,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-446,2174,Universidad de Chile,Cobresal,Coquimbo Unido,Iquique,Iquique
-447,2176,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-448,2180,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-449,2181,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-450,2186,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-451,2193,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-452,2212,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-453,2213,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-454,2215,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-455,2220,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-456,2222,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-457,2227,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-458,2232,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-459,2237,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-460,2239,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-461,2249,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-462,2251,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-463,2266,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-464,2268,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-465,2269,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-466,2281,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-467,2287,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-468,2288,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-469,2294,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-470,2296,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-471,2306,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-472,2307,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-473,2311,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-474,2318,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-475,2321,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-476,2329,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-477,2334,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-478,2337,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-479,2341,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-480,2346,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-481,2348,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-482,2354,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-483,2360,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-484,2364,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-485,2368,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-486,2370,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-487,2373,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-488,2378,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-489,2379,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-490,2381,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-491,2382,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-492,2383,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-493,2385,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-494,2389,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-495,2390,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-496,2392,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-497,2402,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-498,2403,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-499,2405,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-500,2423,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-501,2424,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-502,2426,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-503,2427,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-504,2433,Iquique,O'Higgins,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-505,2434,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-506,2440,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-507,2442,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-508,2444,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-509,2446,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-510,2449,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-511,2451,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-512,2452,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-513,2455,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-514,2470,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-515,2479,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-516,2480,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-517,2483,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-518,2486,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-519,2487,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-520,2492,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-521,2493,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-522,2499,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-523,2508,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-524,2521,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-525,2523,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-526,2527,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-527,2535,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-528,2536,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-529,2539,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-530,2549,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-531,2550,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-532,2555,Iquique,Cobresal,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-533,2556,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-534,2566,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-535,2574,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-536,2586,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-537,2593,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-538,2596,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-539,2598,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-540,2606,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-541,2609,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-542,2611,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-543,2616,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-544,2620,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-545,2628,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-546,2629,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-547,2630,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-548,2631,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-549,2655,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-550,2659,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-551,2669,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-552,2670,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-553,2672,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-554,2673,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-555,2674,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-556,2676,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-557,2684,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-558,2688,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-559,2689,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-560,2700,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-561,2701,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-562,2702,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-563,2709,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-564,2711,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-565,2721,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-566,2725,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-567,2737,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-568,2747,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-569,2751,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-570,2753,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-571,2758,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-572,2760,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-573,2761,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-574,2766,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-575,2772,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
-576,2780,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-577,2787,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-578,2792,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-579,2801,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-580,2815,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-581,2823,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
-582,2824,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-583,2830,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-584,2831,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
-585,2838,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-586,2839,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-587,2840,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-588,2843,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-589,2845,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-590,2848,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-591,2849,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-592,2851,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-593,2855,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-594,2865,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-595,2867,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-596,2873,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-597,2878,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-598,2900,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-599,2901,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-600,2904,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-601,2907,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-602,2913,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-603,2922,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-604,2924,Universidad de Concepción,Curicó Unido,Colo-Colo,Iquique,Iquique
-605,2926,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-606,2939,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-607,2946,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-608,2964,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-609,2966,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-610,2973,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-611,2981,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-612,2982,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-613,2989,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-614,2997,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-615,3005,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-616,3009,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-617,3013,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-618,3015,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-619,3016,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-620,3020,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-621,3027,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-622,3029,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-623,3034,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-624,3051,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-625,3056,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-626,3061,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-627,3062,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-628,3066,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-629,3069,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-630,3071,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-631,3076,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-632,3088,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-633,3091,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-634,3095,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-635,3096,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-636,3098,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-637,3101,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-638,3114,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-639,3115,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-640,3119,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-641,3128,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-642,3138,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-643,3144,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-644,3146,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-645,3147,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-646,3165,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-647,3168,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-648,3175,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-649,3183,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-650,3190,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-651,3196,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-652,3207,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-653,3212,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-654,3215,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-655,3216,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-656,3219,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-657,3221,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-658,3223,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-659,3224,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-660,3225,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-661,3226,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-662,3228,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-663,3234,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-664,3240,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-665,3241,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-666,3243,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-667,3247,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-668,3251,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-669,3258,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-670,3260,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-671,3274,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
-672,3277,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-673,3281,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-674,3282,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-675,3300,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-676,3318,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-677,3319,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-678,3320,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-679,3323,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-680,3326,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-681,3327,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-682,3342,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-683,3344,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-684,3351,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-685,3352,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-686,3365,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-687,3368,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-688,3373,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-689,3380,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-690,3383,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-691,3390,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-692,3404,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-693,3410,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-694,3411,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-695,3414,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-696,3426,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-697,3429,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-698,3435,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-699,3448,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-700,3450,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-701,3459,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-702,3460,Iquique,Cobresal,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-703,3462,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-704,3466,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-705,3478,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-706,3482,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-707,3486,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-708,3487,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-709,3494,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-710,3498,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-711,3499,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-712,3504,Iquique,Coquimbo Unido,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-713,3509,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-714,3510,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-715,3511,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-716,3517,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-717,3525,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-718,3526,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-719,3527,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-720,3547,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-721,3565,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-722,3570,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-723,3573,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-724,3585,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-725,3597,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-726,3602,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-727,3608,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-728,3614,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-729,3629,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-730,3631,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-731,3632,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-732,3637,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-733,3647,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-734,3656,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-735,3662,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-736,3665,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-737,3667,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-738,3672,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-739,3676,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
-740,3678,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-741,3679,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-742,3683,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-743,3684,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-744,3685,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-745,3686,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-746,3691,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-747,3704,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-748,3705,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-749,3712,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-750,3721,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-751,3722,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-752,3729,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-753,3734,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-754,3737,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-755,3738,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-756,3742,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-757,3748,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-758,3749,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-759,3765,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-760,3767,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-761,3769,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-762,3770,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-763,3800,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-764,3831,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-765,3832,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-766,3833,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-767,3843,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-768,3847,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-769,3848,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-770,3849,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-771,3857,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-772,3865,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-773,3867,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-774,3869,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-775,3872,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-776,3881,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-777,3895,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-778,3898,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-779,3901,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-780,3903,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-781,3905,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-782,3906,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-783,3915,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-784,3920,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-785,3922,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-786,3925,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-787,3933,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-788,3936,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-789,3940,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-790,3941,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-791,3946,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-792,3949,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-793,3970,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-794,3978,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-795,3981,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-796,3985,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-797,4000,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-798,4009,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-799,4010,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-800,4012,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-801,4014,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-802,4017,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-803,4019,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-804,4032,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-805,4043,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-806,4044,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-807,4046,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-808,4049,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-809,4054,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-810,4060,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-811,4063,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-812,4066,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-813,4067,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-814,4068,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-815,4072,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-816,4073,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-817,4074,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-818,4078,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-819,4085,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-820,4093,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-821,4103,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-822,4104,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-823,4114,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-824,4119,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-825,4120,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-826,4129,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-827,4130,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-828,4143,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-829,4146,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-830,4158,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-831,4159,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-832,4160,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-833,4161,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-834,4162,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-835,4166,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-836,4170,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-837,4174,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-838,4175,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-839,4176,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-840,4181,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-841,4188,Iquique,Iquique,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-842,4192,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-843,4196,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-844,4199,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-845,4201,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-846,4206,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-847,4215,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-848,4232,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-849,4234,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-850,4237,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-851,4240,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-852,4246,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-853,4247,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-854,4249,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-855,4255,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-856,4256,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-857,4257,Iquique,Iquique,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-858,4258,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-859,4259,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-860,4260,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-861,4262,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-862,4263,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-863,4264,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-864,4266,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-865,4269,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-866,4273,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-867,4277,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-868,4278,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-869,4280,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-870,4281,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-871,4283,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-872,4286,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-873,4288,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-874,4292,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-875,4293,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-876,4300,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-877,4301,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-878,4304,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-879,4309,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-880,4310,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-881,4316,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-882,4324,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-883,4325,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-884,4331,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-885,4332,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
-886,4339,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-887,4340,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-888,4351,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-889,4354,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-890,4355,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-891,4368,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-892,4376,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-893,4384,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-894,4388,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-895,4393,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-896,4396,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-897,4402,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-898,4403,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-899,4405,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-900,4408,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-901,4421,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-902,4449,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
-903,4455,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-904,4460,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-905,4462,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-906,4470,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-907,4476,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
-908,4484,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-909,4492,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-910,4501,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-911,4504,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-912,4511,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-913,4515,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-914,4516,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-915,4517,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
-916,4518,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-917,4521,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-918,4522,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-919,4523,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-920,4525,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-921,4528,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-922,4539,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-923,4540,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-924,4544,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-925,4548,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-926,4549,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
-927,4551,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-928,4558,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-929,4559,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-930,4562,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-931,4563,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-932,4566,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-933,4568,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-934,4590,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-935,4591,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-936,4592,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-937,4595,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-938,4605,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-939,4606,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-940,4613,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-941,4615,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-942,4627,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-943,4630,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-944,4651,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-945,4654,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-946,4656,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-947,4660,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-948,4662,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-949,4668,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-950,4671,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-951,4672,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-952,4675,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-953,4683,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-954,4687,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-955,4688,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-956,4690,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-957,4692,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-958,4693,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
-959,4694,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-960,4702,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-961,4705,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
-962,4716,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-963,4725,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
-964,4728,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-965,4730,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-966,4739,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-967,4741,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-968,4768,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-969,4769,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-970,4771,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
-971,4778,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-972,4780,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-973,4782,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-974,4788,Iquique,Cobresal,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-975,4790,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-976,4794,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-977,4795,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-978,4796,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-979,4800,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-980,4804,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-981,4806,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-982,4811,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-983,4814,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-984,4820,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-985,4825,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-986,4828,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-987,4829,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-988,4837,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-989,4838,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-990,4843,Universidad de Concepción,O'Higgins,Colo-Colo,Iquique,Iquique
-991,4858,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
-992,4864,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-993,4866,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-994,4867,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-995,4870,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-996,4872,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-997,4882,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
-998,4883,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-999,4886,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-1000,4887,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-1001,4890,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
-1002,4894,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-1003,4899,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-1004,4909,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
-1005,4920,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-1006,4932,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-1007,4941,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
-1008,4943,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
-1009,4960,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-1010,4961,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
-1011,4985,Iquique,Coquimbo Unido,Audax Italiano,Universidad de Concepción,Universidad de Concepción
-1012,4986,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+0,1,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+1,7,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+2,9,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+3,17,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+4,24,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+5,32,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+6,36,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+7,45,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+8,47,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+9,56,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+10,58,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+11,59,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+12,62,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+13,63,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+14,64,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+15,66,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+16,73,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+17,77,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+18,78,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+19,84,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+20,85,Universidad de Chile,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+21,91,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+22,96,Universidad de Chile,Audax Italiano,Colo-Colo,Iquique,Iquique
+23,105,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+24,107,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+25,108,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+26,113,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+27,119,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+28,122,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+29,123,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+30,126,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+31,132,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+32,138,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+33,150,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+34,160,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+35,164,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+36,166,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+37,168,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+38,173,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+39,174,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+40,178,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+41,183,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+42,184,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+43,185,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+44,193,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+45,197,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+46,200,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+47,209,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+48,211,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+49,212,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+50,215,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+51,217,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+52,218,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+53,222,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+54,226,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+55,238,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+56,241,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+57,253,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+58,254,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+59,257,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+60,266,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+61,271,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+62,290,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+63,294,Universidad de Chile,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+64,295,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+65,301,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+66,302,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+67,304,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+68,311,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+69,335,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+70,336,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+71,345,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+72,350,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+73,358,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+74,360,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+75,376,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+76,377,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+77,386,Universidad de Chile,La Serena,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+78,392,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+79,393,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+80,395,Universidad de Chile,La Serena,Colo-Colo,Iquique,Iquique
+81,396,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+82,397,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+83,401,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+84,413,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+85,415,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+86,417,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+87,419,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+88,420,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+89,428,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+90,433,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+91,441,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+92,451,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+93,455,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+94,456,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+95,458,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+96,461,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
+97,464,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+98,466,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+99,480,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+100,482,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+101,504,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+102,513,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+103,519,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+104,530,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+105,537,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+106,543,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+107,545,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+108,546,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+109,547,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+110,550,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+111,552,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+112,555,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+113,556,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+114,559,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+115,561,Universidad de Chile,La Serena,Colo-Colo,Iquique,Iquique
+116,571,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+117,574,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+118,576,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+119,579,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+120,580,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+121,581,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+122,586,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+123,593,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+124,598,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+125,602,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+126,606,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+127,607,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+128,608,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+129,636,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+130,640,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+131,641,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+132,648,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+133,652,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+134,656,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+135,674,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+136,686,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+137,688,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+138,699,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+139,706,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+140,713,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+141,715,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+142,722,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+143,724,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+144,727,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+145,730,Iquique,La Serena,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+146,738,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+147,743,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+148,751,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+149,756,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+150,759,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+151,761,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+152,763,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+153,764,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+154,766,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+155,770,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+156,771,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+157,773,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+158,775,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+159,777,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+160,780,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+161,783,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+162,792,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+163,793,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+164,797,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+165,799,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+166,805,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+167,809,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+168,815,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+169,818,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+170,821,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+171,854,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+172,860,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+173,861,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+174,866,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+175,874,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+176,879,Universidad de Chile,Audax Italiano,Colo-Colo,Iquique,Iquique
+177,883,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+178,887,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+179,901,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+180,906,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+181,915,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+182,927,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+183,932,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+184,934,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
+185,937,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+186,950,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+187,956,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+188,957,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+189,961,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+190,962,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+191,963,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+192,965,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+193,966,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+194,967,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+195,973,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+196,974,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+197,977,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+198,981,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+199,984,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+200,992,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+201,994,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+202,995,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+203,998,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+204,999,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+205,1002,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+206,1005,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+207,1009,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+208,1012,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+209,1020,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+210,1035,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+211,1040,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+212,1042,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+213,1060,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+214,1072,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+215,1073,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+216,1074,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+217,1076,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+218,1078,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+219,1084,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+220,1086,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+221,1095,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+222,1097,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+223,1112,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+224,1114,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+225,1130,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+226,1132,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+227,1138,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+228,1145,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+229,1153,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+230,1160,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+231,1170,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+232,1182,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+233,1185,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+234,1188,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+235,1190,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+236,1193,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+237,1203,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+238,1211,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+239,1220,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+240,1228,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+241,1232,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+242,1236,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+243,1238,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+244,1244,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+245,1251,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+246,1253,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+247,1263,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+248,1275,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+249,1276,Universidad de Chile,Cobresal,Colo-Colo,Iquique,Iquique
+250,1283,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+251,1289,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+252,1298,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+253,1299,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+254,1300,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
+255,1311,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+256,1318,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+257,1319,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+258,1324,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+259,1326,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+260,1331,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+261,1333,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+262,1335,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+263,1340,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+264,1351,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+265,1355,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+266,1362,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+267,1368,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+268,1384,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+269,1387,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+270,1401,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+271,1402,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+272,1407,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+273,1411,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+274,1417,Universidad de Concepción,Coquimbo Unido,La Serena,Iquique,Iquique
+275,1426,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+276,1428,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+277,1432,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+278,1447,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+279,1450,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+280,1459,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+281,1462,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+282,1466,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+283,1474,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+284,1479,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+285,1482,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+286,1496,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+287,1504,Iquique,Iquique,Audax Italiano,Universidad de Concepción,Universidad de Concepción
+288,1507,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+289,1511,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+290,1512,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+291,1517,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+292,1519,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+293,1525,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+294,1529,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+295,1530,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+296,1532,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+297,1540,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+298,1542,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+299,1543,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+300,1545,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+301,1563,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+302,1565,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+303,1571,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+304,1578,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+305,1586,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+306,1589,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+307,1590,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+308,1600,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+309,1606,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+310,1607,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+311,1609,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+312,1611,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+313,1612,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+314,1616,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+315,1618,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+316,1622,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+317,1629,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+318,1634,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+319,1639,Iquique,Coquimbo Unido,Audax Italiano,Universidad de Concepción,Universidad de Concepción
+320,1644,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+321,1646,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+322,1649,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+323,1650,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+324,1654,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+325,1659,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+326,1661,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+327,1663,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+328,1669,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+329,1674,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+330,1676,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+331,1682,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+332,1683,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+333,1686,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+334,1688,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+335,1691,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+336,1695,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+337,1711,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+338,1722,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+339,1726,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+340,1728,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+341,1739,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
+342,1760,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+343,1767,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+344,1769,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+345,1773,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+346,1784,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+347,1786,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+348,1787,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+349,1789,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+350,1791,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+351,1798,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+352,1799,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+353,1800,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+354,1812,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+355,1828,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+356,1837,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+357,1847,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+358,1850,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+359,1851,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+360,1856,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+361,1858,Universidad de Chile,La Serena,Colo-Colo,Iquique,Iquique
+362,1861,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+363,1865,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+364,1872,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+365,1875,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+366,1876,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+367,1878,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+368,1879,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+369,1890,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+370,1906,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+371,1919,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+372,1926,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+373,1929,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+374,1934,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
+375,1935,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+376,1944,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+377,1952,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+378,1954,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+379,1955,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+380,1964,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+381,1965,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+382,1974,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+383,1985,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+384,1989,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+385,1990,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+386,1991,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+387,1994,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+388,2006,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+389,2008,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+390,2044,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+391,2048,Universidad de Chile,O'Higgins,Coquimbo Unido,Iquique,Iquique
+392,2056,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+393,2058,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+394,2070,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+395,2073,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+396,2074,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+397,2075,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+398,2077,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+399,2088,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+400,2089,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+401,2090,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+402,2092,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+403,2093,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+404,2103,Universidad de Chile,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+405,2109,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+406,2110,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+407,2117,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+408,2118,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+409,2127,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+410,2130,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+411,2134,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+412,2137,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+413,2139,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+414,2140,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+415,2146,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+416,2147,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+417,2149,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+418,2159,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+419,2172,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+420,2179,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+421,2189,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+422,2195,Iquique,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
+423,2203,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+424,2216,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+425,2221,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+426,2234,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+427,2239,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+428,2247,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+429,2250,Iquique,Audax Italiano,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+430,2256,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+431,2259,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+432,2262,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+433,2265,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+434,2279,Universidad de Chile,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+435,2289,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+436,2294,Universidad de Chile,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+437,2298,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+438,2301,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+439,2302,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+440,2307,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+441,2310,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+442,2311,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+443,2321,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+444,2323,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+445,2325,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+446,2329,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+447,2337,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+448,2338,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+449,2340,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+450,2341,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+451,2356,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+452,2369,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+453,2370,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+454,2373,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+455,2374,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+456,2401,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+457,2403,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
+458,2419,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+459,2421,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+460,2422,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+461,2428,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+462,2432,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+463,2434,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+464,2435,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+465,2436,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+466,2437,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+467,2444,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+468,2460,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+469,2464,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+470,2468,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+471,2473,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+472,2474,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+473,2483,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+474,2489,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+475,2501,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+476,2503,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+477,2504,Universidad de Concepción,Cobresal,Audax Italiano,Iquique,Iquique
+478,2511,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+479,2512,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+480,2523,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+481,2527,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+482,2532,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+483,2537,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+484,2538,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+485,2540,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+486,2545,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+487,2548,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+488,2550,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+489,2554,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+490,2558,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+491,2566,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+492,2573,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+493,2588,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+494,2591,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+495,2595,Iquique,Iquique,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+496,2601,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+497,2611,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+498,2612,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+499,2613,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+500,2615,Universidad de Concepción,O'Higgins,Colo-Colo,Iquique,Iquique
+501,2617,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+502,2622,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+503,2625,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+504,2627,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+505,2636,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+506,2644,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+507,2652,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+508,2653,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+509,2658,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+510,2662,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+511,2665,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+512,2668,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+513,2675,Universidad de Chile,Everton,Coquimbo Unido,Iquique,Iquique
+514,2678,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+515,2679,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+516,2687,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+517,2692,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+518,2693,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+519,2695,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+520,2696,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+521,2697,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
+522,2702,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+523,2704,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+524,2705,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+525,2718,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+526,2721,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+527,2722,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+528,2723,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+529,2728,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+530,2732,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+531,2735,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+532,2740,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+533,2755,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+534,2760,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+535,2767,Universidad de Concepción,Everton,Coquimbo Unido,Iquique,Iquique
+536,2768,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+537,2771,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+538,2793,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+539,2796,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+540,2807,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+541,2811,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+542,2814,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+543,2820,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+544,2821,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+545,2824,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+546,2826,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+547,2830,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+548,2835,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+549,2836,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+550,2838,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+551,2842,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+552,2850,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+553,2857,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+554,2867,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+555,2874,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+556,2876,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+557,2884,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+558,2894,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+559,2896,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+560,2904,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+561,2911,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+562,2913,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+563,2916,Universidad de Concepción,Cobresal,Audax Italiano,Iquique,Iquique
+564,2922,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+565,2936,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+566,2942,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+567,2945,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+568,2970,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+569,2980,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+570,2985,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+571,2987,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+572,2988,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+573,2993,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+574,3001,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+575,3011,Iquique,Cobresal,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+576,3015,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+577,3021,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+578,3027,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+579,3034,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+580,3035,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+581,3037,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+582,3048,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+583,3050,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+584,3054,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+585,3055,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+586,3058,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+587,3062,Iquique,La Serena,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+588,3064,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+589,3074,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+590,3081,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+591,3086,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+592,3089,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+593,3091,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+594,3092,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+595,3095,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+596,3097,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+597,3099,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+598,3103,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+599,3112,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+600,3119,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+601,3129,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+602,3134,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+603,3135,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
+604,3136,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+605,3137,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+606,3151,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+607,3154,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+608,3161,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+609,3164,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+610,3171,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+611,3176,Universidad de Chile,Colo-Colo,Audax Italiano,Iquique,Iquique
+612,3179,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+613,3182,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+614,3188,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+615,3189,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+616,3190,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+617,3193,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+618,3195,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+619,3204,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+620,3224,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+621,3226,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+622,3227,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+623,3228,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+624,3231,Universidad de Concepción,Everton,Colo-Colo,Iquique,Iquique
+625,3232,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+626,3242,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+627,3246,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+628,3247,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+629,3248,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+630,3263,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+631,3265,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+632,3268,Universidad de Chile,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+633,3270,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+634,3274,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+635,3281,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+636,3289,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+637,3292,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+638,3293,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+639,3306,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+640,3312,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+641,3314,Iquique,Iquique,Audax Italiano,Universidad de Concepción,Universidad de Concepción
+642,3319,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+643,3323,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+644,3326,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+645,3329,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+646,3330,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+647,3331,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+648,3332,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+649,3342,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+650,3346,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+651,3356,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+652,3361,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+653,3365,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+654,3366,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+655,3370,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+656,3381,Universidad de Chile,Audax Italiano,Colo-Colo,Iquique,Iquique
+657,3383,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+658,3387,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+659,3392,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+660,3400,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+661,3401,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+662,3402,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+663,3409,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+664,3418,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+665,3420,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+666,3422,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+667,3423,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+668,3427,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+669,3428,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+670,3430,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+671,3443,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+672,3445,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+673,3449,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+674,3463,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+675,3487,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+676,3499,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+677,3501,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+678,3509,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+679,3511,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+680,3521,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+681,3527,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+682,3530,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+683,3532,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+684,3534,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+685,3536,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+686,3538,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+687,3539,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+688,3546,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+689,3556,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+690,3567,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+691,3572,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+692,3575,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+693,3576,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+694,3580,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+695,3583,Universidad de Concepción,O'Higgins,Coquimbo Unido,Iquique,Iquique
+696,3589,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+697,3590,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+698,3593,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+699,3594,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+700,3620,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+701,3638,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+702,3642,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+703,3647,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+704,3650,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+705,3655,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+706,3656,Universidad de Chile,Audax Italiano,Colo-Colo,Iquique,Iquique
+707,3660,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+708,3664,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+709,3673,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+710,3674,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+711,3675,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+712,3677,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+713,3678,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+714,3687,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+715,3694,Iquique,La Serena,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+716,3699,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+717,3701,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+718,3707,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+719,3712,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+720,3732,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+721,3743,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+722,3744,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+723,3749,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+724,3752,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+725,3760,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+726,3763,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+727,3765,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+728,3771,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+729,3779,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+730,3781,Universidad de Chile,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+731,3785,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+732,3786,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+733,3788,Universidad de Chile,Universidad de Chile,Colo-Colo,Iquique,Iquique
+734,3795,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+735,3799,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+736,3820,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+737,3836,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+738,3846,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+739,3852,Universidad de Chile,Colo-Colo,Audax Italiano,Universidad de Concepción,Universidad de Concepción
+740,3855,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+741,3863,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+742,3889,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+743,3892,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+744,3900,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+745,3904,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+746,3905,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+747,3911,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+748,3924,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+749,3928,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+750,3934,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+751,3945,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+752,3951,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+753,3952,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+754,3962,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
+755,3967,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+756,3968,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+757,3972,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+758,3980,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+759,3982,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+760,3993,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+761,3995,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+762,4020,Universidad de Concepción,Colo-Colo,Audax Italiano,Iquique,Iquique
+763,4022,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+764,4026,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+765,4047,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+766,4048,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+767,4049,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+768,4051,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+769,4059,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+770,4060,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+771,4067,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+772,4069,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+773,4071,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+774,4078,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+775,4085,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+776,4096,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+777,4100,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+778,4104,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+779,4105,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+780,4115,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+781,4116,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+782,4119,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+783,4130,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+784,4138,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+785,4142,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+786,4147,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+787,4160,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+788,4170,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+789,4174,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+790,4179,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+791,4180,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+792,4186,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+793,4201,Universidad de Concepción,Coquimbo Unido,Audax Italiano,Iquique,Iquique
+794,4206,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+795,4207,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+796,4209,Iquique,Cobresal,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+797,4210,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+798,4223,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+799,4239,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+800,4244,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+801,4254,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+802,4261,Universidad de Chile,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+803,4269,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+804,4271,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+805,4278,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+806,4281,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+807,4282,Universidad de Concepción,Santiago Wanderers,Coquimbo Unido,Iquique,Iquique
+808,4283,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+809,4286,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+810,4289,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+811,4297,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+812,4301,Universidad de Chile,La Serena,Coquimbo Unido,Iquique,Iquique
+813,4303,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+814,4305,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+815,4315,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+816,4321,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+817,4333,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+818,4336,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+819,4338,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+820,4339,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+821,4340,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+822,4343,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+823,4351,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+824,4358,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+825,4361,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+826,4362,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+827,4368,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+828,4374,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+829,4376,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+830,4378,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+831,4382,Iquique,Cobresal,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+832,4384,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+833,4386,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+834,4396,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+835,4409,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+836,4412,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+837,4415,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+838,4416,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+839,4417,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+840,4423,Universidad de Chile,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+841,4427,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+842,4429,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+843,4433,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+844,4435,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+845,4440,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+846,4442,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+847,4455,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+848,4456,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+849,4463,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+850,4466,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+851,4467,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+852,4468,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+853,4469,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+854,4473,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+855,4474,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+856,4475,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+857,4480,Universidad de Chile,La Serena,Colo-Colo,Iquique,Iquique
+858,4483,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+859,4485,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+860,4491,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+861,4494,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+862,4503,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+863,4507,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+864,4513,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+865,4515,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+866,4520,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+867,4524,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+868,4534,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+869,4536,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+870,4537,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+871,4539,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+872,4540,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+873,4544,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+874,4546,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+875,4547,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+876,4551,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+877,4553,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+878,4556,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+879,4558,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+880,4559,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+881,4563,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+882,4564,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+883,4569,Universidad de Concepción,Universidad de Concepción,Coquimbo Unido,Iquique,Iquique
+884,4573,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+885,4578,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+886,4579,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+887,4588,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+888,4594,Universidad de Chile,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+889,4597,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+890,4604,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+891,4606,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+892,4610,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+893,4614,Iquique,Colo-Colo,Coquimbo Unido,Universidad de Concepción,Universidad de Concepción
+894,4617,Universidad de Concepción,Santiago Wanderers,Colo-Colo,Iquique,Iquique
+895,4620,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+896,4623,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+897,4624,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+898,4625,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+899,4631,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+900,4632,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+901,4635,Iquique,Iquique,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+902,4637,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+903,4646,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+904,4657,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+905,4667,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+906,4668,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+907,4669,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+908,4686,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+909,4687,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+910,4697,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+911,4715,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+912,4719,Iquique,Audax Italiano,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+913,4728,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+914,4729,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+915,4733,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+916,4734,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+917,4741,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+918,4742,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+919,4748,Universidad de Concepción,Universidad de Concepción,Colo-Colo,Iquique,Iquique
+920,4757,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+921,4760,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+922,4784,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+923,4786,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+924,4787,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+925,4788,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+926,4792,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+927,4795,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+928,4811,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+929,4820,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+930,4824,Universidad de Chile,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+931,4826,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+932,4834,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+933,4847,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+934,4849,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+935,4852,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+936,4861,Universidad de Concepción,Audax Italiano,Coquimbo Unido,Iquique,Iquique
+937,4875,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+938,4895,Universidad de Concepción,La Serena,Colo-Colo,Iquique,Iquique
+939,4902,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+940,4905,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+941,4908,Universidad de Concepción,Cobresal,Colo-Colo,Iquique,Iquique
+942,4911,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+943,4912,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+944,4916,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+945,4921,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+946,4926,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+947,4927,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+948,4929,Iquique,La Serena,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+949,4933,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+950,4937,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+951,4947,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+952,4949,Iquique,Coquimbo Unido,Colo-Colo,Universidad de Concepción,Universidad de Concepción
+953,4950,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+954,4954,Universidad de Concepción,La Serena,Coquimbo Unido,Iquique,Iquique
+955,4955,Universidad de Concepción,Audax Italiano,Colo-Colo,Iquique,Iquique
+956,4957,Universidad de Concepción,Cobresal,Coquimbo Unido,Iquique,Iquique
+957,4960,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+958,4961,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+959,4962,Universidad de Concepción,Coquimbo Unido,Colo-Colo,Iquique,Iquique
+960,4967,Universidad de Chile,Cobresal,Coquimbo Unido,Iquique,Iquique
+961,4986,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
+962,4992,Universidad de Concepción,Colo-Colo,Coquimbo Unido,Iquique,Iquique
