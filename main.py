@@ -15,7 +15,7 @@ plt.style.use('ggplot')
 plt.rcParams["figure.figsize"] = (16,9) 
 
 
-new_sim = True
+new_sim = False
 N_sim = 5000
 
 
@@ -89,6 +89,7 @@ df_cc_uch.head()
 
 print("Probabilidades de descenso")
 print(summary_reasons)
+summary_reasons.to_csv("descenso.csv")
 
 print("Exportando probabilidades por equipo")
 for team in teams:
