@@ -1,11 +1,10 @@
 ,1,2,3,Prob Desc
-Iquique,0.2139,0.6499,0.0838,0.9476
-Coquimbo Unido,0.7412,0.0,0.0761,0.8172999999999999
-Universidad de Concepción,0.0042,0.3411,0.326,0.6713
-Colo-Colo,0.0266,0.0,0.1777,0.20429999999999998
-Audax Italiano,0.0108,0.0,0.1008,0.1116
-Universidad de Chile,0.0,0.0073,0.0915,0.0988
-La Serena,0.0033,0.0,0.0895,0.0928
-Curicó Unido,0.0,0.0017,0.0529,0.0546
-Cobresal,0.0,0.0,0.0011,0.0011
-Everton,0.0,0.0,0.0006,0.0006
+Iquique,0.265,0.696,0.026,0.987
+Coquimbo Unido,0.69,0.0,0.087,0.7769999999999999
+Universidad de Concepción,0.001,0.3,0.37,0.671
+Colo-Colo,0.031,0.0,0.2,0.231
+Audax Italiano,0.01,0.0,0.098,0.108
+Curicó Unido,0.0,0.002,0.077,0.079
+Universidad de Chile,0.0,0.002,0.076,0.078
+La Serena,0.003,0.0,0.064,0.067
+Everton,0.0,0.0,0.002,0.002
