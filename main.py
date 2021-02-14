@@ -16,7 +16,7 @@ plt.rcParams["figure.figsize"] = (16,9)
 
 
 new_sim = True
-N_sim = 10000
+N_sim = 1000
 
 
 df = pd.read_csv("matches_chile.csv")

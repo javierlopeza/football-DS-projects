@@ -239,7 +239,7 @@ Fecha,Local,Visita,GL,GV,Jugado
 27,Universidad Católica,Huachipato,3,0,1
 27,Unión La Calera,Santiago Wanderers,3,0,1
 27,Antofagasta,Colo-Colo,0,1,1
-27,Universidad de Chile,Universidad de Concepción,2,2,1
+27,Universidad de Chile,Universidad de Concepción,2,0,1
 27,Audax Italiano,Unión Española,2,2,1
 27,Coquimbo Unido,Cobresal,0,1,1
 28,Unión Española,Coquimbo Unido,0,1,1
@@ -254,7 +254,7 @@ Fecha,Local,Visita,GL,GV,Jugado
 29,O'Higgins,Iquique,2,2,1
 29,Unión La Calera,Universidad de Concepción,1,2,1
 29,Palestino,Unión Española,2,2,1
-29,Coquimbo Unido,Universidad de Chile,0,0,1
+29,Coquimbo Unido,Universidad de Chile,0,1,1
 29,Antofagasta,La Serena,2,2,1
 29,Universidad Católica,Curicó Unido,1,1,1
 29,Santiago Wanderers,Cobresal,1,0,1
@@ -283,25 +283,25 @@ Fecha,Local,Visita,GL,GV,Jugado
 32,O'Higgins,Audax Italiano,0,0,1
 32,Everton,Palestino,1,3,1
 32,Universidad de Concepción,Coquimbo Unido,2,1,1
-32,Cobresal,Huachipato,,,0
+32,Cobresal,Huachipato,2,1,1
 32,Iquique,Colo-Colo,0,0,1
 32,Curicó Unido,Santiago Wanderers,1,3,1
 32,La Serena,Universidad Católica,1,2,1
-33,Huachipato,Palestino,,,0
-33,Unión Española,La Serena,,,0
-33,Curicó Unido,Universidad de Chile,,,0
-33,Antofagasta,O'Higgins,,,0
-33,Universidad Católica,Unión La Calera,,,0
-33,Audax Italiano,Iquique,,,0
-33,Santiago Wanderers,Universidad de Concepción,,,0
-33,Coquimbo Unido,Everton,,,0
-33,Colo-Colo,Cobresal,,,0
+33,Huachipato,Palestino,1,0,1
+33,Unión Española,La Serena,1,1,1
+33,Curicó Unido,Universidad de Chile,0,0,1
+33,Antofagasta,O'Higgins,1,0,1
+33,Universidad Católica,Unión La Calera,0,0,1
+33,Audax Italiano,Iquique,1,1,1
+33,Santiago Wanderers,Universidad de Concepción,1,1,1
+33,Coquimbo Unido,Everton,3,0,1
+33,Colo-Colo,Cobresal,0,0,1
 34,Iquique,Santiago Wanderers,,,0
-34,Universidad de Concepción,Universidad Católica,,,0
-34,Unión La Calera,Curicó Unido,,,0
+34,Universidad de Concepción,Universidad Católica,1,2,1
+34,Unión La Calera,Curicó Unido,2,3,1
 34,La Serena,Audax Italiano,,,0
-34,Universidad de Chile,Antofagasta,,,0
-34,Everton,Huachipato,,,0
+34,Universidad de Chile,Antofagasta,3,1,1
+34,Everton,Huachipato,1,0,1
 34,Palestino,Coquimbo Unido,,,0
 34,O'Higgins,Colo-Colo,,,0
 34,Cobresal,Unión Española,,,0
